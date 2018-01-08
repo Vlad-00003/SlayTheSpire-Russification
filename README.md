@@ -52,7 +52,7 @@
 		
 	Draw pile:
 	
-	  :white_check_mark: Колода
+	  :negative_squared_cross_mark:Колода
 		
 	  :negative_squared_cross_mark:Остаткии колоды
 		
@@ -65,6 +65,8 @@
 	  :negative_squared_cross_mark:Запас
 	  
 	  :negative_squared_cross_mark:Оставшиеся карты
+	  
+	  :white_check_mark:Стопка
 		
 	Deck:
 	
