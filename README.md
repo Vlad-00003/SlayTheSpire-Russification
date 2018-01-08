@@ -29,42 +29,45 @@
 
 	Unplayable:
 	
-		:white_check_mark: Неиграбельная
+	  :white_check_mark: Неиграбельная
 		
-		:negative_squared_cross_mark:Неиспользуемая
+	  :negative_squared_cross_mark:Неиспользуемая
 		
 	Innate:
 	
-		:white_check_mark: Начальная
+	  :white_check_mark: Начальная
 		
-		:negative_squared_cross_mark:Коренная
+	  :negative_squared_cross_mark:Коренная
 		
-		:negative_squared_cross_mark:Стартовая
+	  :negative_squared_cross_mark:Стартовая
 		
-		:negative_squared_cross_mark:Врождённая
+	  :negative_squared_cross_mark:Врождённая
 		
 		
 5. draw pile\dicard pile\deck
 
 	Discard pile:
 	
-		:white_check_mark: Отбой
+	  :white_check_mark: Отбой
 		
 	Draw pile:
 	
-		:white_check_mark: Колода
+	  :white_check_mark: Колода
 		
-		:negative_squared_cross_mark:Остаткии колоды
+	  :negative_squared_cross_mark:Остаткии колоды
 		
-		:negative_squared_cross_mark:Добор
+	  :negative_squared_cross_mark:Добор
 		
-		:negative_squared_cross_mark:Склад
+	  :negative_squared_cross_mark:Склад
 		
-		:negative_squared_cross_mark:Банк
+	  :negative_squared_cross_mark:Банк
 		
-		:negative_squared_cross_mark:Запас
+	  :negative_squared_cross_mark:Запас
 		
 	Deck:
 	
-		:white_check_mark: Колода
+	  :white_check_mark: Колода
+	  
+* Список карт в главном меню:
+	Музей карт
 	
