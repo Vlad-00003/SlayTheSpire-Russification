@@ -63,6 +63,8 @@
 	  :negative_squared_cross_mark:Банк
 		
 	  :negative_squared_cross_mark:Запас
+	  
+	  :negative_squared_cross_mark:Оставшиеся карты
 		
 	Deck:
 	
