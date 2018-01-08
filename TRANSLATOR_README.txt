@@ -1,47 +1,55 @@
-Hello Slay the Spire translators! This is a helpful guide to try and aid your translation efforts.
+Доброго времени суток переводчикам Slay the Spire! Надеемся, что этот гайд поможет вам в трудах над переводом.
 
-1. As the files to translate are all JSON documents, fields do not need to be translated. In fact, the game won't run if the fields are renamed.
-EXAMPLE: Only the fields under "NAMES" and "TEXT" needs to be translated. (Marked with <- This!)
+1. Так как все файлы находятся в формате JSON, поля переводить не нужно. По факту игра вообще не запустится, если их переименовать.
+ПРИМЕР: Переводить нужно только поля под строками "NAMES" и "TEXT". (Отмеченными "<- Вот это"!)
 
 -------------------
 "Ironclad": {
     "NAMES": [
-        "The Ironclad" <- This!
+        "The Ironclad" <- Вот это!
     ], 
 "TEXT": [
-        "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies." <- This!
+        "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies." <- Вот это!
     ]
 },
 --------------------
+"Ironclad": {
+    "NAMES": [
+        "Латоносец" <- Вот так!
+    ], 
+"TEXT": [
+        "Последний солдат Латоносцев. NL Продал душу, чтобы овладеть демонической силой." <- Вот так!
+    ]
+},
+--------------------
+2. Причуды форматирования:
+    -Текст подсвечивается для отображения ключевых слов и других важных терминов. Цвета такие: #y, #r, #g, #b, #p. Золотой, красный, зелёный, синий и фиолетовый (только в эвентах) соответственно.
+    ПРИМЕР: "#yЯ #yзолотой!"
 
-2. Formatting Quirks:
-    -Text is colored to highlight keywords and other important concepts. Colors are as follows: #y, #r, #g, #b, #p. These colors are Gold, Red, Green, Blue, Purple (Only in events)
-    EXAMPLE: "#yI'm #yGolden!"
+    -В эвентах и диалогах игры, если текст обособлен ~ или @, он будет плавать или трястись. 
+    ПРИМЕР: "@Этот@ @текст@ @трясётся.@" "~А~ ~этот~ ~плавает.~""
 
-    -For events and dialogs, if a word is surrounded by ~ or @, they are wavy or shaky in game. 
-    EXAMPLE: "@This@ @is@ @shaky.@" "~This~ ~is~ ~wavy.~""
+    -Цвета и эффекты можно совмещать. Но при этом цвет всегда должен обозначаться перед эффектом.
+    ПРИМЕР: "#y@ДЗЫНЬ@ #y@ДЗЫНЬ@"
 
-    -Colors and text effects can be combined. However, the color must always come before the effect.
-    EXAMPLE: "#y@CLANG@ #y@CLANG@"
+    -В картах используются переменные значения. Это !D!, !B!, !M!. Они обозначают Урон, Защиту, и Прочее.
+    ПРИМЕР: "Наносит !D! урона."
+    ПРИМЕР: "Даёт !B! Защиты."
+    ПРИМЕР2: "Взять !M! карт."
 
-    -Cards utilize dynamic values. These are !D!, !B!, !M!. They stand for Damage, Block, and Misc.
-    EXAMPLE: "Deal !D! damage."
-    EXAMPLE: "Gain !B! Block."
-    EXAMPLE2: "Draw !M! cards."
-
-    -Keywords found in keywords.json must be capitalized when they are shown on a card, power, or relic description.
+    -Ключевые слова можно найти в keywords.json и в описании карт, талантов и реликвий их надо писать с заглавной буквы (но это не точно).
     EXAMPLE: "Apply 2 Vulnerable."
 
-    -NL stands for new line. New lines are added to make the text feel easier to read or separates two distinct sentences or quotes. There must be a space on either side for the new line to be appended.
-    EXAMPLE: "Hello. NL I am Bob."
+    -NL обозначает переносы строки. Они помогают делать текст легко читаемым, а также разделять предложения и цитаты. С каждой стороны NL должен быть пробел, чтобы перенос был учтён. В переводе можно свободно переносить строки, не опираясь на оригинальный код, если это необходимо. 
+    ПРИВЕТ: "Привет. NL Меня зовут Владик."
 
-    -Sometimes descriptions will be disjointed. This is because we need to insert dynamic values into some text.
-    EXAMPLE:
-    "I ate #b",
-    " pies."
-    Would look like: "I ate #b6 pies." in the game
+    -Иногда описания будут разбиты на части. Это нужно для того, чтобы в тексте считывались переменные значения.
+    ПРИМЕР:
+    "Я умял #b",
+    " вареников."
+    В игре это будет выглядеть так: "Я умял #b6 вареников."
 	
-3. If you have any questions, please reach out to us in the #localization channel on Discord. Don't forget to collaborate with others that are working on your language.
+3. Если у вас всё еще остались вопросы, обращайтесь на наш сервер Дискорда, или непосредственно на официальный сервер игры, в раздел #localization. И не забывайте, что это общий труд.
 
-Thanks,
-Anthony and Casey
+С благодарностью,
+Энтони и Кейси (А ещё мы!).
