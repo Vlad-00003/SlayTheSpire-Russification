@@ -13,12 +13,12 @@
     "CURSE": {
       "NAMES": [
         "проклятие",
-        "UNUSED_RESERVE",
+        "проклятия",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Проклятия — это вредоносные карты в Вашей Коллекции."
+      "DESCRIPTION": "Проклятия — это вредоносные карты в Вашей коллекции."
     },
     "DEXTERITY": {
       "NAMES": [
@@ -28,7 +28,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Ловкость улучшает Защиту, получаемую от карт."
+      "DESCRIPTION": "Ловкость увеличивает колличество Защиты, получаемой от карт."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -38,11 +38,11 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Если в конце Вашего хода эта карта находится в руке, она сжигается. Сожжённые карты убираются из колоды до конца боя."
+      "DESCRIPTION": "Если в конце Вашего хода эта карта находится в руке, она Сжигается - убирается до конца боя."
     },
     "EXHAUST": {
       "NAMES": [
-        "сжечь",
+        "сжигает",
         "сожжённую",
         "сжигается",
         "сжигании",
@@ -52,7 +52,7 @@
     },
     "INNATE": {
       "NAMES": [
-        "коренная",
+        "начальная",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
@@ -82,7 +82,7 @@
     },
     "RETAIN": {
       "NAMES": [
-        "оставить",
+        "оставляет",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
@@ -124,7 +124,7 @@
       "NAMES": [
         "изменение",
         "изменить",
-        "UNUSED_RESERVE",
+        "изменяет",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
