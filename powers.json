@@ -234,7 +234,8 @@
     "NAME": "Энергичность",
     "DESCRIPTIONS": [
       "В следующем ходу Вы получите на #b",
-      " [G] больше."
+      " [G] больше.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "Entangled": {

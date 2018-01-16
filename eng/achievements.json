@@ -52,7 +52,7 @@
 		"Defeated the Collector.",
 		"Defeated the Champ.",
 		"Defeated the Awakened One.",
-		"Defated Donu & Deca.",
+		"Defeated Donu & Deca.",
 		"Defeated the Time Eater.",
 		"Beat the game with the Ironclad.",
 		"Beat the game with the Silent.",
@@ -85,7 +85,9 @@
 		"Deaths: #y",
 		"Floors Climbed: #y",
 		"Bosses Slain: #y",
-		"Enemies Slain: #y"
+		"Enemies Slain: #y",
+		"Best Win Streak: #y",
+		"Highest Score: #y"
 	]
   },
   "StatsScreen": {

@@ -109,7 +109,7 @@
 	]
   },
   "Bottled Tornado": {
-	"NAME": "Bottled Tornado (BETA)",
+	"NAME": "Bottled Tornado",
 	"FLAVOR": "Test relic.",
     "DESCRIPTIONS": [
 	"Upon pick up, choose a Power card. At the start of each combat, this card will be in your hand.",
@@ -216,7 +216,7 @@
 	"NAME": "Cursed Key",
 	"FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
     "DESCRIPTIONS": [
-	" Whenever you open a chest, obtain a #rCurse.",
+	" Whenever you open a non-boss chest, obtain a #rCurse.",
 	"Gain [R] at the start of each turn.",
 	"Gain [G] at the start of each turn.",
 	"Gain [B] at the start of each turn."
@@ -277,7 +277,7 @@
 	"NAME": "Enchiridion",
 	"FLAVOR": "The legendary journal of an ancient lich.",
     "DESCRIPTIONS": [
-	"Start each combat with a random #yPower card in your hand. It costs #b0 to play."
+	"Start each combat with a random #yPower card in your hand. It costs #b0 until the end of turn."
 	]
   },
   "Eternal Feather": {
@@ -424,7 +424,7 @@
   },
   "Matryoshka": {
 	"NAME": "Matryoshka",
-	"FLAVOR": "A stackable set of painted dolls. The paint depicts a unknown bird with white eyes and blue feathers.",
+	"FLAVOR": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.",
     "DESCRIPTIONS": [
 	"The next #b2 chests you open contain #b2 #yRelics. (Excludes boss chests)",
 	"The next chest you open contains #b2 #yRelics. (Excludes boss chests)",

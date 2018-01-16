@@ -86,6 +86,14 @@
 		"Draw Pile"	
 	]
   },  
+  "Exhaust Tip": {
+  	    "TEXT": [
+		"Click to view cards Exhausted this combat."
+	],
+	"LABEL": [
+		"Exhausted Cards"	
+	]
+  },
   "Options Tip": {
     "TEXT": [
 		"Gameplay data and error logs are sent to Mega Crit for game balancing purposes. NL NL Personally identifying information is NOT collected.",

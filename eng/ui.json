@@ -17,18 +17,34 @@
   },
   "LeaderboardsScreen": {
     "TEXT": [
-    	"Return",
-		"Filters",
-		"Character",
-		"Region",
-		"Type",
-		"View My Score",
-		"Rank",
-		"Name",
-		"Score",
-		"Retrieving Data...",
-		"Leaderboards",
-		"Not Connected to Steam"
+        "Return",
+        "Filters",
+        "Character",
+        "Region",
+        "Type",
+        "View My Score",
+        "Rank",
+        "Name",
+        "Score",
+        "Retrieving Data...",
+        "Leaderboards",
+        "Not Connected to Steam",
+        "No Scores Available \n Go Slay the Spire!"
+	]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+        "Ironclad",
+        "The Silent",
+        "3rd Char. DO NOT TRANSLATE",
+        "Average Floor Reached (Last 20 Attempts)",
+        "Average Score (Last 20 Attempts)",
+        "Best Win Streak",
+        "Fastest Victory",
+        "High Score",
+        "Option 6. DO NOT TRANSLATE",
+        "Friends",
+        "Global"
 	]
   },
   "LanguageDropdown": {
@@ -96,6 +112,11 @@
   "SkillFromDeckToHandAction": {
     "TEXT": [
 		"Choose a Skill to Add to Your Hand"
+	]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+		"Choose a Card to Put on Top of Your Draw Pile."
 	]
   },
   "Legend": {
@@ -282,6 +303,12 @@
 		"Return"
 	]
   },
+  "ExhaustViewScreen": {
+    "TEXT": [
+		"These cards were exhausted this combat.",
+		"Return"
+	]
+  },
   "DungeonTransitionScreen": {
     "TEXT": [
 		"Tutorials",
@@ -392,6 +419,29 @@
 		"Elites Killed",
 		"Unspent Gold",
 		"HP Bonus"
+	],
+	"EXTRA_TEXT": [
+		"Exordium Elites Killed",
+		"City Elites Killed",
+		"Beyond Elites Killed",
+		"Speedster",
+		"Light Speed",
+		"Highlander",
+		"Collection",
+		"Full Set",
+		"Pauper",
+		"Librarian",
+		"Encyclopedia",
+		"Well Fed",
+		"Stuffed",
+		"Curses!",
+		"On My Own Terms",
+		"Champion",
+		"Perfect",
+		"Beyond Perfect",
+		"Overkill",
+		"C-c-c-combo",
+		""
 	]
   },
   "CombatRewardScreen": {
@@ -475,7 +525,7 @@
 		"Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
 		"Sound",
 		"Master Volume NL Music Volume NL Effects Volume",
-		"Sounds in Background",
+		"Ambient Sound Effects",
 		"Preferences",
 		"Display summed up damage in gold NL Display blocked damage in blue NL Disable confirmation when choosing 1 card",
 		"Common Tips NL Card Tips",
@@ -548,7 +598,8 @@
 		"Quit",
 		"Patch Notes",
 		"Abandon Run",
-		"Abandon Run (click again to confirm)"
+		"Abandon Run (click again to confirm)",
+		"Settings"
 	]
   },
   "PatchNotesScreen": {

@@ -333,6 +333,29 @@
       "Элитных врагов убито",
       "Оставшееся золото",
       "Бонус к здоровью"
+    ],
+    "EXTRA_TEXT": [
+      "Exordium Elites Killed",
+      "City Elites Killed",
+      "Beyond Elites Killed",
+      "Speedster",
+      "Light Speed",
+      "Highlander",
+      "Collection",
+      "Full Set",
+      "Pauper",
+      "Librarian",
+      "Encyclopedia",
+      "Well Fed",
+      "Stuffed",
+      "Curses!",
+      "On My Own Terms",
+      "",
+      "Perfect",
+      "Beyond Perfect",
+      "Overkill",
+      "C-c-c-combo",
+      ""
     ]
   },
   "CombatRewardScreen": {
@@ -489,7 +512,8 @@
       "Выйти",
       "Описание обновлений",
       "Отменить вылазку",
-      "Отменить вылазку (нажмите снова для подтверждения)"
+      "Отменить вылазку (нажмите снова для подтверждения)",
+      "Settings"
     ]
   },
   "PatchNotesScreen": {
@@ -754,12 +778,39 @@
       "Счёт",
       "Получение данных...",
       "Таблица лидеров",
-      "Нет соединения со Steam"
+      "Нет соединения со Steam",
+      "No Scores Available \n Go Slay the Spire!"
     ]
   },
   "ExhumeAction": {
     "TEXT": [
       "Выберите карту, которую хотите вернуть в руку"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Ironclad",
+      "The Silent",
+      "3rd Char. DO NOT TRANSLATE",
+      "Average Floor Reached (Last 20 Attempts)",
+      "Average Score (Last 20 Attempts)",
+      "Best Win Streak",
+      "Fastest Victory",
+      "High Score",
+      "Option 6. DO NOT TRANSLATE",
+      "Friends",
+      "Global"
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile."
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "These cards were exhausted this combat.",
+      "Return"
     ]
   }
 }

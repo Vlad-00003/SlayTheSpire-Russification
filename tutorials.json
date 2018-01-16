@@ -206,5 +206,13 @@
     "LABEL": [
       "Ненужные зелья можно выкинуть, чтобы освободить место для новых."
     ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Click to view cards Exhausted this combat."
+    ],
+    "LABEL": [
+      "Exhausted Cards"
+    ]
   }
 }

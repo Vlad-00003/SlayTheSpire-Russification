@@ -58,7 +58,8 @@
   },
   "Storm of Steel": {
     "NAME": "Storm of Steel",
-    "DESCRIPTION": "Discard your hand. NL Add 1 Shiv to your hand for each card discarded."
+    "DESCRIPTION": "Discard your hand. NL Add 1 Shiv to your hand for each card discarded.",
+    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 upgraded Shiv to your hand for each card discarded."
   },
   "Cleave": {
     "NAME": "Cleave",
@@ -74,11 +75,11 @@
   },
   "Sadistic Nature": {
     "NAME": "Sadistic Nature",
-    "DESCRIPTION": "Whenever you apply a Debuff to an enemy, they take 3 damage."
+    "DESCRIPTION": "Whenever you apply a Debuff to an enemy, they take !M! damage."
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
-    "DESCRIPTION": "Lose 3 HP. NL Gain 2 Strength . NL Exhaust."
+    "DESCRIPTION": "Lose 3 HP. NL Gain !M! Strength . NL Exhaust."
   },
   "Offering": {
     "NAME": "Offering",
@@ -165,7 +166,8 @@
   },
   "Trip": {
     "NAME": "Trip",
-    "DESCRIPTION": "Apply 2 Vulnerable."
+    "DESCRIPTION": "Apply !M! Vulnerable.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to ALL enemies."
   },
   "Dagger Throw": {
     "NAME": "Dagger Throw",
@@ -313,7 +315,8 @@
   },
   "Blind": {
     "NAME": "Blind",
-    "DESCRIPTION": "Apply 2 Weak."
+    "DESCRIPTION": "Apply !M! Weak.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Weak to ALL enemies."
   },
   "Doppelganger": {
     "NAME": "Doppelganger",
@@ -363,7 +366,7 @@
   },
   "Bandage Up": {
     "NAME": "Bandage Up",
-    "DESCRIPTION": "Heal 4. NL Exhaust."
+    "DESCRIPTION": "Heal !M! HP. NL Exhaust."
   },
  "The Bomb": {
     "NAME": "The Bomb",
@@ -400,8 +403,10 @@
   "Secret Technique": {
     "NAME": "Secret Technique",
     "DESCRIPTION": "Choose a Skill from your draw pile and place it into your hand. NL Exhaust.",
-	"UPGRADE_DESCRIPTION": "There are no Skills NL in my draw pile."
-	
+	"UPGRADE_DESCRIPTION": "Choose a Skill from your draw pile and place it into your hand.",
+	"EXTENDED_DESCRIPTION": [
+    	"There are no Skills NL in my draw pile."
+    ]
   },
   "Calculated Gamble": {
     "NAME": "Calculated Gamble",
@@ -414,7 +419,8 @@
   },
   "Deep Breath": {
     "NAME": "Deep Breath",
-    "DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw 1 card."
+    "DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw !M! cards."
   },
   "Doubt": {
     "NAME": "Doubt",
@@ -468,7 +474,7 @@
   },
   "Panache": {
     "NAME": "Panache",
-    "DESCRIPTION": "Every time you play 5 cards in a single turn, deal 10 damage to ALL enemies."
+    "DESCRIPTION": "Every time you play 5 cards in a single turn, deal !M! damage to ALL enemies."
   },
   "Fiend Fire": {
     "NAME": "Fiend Fire",
@@ -498,7 +504,10 @@
   "Secret Weapon": {
     "NAME": "Secret Weapon",
     "DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand. NL Exhaust.",
-	"UPGRADE_DESCRIPTION": "There are no Attacks NL in my draw pile."
+	"UPGRADE_DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand.",
+	"EXTENDED_DESCRIPTION": [
+    	"There are no Attacks NL in my draw pile."
+    ]
   },
   "Apotheosis": {
     "NAME": "Apotheosis",
@@ -619,15 +628,16 @@
   },
   "Enlightenment": {
     "NAME": "Enlightenment",
-    "DESCRIPTION": "Reduce the cost of cards in your hand to 1 this turn."
+    "DESCRIPTION": "Reduce the cost of cards in your hand to 1 this turn.",
+	"UPGRADE_DESCRIPTION": "Reduce the cost of cards in your hand to 1 this combat."
   },
   "Purity": {
     "NAME": "Purity",
-    "DESCRIPTION": "Choose and Exhaust 2 cards in your hand. NL Exhaust."
+    "DESCRIPTION": "Choose and Exhaust up to !M! cards in your hand. NL Exhaust."
   },
   "Panacea": {
     "NAME": "Panacea",
-    "DESCRIPTION": "Lose all Frail, Vulnerable, and Weak."
+    "DESCRIPTION": "Gain !M! Artifact. NL Exhaust."
   },
   "Dash": {
     "NAME": "Dash",
@@ -635,7 +645,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Transform your Hand. NL Exhaust."
+    "DESCRIPTION": "Add X random colorless cards into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards into your hand. NL Exhaust."
   },
   "Backstab": {
     "NAME": "Backstab",
@@ -701,7 +712,7 @@
   },
   "Master of Strategy": {
     "NAME": "Master of Strategy",
-    "DESCRIPTION": "Draw 3 cards. NL Exhaust."
+    "DESCRIPTION": "Draw !M! cards. NL Exhaust."
   },
   "Flechettes": {
     "NAME": "Flechettes",
@@ -764,7 +775,7 @@
   },
   "Jack Of All Trades": {
     "NAME": "Jack Of All Trades",
-    "DESCRIPTION": "Add a random colorless card to your hand. NL Exhaust."
+    "DESCRIPTION": "Add !M! random colorless card to your hand. NL Exhaust."
   },
   "Demon Form": {
     "NAME": "Demon Form",
@@ -784,7 +795,8 @@
   },
   "Mind Blast": {
     "NAME": "Mind Blast",
-    "DESCRIPTION": "Deal damage equal to the number of cards in your draw pile."
+    "DESCRIPTION": "Deal damage equal to the number of cards in your draw pile.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile."
   },
   "Neutralize": {
     "NAME": "Neutralize",
@@ -827,7 +839,8 @@
   },
   "Thinking Ahead": {
     "NAME": "Thinking Ahead",
-    "DESCRIPTION": "Draw 2 cards, then put a card from your hand on top of your draw pile."
+    "DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile."
   },
   "Distraction": {
     "NAME": "Distraction",

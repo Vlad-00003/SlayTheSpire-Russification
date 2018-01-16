@@ -1,5 +1,15 @@
 {
   "Game Dictionary": {
+  	"ARTIFACT": {
+		"NAMES":[
+			"artifact",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Negates the next debuff."
+	},
 	"BLOCK": {
 		"NAMES":[
 			"block",

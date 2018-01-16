@@ -234,7 +234,9 @@
     "NAME": "Energized",
     "DESCRIPTIONS": [
 	"Gain #b", 
-	" additional [G] next turn."
+	" additional [G] next turn.",
+	" additional [G] next turn.",
+	" - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "Entangled": {
@@ -333,7 +335,7 @@
     "NAME": "Hex",
     "DESCRIPTIONS": [
 	"Whenever you play a non-Attack card, shuffle #b",
-	" #yDazed into your deck."
+	" #yDazed into your draw pile."
     ]
   },
   "Hide": {
@@ -369,8 +371,8 @@
     "NAME": "Intangible",
     "DESCRIPTIONS": [
 	"Reduce ALL damage taken and HP loss to #b1 for the next #b",
-	" turn.",
-	" turns."
+	" turns.",
+	"Reduce ALL damage taken and HP loss to #b1 next turn."
     ]
   },
   "Inverted": {
