@@ -59,7 +59,7 @@
   "Storm of Steel": {
     "NAME": "Стальная буря",
     "DESCRIPTION": "Вы сбрасываете все карты в руке, NL затем кладёте в руку 1 Заточку за каждую сброшенную карту.",
-    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 upgraded Shiv to your hand for each card discarded."
+    "UPGRADE_DESCRIPTION": "Вы сбрасываете все карты в руке, NL затем кладёте в руку 1 улучшенную Заточку за каждую сброшенную карту."
   },
   "Cleave": {
     "NAME": "Рассечение",
@@ -856,7 +856,7 @@
   },
   "Expertise": {
     "NAME": "Мастерство",
-    "DESCRIPTION": "Вы получаете !B! Защиты. NL Можно улучшать любое число раз."
+    "DESCRIPTION": "Вы берёте карты, пока не наберёте в руку !M!."
   },
   "The Bomb": {
     "NAME": "Бомба",
