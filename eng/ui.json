@@ -1,4 +1,13 @@
 {
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+		"Card Removal Service",
+		"SALE",
+		"Not for Sale",
+		"Sold Out",
+		"Oh no!"
+	]
+  },
   "Cancel Button": {
     "TEXT": [
 		"Delete Save"	
@@ -14,6 +23,16 @@
 		"End Turn",
 		"Enemy Turn"
 	]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+		"The Ironclad",
+		"The Silent",
+		"",
+		"Return",
+		"No run histories found. NL Go Slay the Spire!",
+		"Ascension Level: "
+    ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
@@ -230,7 +249,9 @@
   },
   "TopPanel": {
     "TEXT": [
-		" Floor"	
+		" Floor",
+		" - Ascension ",
+		" (Max Level)"
 	]
   },
   "UnlockCharacterScreen": {
@@ -370,6 +391,12 @@
 			"Duplicate"
 		]
 	},
+  "DeathScreenUi": {
+    "TEXT": [
+    	"Ascension Mode Level ",
+    	" Unlocked!"
+    ]
+  },
   "DeathScreen": {
     "TEXT": [
 		"Continue",
@@ -599,7 +626,8 @@
 		"Patch Notes",
 		"Abandon Run",
 		"Abandon Run (click again to confirm)",
-		"Settings"
+		"Settings",
+		"Run History"
 	]
   },
   "PatchNotesScreen": {
@@ -649,7 +677,25 @@
 		"The Ironclad",
 		"The Silent",
 		"Crowbot",
-		"Back"
+		"Back",
+		"Ascension Mode (Level ",
+		")",
+		"Ascension Mode",
+		"EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
+	]
+  },
+  "AscensionModeDescriptions": {
+  	"TEXT": [
+		"1. Elites spawn more often.",
+		"2. Normal enemies are deadlier.",
+		"3. Elites are deadlier.",
+		"4. Bosses are deadlier.",
+		"5. Heal less after Boss battles.",
+		"6. Start each run damaged.",
+		"7. Normal enemies are tougher.",
+		"8. Elites are tougher.",
+		"9. Bosses are tougher.",
+		"10. Parasite!"
 	]
   },
   "AbstractMonster": {
@@ -753,6 +799,12 @@
   "UnlockTextEffect": {
     "TEXT": [
 		"New Unlock!"
+	]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+		"Ascension Mode Level ",
+		" Unlocked!"
 	]
   },
   "AbstractPotion": {
