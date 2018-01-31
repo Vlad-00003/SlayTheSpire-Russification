@@ -240,8 +240,9 @@
 	"NAME": "Runic Dodecahedron",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"If your HP is full, gain ", "[R] at the start of each turn.",
-	"[G] at the start of each turn.", 
+	"If your HP is full, gain ",
+	"[R] at the start of each turn.",
+	"[G] at the start of each turn.",
 	"[B] at the start of each turn."
 	]
   },
@@ -767,7 +768,7 @@
 	"NAME": "Singing Bowl",
 	"FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
     "DESCRIPTIONS": [
-	"Card rewards can be converted to #b+2 Max HP."
+	"When adding cards to your deck, you may gain #b+2 Max HP instead."
 	]
   },
   "Smiling Mask": {
