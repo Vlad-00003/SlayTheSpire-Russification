@@ -382,21 +382,14 @@
   },
   "Warcry": {
     "NAME": "Warcry",
-    "DESCRIPTION": "Draw 2 cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
+    "DESCRIPTION": "Draw !M! card. NL Place a card from your hand on top of your draw pile. NL Exhaust.",
+	"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
   },
   "PiercingWail": {
     "NAME": "Piercing Wail",
     "DESCRIPTION": "ALL enemies lose !M! Strength for 1 turn. NL Exhaust."
   },
-  "Bite_R": {
-    "NAME": "Bite",
-    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
-  },
-  "Bite_G": {
-    "NAME": "Bite",
-    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
-  },
-  "Bite_B": {
+  "Bite": {
     "NAME": "Bite",
     "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
   },

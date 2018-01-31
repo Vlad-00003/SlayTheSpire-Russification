@@ -273,6 +273,27 @@
 	"Gain [B] at the start of each turn."
 	]
   },
+  "Frozen Egg 2": {
+	"NAME": "Frozen Egg",
+	"FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "DESCRIPTIONS": [
+	"Whenever you obtain a #yPower card, it is #yUpgraded."
+	]
+  },
+  "Molten Egg 2": {
+	"NAME": "Molten Egg",
+	"FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "DESCRIPTIONS": [
+	"Whenever you obtain an #yAttack card, it is #yUpgraded."
+	]
+  },
+  "Toxic Egg 2": {
+	"NAME": "Toxic Egg",
+	"FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "DESCRIPTIONS": [
+	"Whenever you obtain a #ySkill card, it is #yUpgraded."
+	]
+  },
   "Enchiridion": {
 	"NAME": "Enchiridion",
 	"FLAVOR": "The legendary journal of an ancient lich.",
@@ -746,7 +767,7 @@
 	"NAME": "Singing Bowl",
 	"FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
     "DESCRIPTIONS": [
-	"Whenever you skip a card reward, increase your Max HP by #b"
+	"Card rewards can be converted to #b+2 Max HP."
 	]
   },
   "Smiling Mask": {

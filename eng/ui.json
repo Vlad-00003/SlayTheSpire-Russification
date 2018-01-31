@@ -31,7 +31,12 @@
 		"",
 		"Return",
 		"No run histories found. NL Go Slay the Spire!",
-		"Ascension Level: "
+		"Ascension Level: ",
+		"Slain on Floor ",
+		" by ",
+		"Victory!",
+		"Cards",
+		"Relics"
     ]
   },
   "LeaderboardsScreen": {
@@ -244,7 +249,9 @@
     "TEXT": [
 		"Dead",
 		"Blocked",
-		"Max HP +"
+		"Max HP +",
+		"Stunned!",
+		"Interrupted!"
 	]
   },
   "TopPanel": {
@@ -496,7 +503,8 @@
   "CardRewardScreen": {
     "TEXT": [
 		"Skip",
-		"Choose a Card"
+		"Choose a Card",
+		"+2 Max HP"
 	]
   },
   "BossRelicSelectScreen": {
