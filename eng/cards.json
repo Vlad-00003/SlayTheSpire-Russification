@@ -325,7 +325,7 @@
   },
   "Skewer": {
     "NAME": "Skewer",
-    "DESCRIPTION": "Spend all [G]. NL Deal !D! damage X times."
+    "DESCRIPTION": "Deal !D! damage X times."
   },
   "Envenom": {
     "NAME": "Envenom",
@@ -378,7 +378,7 @@
   },
   "Whirlwind": {
     "NAME": "Whirlwind",
-    "DESCRIPTION": "Spend all [R]. NL Deal !D! damage to ALL enemies X times."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies X times."
   },
   "Warcry": {
     "NAME": "Warcry",
@@ -559,8 +559,8 @@
   },
   "Malaise": {
     "NAME": "Malaise",
-    "DESCRIPTION": "Spend all [G]. NL Enemy loses X Strength. Apply X Weak. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Spend all [G]. NL Enemy loses X+1 Strength. Apply X+1 Weak. NL Exhaust."
+    "DESCRIPTION": "Enemy loses X Strength. Apply X Weak. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Enemy loses X+1 Strength. Apply X+1 Weak. NL Exhaust."
   },
   "Reflex": {
     "NAME": "Reflex",
