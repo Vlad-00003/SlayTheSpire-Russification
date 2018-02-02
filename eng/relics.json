@@ -1026,7 +1026,7 @@
   },
   "Vajra": {
 	"NAME": "Vajra",
-	"FLAVOR": "A ornamental relic given to warriors displaying glory in battle.",
+	"FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
     "DESCRIPTIONS": [
 	"At the start of each combat, gain #b", 
 	" #yStrength."
