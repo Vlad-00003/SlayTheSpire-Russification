@@ -79,7 +79,19 @@
   },
   "LOC_RUS": {
     "HEADER": "Перевод на русский",
-    "NAMES": []
+    "NAMES": [
+      "Перевод и координация:"
+      "Иван «Ingrett» Хорошуненко (Ivan «Ingrett» Khoroshunenko)"
+      "Перевод и репозиторий:"
+      "Владислав «Vlad-00003» Большаков (Vladislav «Vlad-00003» Bolshakov)"
+      "Предложения и отзывы:"
+      "Михаил «Outmind» Дюжев (Mikhail «Outmind» Dyuzhev)"
+      "Богдан «DarkRosse» Калитюк (Bohdan «DarkRosse» Kalytiuk)"
+      "Сергей «lol10801lol» К. (Sergey «lol10801lol» K.)"
+      "Ascimator"
+      "Екатерина «Meds» Белименко-Болджер (Kateryna «Meds» Belimenko-Bolger)"
+      "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)"
+    ]
   },
   "LOC_TUR": {
     "HEADER": "Перевод на турецкий",
