@@ -640,6 +640,11 @@
 		"Run History"
 	]
   },
+  "CreditsScreen": {
+    "TEXT": [
+		"click again to exit"
+    ]
+  },
   "PatchNotesScreen": {
     "TEXT": [
 		"Return",
