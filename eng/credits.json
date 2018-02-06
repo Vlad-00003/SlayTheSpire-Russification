@@ -73,6 +73,7 @@
 	"LOC_JPN": {
 		"HEADER": "Japanese Localization",
 		"NAMES": [
+			"Grezzz"
 		]
 	},
 	"LOC_KOR": {
@@ -88,11 +89,24 @@
 	"LOC_RUS": {
 		"HEADER": "Russian Localization",
 		"NAMES": [
+			"Translation and coordination:",
+			"Ivan \"Ingrett\" Khoroshunenko",
+			"Translation and repository:",
+			"Vladislav \"Vlad-00003\" Bolshakov",
+			"Suggestions and feedback:",
+			"Mikhail \"Outmind\" Dyuzhev",
+			"Bohdan \"DarkRosse\" Kalytiuk",
+			"Sergey \"lol10801lol\" K.",
+			"Ascimator",
+			"Kateryna \"Meds\" Belimenko-Bolger",
+			"Alexey \"Surrealistic Ganerson\" Popov",
+			"Alexandr \"LiaNdrY\" Mazistov"
 		]
 	},
 	"LOC_TUR": {
 		"HEADER": "Turkish Localization",
 		"NAMES": [
+			"Erdem Gürbüz"
 		]
 	},
 	"LOC_ADDITIONAL": {
