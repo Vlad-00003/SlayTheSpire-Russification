@@ -67,7 +67,9 @@
   },
   "LOC_JPN": {
     "HEADER": "Перевод на японский",
-    "NAMES": []
+    "NAMES": [
+      "Grezzz"
+    ]
   },
   "LOC_KOR": {
     "HEADER": "Перевод на корейский",
@@ -91,12 +93,14 @@
       "Ascimator",
       "Екатерина «Meds» Белименко-Болджер (Kateryna «Meds» Belimenko-Bolger)",
       "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)",
-      "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)",
+      "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)"
     ]
   },
   "LOC_TUR": {
     "HEADER": "Перевод на турецкий",
-    "NAMES": []
+    "NAMES": [
+      "Эрдем Гюрбюз (Erdem Gürbüz)"
+    ]
   },
   "LOC_ADDITIONAL": {
     "HEADER": "Дополнительный перевод",
