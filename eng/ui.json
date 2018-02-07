@@ -522,7 +522,9 @@
     "TEXT": [
 		"Skip",
 		"Choose a Card",
-		"+2 Max HP"
+		"+2 Max HP",
+		"VOTE NOW: ",
+		"s left."
 	]
   },
   "BossRelicSelectScreen": {
@@ -530,7 +532,9 @@
 		"Confirm",
 		"Confirm Your Selection",
 		"Choose a Relic",
-		"Skip"
+		"Skip",
+		"VOTE NOW: ",
+		"s left."
 	]
   },
   "GridCardSelectScreen": {
