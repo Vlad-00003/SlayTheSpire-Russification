@@ -518,6 +518,11 @@
 		"Choose One"	
 	]
   },
+  "TwitchVoter": {
+    "TEXT": [
+		"VOTE NOW: "
+    ]
+  },
   "CardRewardScreen": {
     "TEXT": [
 		"Skip",
@@ -735,7 +740,7 @@
 		"Upgraded cards appear less often.",
 		"Poor bosses.",
 		"Lower Max HP.",
-		"Unfavorable Events."
+		"(Max Level) Unfavorable Events."
 	]
   },
   "AbstractMonster": {
