@@ -370,9 +370,7 @@
   "Intangible": {
     "NAME": "Неосязаемость",
     "DESCRIPTIONS": [
-      "Снижает ЛЮБУЮ потерю ОЗ до #b1 в течение #b",
-      " ходов.",
-      "Снижает ЛЮБУЮ потерю ОЗ до #b1 в след. ходу."
+	  "Reduce ALL damage taken and HP loss to #b1 this turn. Intangible is reapplied every other turn."
     ]
   },
   "Inverted": {
