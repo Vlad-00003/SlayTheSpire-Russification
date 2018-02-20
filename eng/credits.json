@@ -78,6 +78,8 @@
 	"LOC_ITA": {
 		"HEADER": "Italian Localization",
 		"NAMES": [
+			"Hob",
+			"Mero Marco"
 		]
 	},
 	"LOC_JPN": {
@@ -97,7 +99,7 @@
 			"insight",
 			"K4lium",
 			"hina",
-			"Steam Page Translation",
+			"Steam Page Translation:",
 			"GyeRyak"
 		]
 	},
@@ -111,9 +113,9 @@
 		"NAMES": [
 			"Translation and Coordination:",
 			"Ivan \"Ingrett\" Khoroshunenko",
-			"Translation and repository:",
+			"Translation and Repository:",
 			"Vladislav \"Vlad-00003\" Bolshakov",
-			"Suggestions and feedback:",
+			"Suggestions and Feedback:",
 			"Mikhail \"Outmind\" Dyuzhev",
 			"Bohdan \"DarkRosse\" Kalytiuk",
 			"Sergey \"lol10801lol\" K.",
