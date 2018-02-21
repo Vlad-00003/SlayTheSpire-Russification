@@ -54,5 +54,13 @@
   "Vintage": {
     "NAME": "Раритет",
     "DESCRIPTION": "Цены торговца на 25% выше."
+  },
+  "Greed": {
+    "NAME": "Greed",
+    "DESCRIPTION": "You cannot skip combat rewards."
+  },
+  "Elite Swarm": {
+    "NAME": "Elite Swarm",
+    "DESCRIPTION": "Elite enemies are swarming the Spire."
   }
 }
