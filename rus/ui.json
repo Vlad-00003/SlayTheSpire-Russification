@@ -693,7 +693,12 @@
       "Spanish",
       "Hebrew",
       "Turkish",
-      "Swedish"
+      "Swedish",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese"
     ]
   },
   "UnlockTextEffect": {
@@ -925,7 +930,8 @@
       " NL NL  #yКолода: NL ",
       " NL NL  #yРеликвии: NL  ",
       " NL Сегодняшнее испытание: NL TAB #yКласс: NL TAB ",
-      " NL TAB #yМодификаторы: "
+      " NL TAB #yМодификаторы: ",
+      "Modifiers: "
     ]
   },
   "MenuPanels": {
