@@ -54,5 +54,17 @@
   "Elite Swarm": {
     "NAME": "Набег элиты",
     "DESCRIPTION": "Элитные враги заполонили Шпиль."
+  },
+  "Binary": {
+    "NAME": "Binary",
+    "DESCRIPTION": "В случае победы вы можете выбрать только 2 карты."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "С врагов падает на 200% больше золота, но вы не можете улучшать карты в лагере."
+  },
+  "Uncertain Future": {
+    "NAME": "Uncertain Future",
+    "DESCRIPTION": "Карта отображает только знаки ?."
   }
 }
