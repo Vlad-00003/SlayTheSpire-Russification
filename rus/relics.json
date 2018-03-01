@@ -1049,7 +1049,7 @@
   },
   "War Paint": {
     "NAME": "Боевая раскраска",
-    "FLAVOR": "Описание отсутствует.",
+    "FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
     "DESCRIPTIONS": [
       "Получив эту реликвию, вы #yулучшите #b",
       " случайных #yНавыка."
@@ -1057,7 +1057,7 @@
   },
   "Darkstone Periapt": {
     "NAME": "Амулет из тёмного камня",
-    "FLAVOR": "Описание отсутствует.",
+    "FLAVOR": "Камень высасывает тёмную энергию, трансформируя её в жизненные силы для носителя.",
     "DESCRIPTIONS": [
       "Каждый раз, когда вы получаете #yПроклятие, увеличивает Макс. ОЗ на #b"
     ]
