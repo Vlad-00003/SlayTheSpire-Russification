@@ -1,9 +1,0 @@
-diff a/rus/run_mods.json b/rus/run_mods.json	(rejected hunks)
-@@ -51,6 +51,7 @@
-     "NAME": "Безумие",
-     "DESCRIPTION": "Вы начнёте с колодой из 50-и случайных карт."
-   },
-+  "Time Dilation": {
-     "NAME": "Замедление времени",
-     "DESCRIPTION": "На всех противников накладывается Медлительность."
-   },
