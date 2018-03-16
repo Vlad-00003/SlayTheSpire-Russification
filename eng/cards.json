@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Underhand Strike",
-    "DESCRIPTION": "Deal !D! damage. NL If you discarded a card this turn, NL gain [G] [G].",
+    "DESCRIPTION": "Deal !D! damage. NL If you have discarded a card this turn, NL gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
     	"I can't play this card."	
     ]
