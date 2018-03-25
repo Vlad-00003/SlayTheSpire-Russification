@@ -733,33 +733,33 @@
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Совет призраков",
     "DESCRIPTIONS": [
-      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKE@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "Во время вашего восхождения, #p~густой~ #p~чёрный~ #p~дым~ начинает застилать всё вокруг вас, формируя три гигантские фигуры, чьи лица их скрыты под масками. Фигуры начинают говорить. NL NL ~\"Очередная~ ~марионетка~ #y~Ньов~ ~,~ ~я~ ~пологаю.\"~ NL #r@\"ПОХОЖЕ НА ТО!@ #r@ЕЁ@ #r@ИГРУШКИ@ #r@ВСЕГДА@ #r@ТАКИЕ@ #r@ЗАБАВНЫЕ!\"@ NL NL Вы видите невероятно широкую улыбку, когда третья фигура обращается к вам. NL \"Забудь об остальных... Хочешь ли ты почувствовать нашу #y~силу?\"~ ",
       "",
-      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
-      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnevering laughter ringing in your ears.",
+      "#y\"Превосходно!\" NL Пока призрачная фигура говорит, вы видите как её рот открывается всё шире и шире. #p~Густой~ #p~чёрный~ #p~дым~ выплёскивается из него, обволакивая всё вокруг. В глазах темнеет, вы задыхаетесь... NL NL Прямо перед тем, как вы теряете сознание, это чувство исчезает. NL NL Чём бы не были эти штуки - они исчезли. Вы продолжаете идти вперёд, ощущая в себе #bпустоту.",
+      "\"Какое разочарование...\" NL ~\"Рано~ ~или~ ~поздно~ ~ты~ ~присоединишься~ ~к~ ~нам.\"~ NL #r@\"ХА@ #r@ХА@ #r@ХА@ #r@ХАХАХА!\"@ NL NL Фигуры удаляются прочь, оставляя лишь нервирующий смех шуметь в ваших ушах.",
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
+      "[Согласиться] #gПолучить #g5 #gкарт #gПризрачность. #rПотерять #r",
+      "% #rмакс. #rОЗ.",
+      "[Отказаться]",
       "",
       "",
-      "[Leave]"
+      "[Уйти]"
     ]
   },
   "SecretPortal": {
-    "NAME": "Secret Portal",
+    "NAME": "Секрктный портал",
     "DESCRIPTIONS": [
-      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
-      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
-      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
+      "Перед собой вы видите нечто, что кажется совершенно неуместным в чуждом ландшафте вокруг вас. Странно расположенный в одной из живых стен запределья проход, внутри которого #p~вращающийся~ #p~магический~ #p~портал.~ NL NL Вы не уверены в том, куда он ведёт, но, быть может, он сможет ускорить ваше восхождение к Шпилю.",
+      "Когда вы прыгаете в портал, ощущение пространства и времени полностью покидает вас. NL NL Когда вы приходите в себя в новом месте, вы понимаете что прямо сейчас вам предстоит серьёзный бой.",
+      "Вам кажется, что подниматься на вершину Шпиля лучше аккуратно и не спеша. Оставив портал в покое вы продолжаете своё восхождение."
     ],
     "OPTIONS": [
-      "[Enter the Portal] IMMEDIATELY travel to the boss.",
-      "[Leave]"
+      "[Войти в портал] МНГНОВЕННО перенестись к боссу.",
+      "[Уйти]"
     ]
   }
 }
