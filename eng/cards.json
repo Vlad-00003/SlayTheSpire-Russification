@@ -54,7 +54,7 @@
   },
   "Anger": {
     "NAME": "Anger",
-    "DESCRIPTION": "Deal !D! damage. NL Place a copy of this card into your discard pile."
+    "DESCRIPTION": "Deal !D! damage. NL Add a copy of this card to your discard pile."
   },
   "Storm of Steel": {
     "NAME": "Storm of Steel",
@@ -87,7 +87,7 @@
   },
   "Exhume": {
     "NAME": "Exhume",
-    "DESCRIPTION": "Choose an exhausted card and place it in your hand. NL Exhaust."
+    "DESCRIPTION": "Place a card from your exhaust pile into your hand. NL Exhaust."
   },
   "Power Through": {
     "NAME": "Power Through",

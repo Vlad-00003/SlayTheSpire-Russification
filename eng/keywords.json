@@ -147,16 +147,6 @@
 		],
 		"DESCRIPTION": "Whenever you draw a card, randomize its cost."
 	},
-	"FIRE": {
-		"NAMES":[
-			"fire",
-			"fired",
-			"DONT TRANSLATE FIRED STUFF",
-			"DONT TRANSLATE FIRED STUFF",
-			"DONT TRANSLATE FIRED STUFF"
-		],
-		"DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-	},
 	"INTANGIBLE": {
 		"NAMES":[
 			"intangible"
