@@ -129,6 +129,19 @@
 		],
 		"DESCRIPTION": "Wounds are unplayable status cards."
 	},
+	"DAZED": {
+		"NAMES":[
+			"dazed"
+		],
+		"DESCRIPTION": "Dazed are unplayable status cards."
+	},
+	"BURN": {
+		"NAMES":[
+			"burn",
+			"burns"
+		],
+		"DESCRIPTION": "Burns are unplayable status cards that damage you."
+	},
 	"FRAIL": {
 		"NAMES":[
 			"frail"

@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "Immolate",
-    "DESCRIPTION": "Exhaust 1 card. If the chosen card was a Status or Curse, deal !D! damage to ALL enemies."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Shuffle a Burn into your draw pile."
   },
   "Regret": {
     "NAME": "Regret",
@@ -68,6 +68,10 @@
   "Inflame": {
     "NAME": "Inflame",
     "DESCRIPTION": "Gain !M! Strength."
+  },
+  "Wraith Form v2": {
+    "NAME": "Wraith Form",
+    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
   },
   "Wraith Form": {
     "NAME": "Wraith Form",
@@ -184,7 +188,7 @@
   },
   "Reckless Charge": {
     "NAME": "Reckless Charge",
-    "DESCRIPTION": "Gain 1 Vulnerable. NL Deal !D! damage."
+    "DESCRIPTION": "Deal !D! damage. NL Shuffle a Dazed into your draw pile."
   },
   "Decay": {
     "NAME": "Decay",
