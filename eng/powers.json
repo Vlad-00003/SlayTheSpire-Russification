@@ -754,8 +754,8 @@
   "Wraith Form v2": {
     "NAME": "Wraith Form",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b ",
-      " Dexterity."
+      "At the end of your turn, lose #b",
+      " #yDexterity."
     ]
   }
 }
