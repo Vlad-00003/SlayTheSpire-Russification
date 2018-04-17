@@ -21,7 +21,7 @@
     "NAME": "Astrolabe",
     "FLAVOR": "A tool to glean invaluable knowledge from the stars.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose and #yTransform #b3 cards, then #yUpgrade them.",
+      "Upon pick up, choose and #yTransform #b3 cards, then #yUpgrade them.",
       "Choose 3 cards for "
     ]
   },
