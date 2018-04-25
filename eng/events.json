@@ -435,7 +435,7 @@
     "NAME": "N'loth",
     "DESCRIPTIONS": [
       "An odd creature with a hunched back sprouting several tentacles is scrounging through a pile of trash and debris in front of you. As you approach, he shuffles towards you in a non-threatening manner. NL \"N'loth hungry. Feed N'loth.\"",
-      "Holding the #yrelic out towards him, Nâ€™loth snatches it out of your hand with his tentacles, dislocates his jaw, and slurps down your offer in one quick gulp. NL He gives you a large, toothy grin as more tentacles appear from behind his cloak, these ones brandishing an impossibly neat looking box. He pushes it towards you until you take it.",
+      "Holding the #yrelic out towards him, N’loth snatches it out of your hand with his tentacles, dislocates his jaw, and slurps down your offer in one quick gulp. NL He gives you a large, toothy grin as more tentacles appear from behind his cloak, these ones brandishing an impossibly neat looking box. He pushes it towards you until you take it.",
       "You shake your head. N'loth hunches even further and sighs, then scuttles away."
     ],
     "OPTIONS": [
@@ -704,7 +704,8 @@
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~sister,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~",
       "The tall figure grabs your arm, pulls you forward, and sinks his fangs into your neck. You feel a @dark@ @force@ pour into your neck and @course@ through your body. NL ... NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed...",
       "You step back and raise your weapon in defiance. The tall figure sighs. \"Very well.\" The entire group of hooded figures morph into a thick black fog that flows away from you. NL You are alone once more.",
-      "The pale figures gasp as you take out the #yBlood #yVial. NL ~\"The~ ~master's~ ~blood...~ ~the~ ~master's~ ~blood!~ @THE@ @MASTER'S@ @BLOOD!\"@ NL They all chant fervently as the tall one bows before you. \" Drink from His blood, and become one with #y~Him.\"~ NL The chant growing louder, you consume the contents of the vial. Your vision immediately ~warps~ and fades to darkness. NL NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed."
+      "The pale figures gasp as you take out the #yBlood #yVial. NL ~\"The~ ~master's~ ~blood...~ ~the~ ~master's~ ~blood!~ @THE@ @MASTER'S@ @BLOOD!\"@ NL They all chant fervently as the tall one bows before you. \" Drink from His blood, and become one with #y~Him.\"~ NL The chant growing louder, you consume the contents of the vial. Your vision immediately ~warps~ and fades to darkness. NL NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed.",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
       "[Accept] #gRemove #gall #gStrikes. #gObtain #g5 #gBites. #rLose #r",
