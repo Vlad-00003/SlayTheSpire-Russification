@@ -1,39 +1,39 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yПассивно: В конце хода уон данного шара увеличивается на #b",
-      ". NL #yВызвать: Наносит #b",
-      " урона противнику с наименьшим количеством ОЗ."
+      "#yPassive: At the end of turn, increase this Orb's damage by #b",
+      ". NL #yEvoke: Deal #b",
+      " damage to the enemy with lowest HP."
     ],
-    "NAME": "Тьма"
+    "NAME": "Dark"
   },
   "Empty": {
     "DESCRIPTION": [
-      "Шары могут быть Направлены в эти слоты."
+      "Orbs can be channeled into these slots."
     ],
-    "NAME": "Слот Шаров"
+    "NAME": "Orb Slot"
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yПассивно: в конце хода даёт #b",
-      " #yЗащиты. NL #yВызвать: даёт #b",
-      " #yЗащиты."
+      "#yPassive: At the end of turn, gain #b",
+      " #yBlock. NL #yEvoke: Gain #b",
+      " #yBlock."
     ],
-    "NAME": "Хлад"
+    "NAME": "Frost"
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yПассиво: В конце наносит #b",
-      " урона случайному противнику. NL #yВызвать: Наносит #b",
-      " урона случайному противнику."
+      "#yPassive: At the end of turn, deal #b",
+      " damage to a random enemy. NL #yEvoke: Deal #b",
+      " damage to a random enemy."
     ],
-    "NAME": "Молния"
+    "NAME": "Lightning"
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yПассивно: В начале каждого хода, даёт [B] . NL #yВызвать: Даёт #b",
-      " [B] . NL  #yСосредоточенность не влияет на Плазму."
+      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
+      " [B] . NL Plasma is unaffected by #yFocus."
     ],
-    "NAME": "Плазма"
+    "NAME": "Plasma"
   }
 }

@@ -728,120 +728,120 @@
     ]
   },
   "Conserve": {
-    "NAME": "Сберечь",
+    "NAME": "Conserve",
     "DESCRIPTIONS": [
-      "#yЭнергия сберегается на этом ходу.",
-      "#yЭнергия сберегается следующие #b",
-      " ходов."
+      "#yEnergy is conserved this turn.",
+      "#yEnergy is conserved for the next #b",
+      " turns."
     ]
   },
   "Amplify": {
-    "NAME": "Усилить",
+    "NAME": "Amplify",
     "DESCRIPTIONS": [
-      "В этом ходу след. #yТалант разыгрывается дважды.",
-      "В этом ходу ",
-      " след. #yТаланты разыгрываются дважды."
+      "On this turn, play your next #yPower twice.",
+      "On this turn, play your next ",
+      " #yPowers twice."
     ]
   },
   "Focus": {
-    "NAME": "Сосредоточенность",
+    "NAME": "Focus",
     "DESCRIPTIONS": [
-      "Увеличивает эффект Шаров на #b",
-      "Снижает эффект Шаров на #b",
+      "Increases the effectiveness of Orbs by #b",
+      "Decreases the effectiveness of Orbs by #b",
       "."
     ]
   },
   "Knowledge": {
     "NAME": "Знания",
     "DESCRIPTIONS": [
-      "Когда вы разыгрываете #yТалант, вы берёте #b",
-      " карт."
+      "Вы берёте #b",
+      " карты, когда разыгрываете #yТалант."
     ]
   },
   "StaticDischarge": {
-    "NAME": "Статический разряд",
+    "NAME": "Static Discharge",
     "DESCRIPTIONS": [
-      "При получении урона от #yАтак, #yНаправляет #b",
-      " #yМолний."
+      "When receiving #yAttack damage, #yChannel #b",
+      " #yLightning."
     ]
   },
   "Repair": {
-    "NAME": "Починка",
+    "NAME": "Repair",
     "DESCRIPTIONS": [
-      "В конце боя восполняет #b",
-      " ОЗ."
+      "At the end of combat, heal #b",
+      " HP."
     ]
   },
   "Buffer": {
-    "NAME": "Буффер",
+    "NAME": "Buffer",
     "DESCRIPTIONS": [
-      "Предотвращает следующую потерю ОЗ.",
-      "Предотвращает #b",
-      " следующих потерь ОЗ."
+      "Prevent the next time you would lose HP.",
+      "Prevent the next #b",
+      " times you would lose HP."
     ]
   },
   "Echo Form": {
-    "NAME": "Форма эхо",
+    "NAME": "Echo Form",
     "DESCRIPTIONS": [
-      "Первая карта разыгранная в каждом ходу разыгрывается еще #b",
-      " раз.",
-      " раз."
+      "The first card you play each turn is played #b",
+      " extra time.",
+      " extra times."
     ]
   },
   "Heatsink": {
-    "NAME": "Радиатор",
+    "NAME": "Heatsink",
     "DESCRIPTIONS": [
-      "Когда вы разыгрываете Талант, берите #b",
-      " карту.",
-      " карт."
+      "Whenever you play a Power, draw #b",
+      " card.",
+      " cards."
     ]
   },
   "No Attack": {
-    "NAME": "Без атак",
+    "NAME": "No Attack",
     "DESCRIPTIONS": [
-      "Вы не можете разыгрывать #yАтаки на этом ходу."
+      "You cannot play #yAttacks this turn."
     ]
   },
   "Storm": {
-    "NAME": "Шторм",
+    "NAME": "Storm",
     "DESCRIPTIONS": [
-      "Когда вы разыгрываете #bТалант, #yНаправляет #b ",
-      " Молний."
+      "Whenever you play a #bPower, #yChannel #b ",
+      " Lightning."
     ]
   },
   "Magnetism": {
-    "NAME": "Намагниченность",
+    "NAME": "Magnetism",
     "DESCRIPTIONS": [
-      "В начале вашего хода, добавляет #b%s случайную бесцветную карту в руку.",
-      "В начале вашего хода, добавляет #b%s случайных бесцветных карт в руку."
+      "At the start of your turn, add #b%s random colorless card to your hand.",
+      "At the start of your turn, add #b%s random colorless cards to your hand."
     ]
   },
   "Creative AI": {
-    "NAME": "ИИ Творец",
+    "NAME": "Creative AI",
     "DESCRIPTIONS": [
-      "В начале вашего хода добавляет #b",
-      " случайных Талантов вам в руку."
+      "At the start of your turn, add #b",
+      " random Power card into your hand."
     ]
   },
   "Machine Learning": {
-    "NAME": "Машинное обучение",
+    "NAME": "Machine Learning",
     "DESCRIPTIONS": [
-      "Вы берёте #b",
-      " дополнительную карту в начале каждого хода.",
-      " дополнительных карт в начале каждого хода."
+      "Draw #b",
+      " additional card at the start of each turn.",
+      " additional cards at the start of each turn."
     ]
   },
   "Bias": {
-    "NAME": "Предвзятость",
+    "NAME": "Bias",
     "DESCRIPTIONS": [
-      "В начале вашего хода, отнимает #b",
-      " #yСосредоточенности."
+      "At the start of your turn, lose #b",
+      " #yFocus."
     ]
   },
   "Wraith Form v2": {
     "NAME": "Облик призрака",
     "DESCRIPTIONS": [
-      "Отнимает #b",
+      "Отнимает #b ",
       " #yЛовкости в конце вашего хода."
     ]
   },
