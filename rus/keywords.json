@@ -16,6 +16,13 @@
       ],
       "DESCRIPTION": "Предотвращает урон до следующего хода."
     },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
     "CURSE": {
       "NAMES": [
         "проклятия",
@@ -56,11 +63,23 @@
       ],
       "DESCRIPTION": "Берутся в первую руку каждого боя."
     },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+    },
     "LOCKED": {
       "NAMES": [
         "закрыто"
       ],
       "DESCRIPTION": "Эта карта еще не открыта."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
     },
     "POISON": {
       "NAMES": [
@@ -137,6 +156,13 @@
       ],
       "DESCRIPTION": "Улучшенные карты становятся сильнее. Улучшать карты можно только один раз."
     },
+    "VOID": {
+      "NAMES": [
+        "void",
+        "voids"
+      ],
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+    },
     "VULNERABLE": {
       "NAMES": [
         "уязвимость",
@@ -201,19 +227,27 @@
       ],
       "DESCRIPTION": "Понижает ЛЮБУЮ потерю ОЗ до #b1."
     },
-    "TODO": {
+    "LIGHTNING": {
       "NAMES": [
-        "сделать",
-        "JUST FOR DEVS, HUH?",
-        "WHAT DID I JUST TELL YOU?",
-        "YOU CANNOT STOP ME",
-        "WHAT ARE YOU GOING TO DO?"
+        "lightning",
+        "lightning+"
       ],
-      "DESCRIPTION": "Эта карта ЕЩЁ НЕ ГОТОВА. Не помешало бы исправить это..."
+      "DESCRIPTION": "Orb: Deals damage to random enemies."
     },
-    "TEXT": [
-      "Энергия используется для разыгрывания карт в руке."
-    ],
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
     "PLASMA": {
       "NAMES": [
         "plasma",
@@ -228,52 +262,18 @@
       ],
       "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
     },
-    "OPENER": {
+    "TODO": {
       "NAMES": [
-        "opener"
+        "сделать",
+        "JUST FOR DEVS, HUH?",
+        "WHAT DID I JUST TELL YOU?",
+        "YOU CANNOT STOP ME",
+        "WHAT ARE YOU GOING TO DO?"
       ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+      "DESCRIPTION": "Эта карта ЕЩЁ НЕ ГОТОВА. Не помешало бы исправить это..."
     },
-    "DARK": {
-      "NAMES": [
-        "dark",
-        "dark+"
-      ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "lightning",
-        "lightning+"
-      ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
-    },
-    "VOID": {
-      "NAMES": [
-        "void",
-        "voids"
-      ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
-    },
-    "FOCUS": {
-      "NAMES": [
-        "focus"
-      ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "evoke",
-        "evoked"
-      ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
-    },
-    "FROST": {
-      "NAMES": [
-        "frost",
-        "frost+"
-      ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
-    }
+    "TEXT": [
+      "Энергия используется для разыгрывания карт в руке."
+    ]
   }
 }

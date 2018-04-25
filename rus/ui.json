@@ -28,7 +28,7 @@
     "TEXT": [
       "Латоносец",
       "Безмолвная",
-      "",
+      "Отвергнутый",
       "Вернуться",
       "История не найдена. NL Вперёд, уничтожать Шпиль!",
       "Уровень «Возвышения»: ",
@@ -108,7 +108,7 @@
     "TEXT": [
       "Латоносец",
       "Безмолвная",
-      "3rd Char. DO NOT TRANSLATE",
+      "Отвергнутый",
       "Средний достиг. уровень (20 последних попыток)",
       "Средний счёт (20 последних попыток)",
       "Лучшая череда побед",
@@ -155,6 +155,11 @@
       "заменить (Игровая фишка)."
     ]
   },
+  "ReprogramAction": {
+    "TEXT": [
+      "Discard"
+    ]
+  },
   "RetainCardsAction": {
     "TEXT": [
       "оставить."
@@ -198,6 +203,12 @@
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Выберите Атаку, чтобы добавить в руку."
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile.",
+      "Choose Cards to Put on Top of Your Draw Pile."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -313,7 +324,7 @@
       "Заблокировано",
       "Латоносец",
       "Безмолвная",
-      "the Gunner"
+      "Отвергнутый"
     ]
   },
   "AbstractCreature": {
@@ -388,7 +399,7 @@
       "Неизвестно",
       "Просмотреть улучшение",
       "Статус",
-      "Боезапас",
+      "",
       "Я могу разыгрывать карты только в свой ход.",
       "Я в #rпутах! NL Не могу разыграть Атаку",
       "Недостаточно #rэнергии.",
@@ -460,11 +471,6 @@
     ]
   },
   "DualWieldAction": {
-    "TEXT": [
-      "Копировать"
-    ]
-  },
-  "HiddenChamberAction": {
     "TEXT": [
       "Копировать"
     ]
@@ -634,7 +640,7 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Меню игры",
+      "Меню настроек",
       "Графика",
       "Разрешение: NL Макс. кадр. частота:",
       "Полн. экран NL Полн. экран без рамки (рекоменд.) NL Дрожание экрана",
@@ -653,7 +659,7 @@
       "NL NL Верт. синхронизация",
       "Тестовые изображения карт",
       "Показывать кнопки быстрого выбора карт",
-      "Input Settings"
+      "Настройка ввода"
     ]
   },
   "DailyScreen": {
@@ -685,6 +691,44 @@
       "Вернуться",
       "Прогресс НЕ сохраняется для Ежедневных вылазок."
     ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Input Settings",
+      "Game Settings",
+      "Return",
+      "Commands",
+      "Keyboard",
+      "Controller (Not Yet Available)",
+      "Reset to Default",
+      "Confirm",
+      "Cancel / Exit",
+      "Map",
+      "Master Deck",
+      "Draw Pile",
+      "Discard Pile",
+      "Exhaust Pile",
+      "End Turn",
+      "Left",
+      "Right",
+      "Select Card #1",
+      "Select Card #2",
+      "Select Card #3",
+      "Select Card #4",
+      "Select Card #5",
+      "Select Card #6",
+      "Select Card #7",
+      "Select Card #8",
+      "Select Card #9",
+      "Select Card #10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
   },
   "CardLibraryScreen": {
     "TEXT": [
@@ -794,7 +838,7 @@
       "В путь",
       "Латоносец",
       "Безмолвная",
-      "Воробот",
+      "Отвергнутый",
       "Назад",
       "Возвышение",
       "Уровень ",
@@ -987,6 +1031,11 @@
       "сжечь."
     ]
   },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
+    ]
+  },
   "TheBeyond": {
     "TEXT": [
       "Запределье"
@@ -1026,7 +1075,7 @@
       "Измените разрешение и включите/выключите дополнительные функции.",
       "Настройки ввода",
       "",
-      "Эта опция ещё не доступна.",
+      "Поменяйте назначение клавиш и быстрые клавиши.",
       "Титры",
       "",
       "Просмотрите всех, кто помог в создании Slay the Spire!",
@@ -1034,54 +1083,5 @@
       "",
       "Эта опция ещё не доступна."
     ]
-  },
-  "ReprogramAction": {
-    "TEXT": [
-      "Discard"
-    ]
-  },
-  "InputSettingsScreen": {
-    "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
-    ]
-  },
-  "CacheAction": {
-    "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
-    ]
-  },
-  "InputKeyNames": {
-    "TEXT_DICT": {
-      "Escape": "ESC",
-      "Forward Delete": "Delete",
-      "Delete": "Backspace"
-    }
   }
 }
