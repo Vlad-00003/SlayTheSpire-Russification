@@ -878,7 +878,7 @@
   },
   "Rip and Tear": {
     "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
   },
   "Multi-Cast": {
     "NAME": "Multi-Cast",
@@ -1009,8 +1009,8 @@
   },
   "Ice Wall": {
     "NAME": "Ice Wall",
-    "DESCRIPTION": "Gain !B! Block. Gain +3 Block for each Channeled Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Gain +5 Block for each Channeled Frost."
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Cold Snap": {
     "NAME": "Cold Snap",
@@ -1087,7 +1087,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. Exhaust."
+    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. NL Exhaust."
   },
   "Melter": {
     "NAME": "Melter",
@@ -1145,7 +1145,10 @@
   },
   "Thunder Strike": {
     "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Lightning Channeled this combat."
+    "DESCRIPTION": "Deal !D! damage to a random enemy for each Lightning Channeled this combat.",
+    "EXTENDED_DESCRIPTION": [
+      " (Channeled !M! Lightning.)"
+    ]
   },
   "Force Field": {
     "NAME": "Force Field",
@@ -1201,7 +1204,8 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Frost Channeled this combat.",
+    "DESCRIPTION": "Deal damage equal to twice the Frost Channeled this combat to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies.",
     "EXTENDED_DESCRIPTION": [
       " NL (Deals !D! damage.)",
       ""
@@ -1219,7 +1223,7 @@
   },
   "Flux Capacitor": {
     "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma."
+    "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
   },
   "Primitive Tech": {
     "NAME": "Primitive Tech",
