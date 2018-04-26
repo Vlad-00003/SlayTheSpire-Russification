@@ -18,10 +18,11 @@
     },
     "EVOKE": {
       "NAMES": [
-        "evoke",
-        "evoked"
+        "Разрядка сфер",
+        "разряжает",
+		"разряженную"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "Расходует самую правую сферу и активирует её эффект Разряжения."
     },
     "CURSE": {
       "NAMES": [
@@ -65,9 +66,10 @@
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "Фокус",
+		"фокуса"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "Повышает эффективность #yПризванных сфер."
     },
     "LOCKED": {
       "NAMES": [
@@ -158,10 +160,10 @@
     },
     "VOID": {
       "NAMES": [
-        "void",
-        "voids"
+        "бездна",
+        "бездну"
       ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+      "DESCRIPTION": "Ожоги — это неиграбельные статусные карты, которые отнимают Энергию, когда вы их берёте."
     },
     "VULNERABLE": {
       "NAMES": [
@@ -197,7 +199,6 @@
     "BURN": {
       "NAMES": [
         "ожог",
-        "burns"
       ],
       "DESCRIPTION": "Ожоги — это Статусные карты, которые наносят вам урон и которые нельзя разыграть."
     },
@@ -229,36 +230,40 @@
     },
     "LIGHTNING": {
       "NAMES": [
-        "lightning",
-        "lightning+"
+        "Сфера молнии",
+        "молнии"
       ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
+      "DESCRIPTION": "Наносит урон случайному врагу."
     },
     "FROST": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "Сфера льда",
+        "льда"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "Даёт #yЗащиту."
     },
     "DARK": {
       "NAMES": [
-        "dark",
-        "dark+"
+        "Сфера тьмы",
+        "тьмы"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "Повышает свой урон каждый ход. Наносит урон врагу с наименьшим кол-вом ОЗ, когда #yРазряжается."
     },
     "PLASMA": {
       "NAMES": [
-        "plasma",
-        "plasma+"
+        "Сфера плазмы",
+        "плазмы"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
+      "DESCRIPTION": "Даёт Энергию."
     },
     "CHANNEL": {
       "NAMES": [
-        "channel",
-        "channeled"
+        "Призыв сфер",
+        "призванную",
+		"призванные",
+		"призывает",
+		"призванных",
+		"призываете"
       ],
       "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
     },

@@ -877,126 +877,126 @@
     "DESCRIPTION": "Случайная карта в руке стоит 0 до конца боя. NL Сжигается."
   },
   "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "NAME": "Рвать и терзать",
+    "DESCRIPTION": "Наносит !D! урона !M! случайным врагам."
   },
   "Multi-Cast": {
-    "NAME": "Multi-Cast",
-    "DESCRIPTION": "Evoke your next Orb X times.",
-    "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
+    "NAME": "Многократный взрыв",
+    "DESCRIPTION": "Разряжает след. в очереди Сферу X раз.",
+    "UPGRADE_DESCRIPTION": "Разряжает след. в очереди Сферу X+1 раз."
   },
   "Fission": {
-    "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked."
+    "NAME": "Расщепление",
+    "DESCRIPTION": "Разряжает все Призванные сферы. Добавляет по 1 слоту для сфер за каждую из них."
   },
   "White Noise": {
-    "NAME": "White Noise",
-    "DESCRIPTION": "Add a random Power to your hand. NL It costs 0 this turn. NL Exhaust."
+    "NAME": "Белый шум",
+    "DESCRIPTION": "Добавляет в руку случайный Талант. NL Он стоит 0 до конца хода. NL Сжигается."
   },
   "Tempest": {
-    "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+    "NAME": "Буря",
+    "DESCRIPTION": "Призывает X сфер Молнии. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Призывает X+1 сфер Молнии. NL Сжигается."
   },
   "Glacier": {
-    "NAME": "Glacier",
-    "DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
+    "NAME": "Ледник",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Призывает !M! сфер Льда.",
+    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Призывает !M! сфер Льда."
   },
   "Fusion": {
-    "NAME": "Fusion",
-    "DESCRIPTION": "Channel !M! Plasma."
+    "NAME": "Слияние",
+    "DESCRIPTION": "Призывает !M! сфер Плазмы."
   },
   "Zap": {
-    "NAME": "Zap",
-    "DESCRIPTION": "Channel !M! Lightning."
+    "NAME": "Шок",
+    "DESCRIPTION": "Призывает !M! сфер Молнии."
   },
   "Chaos": {
-    "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
+    "NAME": "Опустошение",
+    "DESCRIPTION": "Призывает !M! случайных сфер.",
+    "UPGRADE_DESCRIPTION": "Призывает !M! случайных сфер."
   },
   "Reinforced Body": {
-    "NAME": "Reinforced Body",
-    "DESCRIPTION": "Gain !B! Block X times."
+    "NAME": "Укрепить корпус",
+    "DESCRIPTION": "Даёт !B! Защиты X раз."
   },
   "Reprogram": {
-    "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "NAME": "Перепрограммировать",
+    "DESCRIPTION": "Просмотрите !M! карт на верху стопки добора. Вы сможете сбросить любые из них."
   },
   "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
+    "NAME": "Отменить",
+    "DESCRIPTION": "Возвращает кол-во ОЗ к значению в прошлом ходу. NL Сжигается."
   },
   "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTION": "This turn, your next Power is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Powers are played twice."
+    "NAME": "Усилить",
+    "DESCRIPTION": "В этом ходу след. Талант разыгрывается дважды.",
+    "UPGRADE_DESCRIPTION": "В этом ходу !M! след. Таланта разыгрываются дважды.."
   },
   "Capacitor": {
-    "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slot.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
+    "NAME": "Конденсатор",
+    "DESCRIPTION": "Добавляет !M! слот для сфер.",
+    "UPGRADE_DESCRIPTION": "Добавляет !M! слота для сфер."
   },
   "Energy Pulse": {
-    "NAME": "Energy Pulse",
-    "DESCRIPTION": "Gain Block equal to your Energy.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to twice your Energy."
+    "NAME": "Выброс энергии",
+    "DESCRIPTION": "Даёт Защиту, равную кол-ву Энергии.",
+    "UPGRADE_DESCRIPTION": "Даёт Защиту, двукратную кол-ву Энергии."
   },
   "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have 0 Block, gain !B! Block."
+    "NAME": "Авто-щиты",
+    "DESCRIPTION": "Даёт !B! Защиты, если у вас 0 Защиты."
   },
   "Double Energy": {
-    "NAME": "Double Energy",
-    "DESCRIPTION": "Double your Energy. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Double your Energy."
+    "NAME": "Удвоить энергию",
+    "DESCRIPTION": "Удваивает Энергию. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Удваивает Энергию."
   },
   "Conserve Battery": {
-    "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
+    "NAME": "Режим энергосбережения",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Сохраняет Энергию на ваш след. ход."
   },
   "Expertise": {
     "NAME": "Мастерство",
     "DESCRIPTION": "Вы берёте карты, пока не наберёте в руке !M!."
   },
   "Hyperbeam": {
-    "NAME": "Hyperbeam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose !M! Focus."
+    "NAME": "Гиперлуч",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Отнимает !M! Фокуса."
   },
   "Sunder": {
-    "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills the enemy, gain [B] [B] [B]."
+    "NAME": "Раскроить",
+    "DESCRIPTION": "Наносит !D! урона. NL Убив врага, даёт [B] [B] [B]."
   },
   "Turbo": {
-    "NAME": "TURBO",
-    "DESCRIPTION": "Gain [B] [B]. NL Add a Void into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain [B] [B] [B]. NL Add a Void into your discard pile."
+    "NAME": "ТУРБО",
+    "DESCRIPTION": "Даёт [B] [B]. NL Добавляет Бездну в стопку сброса.",
+    "UPGRADE_DESCRIPTION": "Даёт [B] [B] [B]. NL Добавляет Бездну в стопку сброса."
   },
   "Hologram": {
-    "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
+    "NAME": "Голограмма",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Вы кладёте случайную карту из стопки сброса в руку.",
+    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Вы кладёте выбранную карту из стопки сброса в руку."
   },
   "Aggregate": {
-    "NAME": "Aggregate",
-    "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
+    "NAME": "Компиляция",
+    "DESCRIPTION": "Даёт по [B] за каждые !M! карт в стопке добора."
   },
   "Recycle": {
-    "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
+    "NAME": "Утилизация",
+    "DESCRIPTION": "Сжигает выбранную карту. NL Даёт [B] , равную её цене."
   },
   "Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
+    "NAME": "Вспышка",
+    "DESCRIPTION": "Наносит по !M! урона ВСЕМ врагам за каждый разыгранный в этом бою Талант.",
     "EXTENDED_DESCRIPTION": [
-      " NL Exhaust.",
-      " NL Deals !D! damage."
+      " NL Сжигается.",
+      " NL Наносит !D! урона."
     ]
   },
   "Static Discharge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "NAME": "Статический разряд",
+    "DESCRIPTION": "Призывает !M! сфер Молнии, когда вы теряете ОЗ от атак."
   },
   "Overclock": {
     "NAME": "Overclock",
@@ -1004,234 +1004,234 @@
     "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
+    "NAME": "Обстрел",
+    "DESCRIPTION": "Наносит по !D! урона за каждую Призванную сферу."
   },
   "Ice Wall": {
-    "NAME": "Ice Wall",
-    "DESCRIPTION": "Gain !B! Block. Gain +3 Block for each Channeled Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Gain +5 Block for each Channeled Frost."
+    "NAME": "Ледяная стена",
+    "DESCRIPTION": "Даёт !B! Защиты. Даёт по 3 Защиты за каждую Призванную сферу Льда.",
+    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. Даёт 5 Защиты за каждую Призванную сферу Льда."
   },
   "Cold Snap": {
-    "NAME": "Cold Snap",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
+    "NAME": "Заморозки",
+    "DESCRIPTION": "Наносит !D! урона. Призывает !M! сфер Льда."
   },
   "Ball Lightning": {
-    "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
+    "NAME": "Шаровая молния",
+    "DESCRIPTION": "Наносит !D! урона. Призывает !M! сферу Молнии."
   },
   "Winter": {
-    "NAME": "Winter",
+    "NAME": "Зима",
     "DESCRIPTION": "Deprecated."
   },
   "Meteor Strike": {
-    "NAME": "Meteor Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
+    "NAME": "Метеоритный удар",
+    "DESCRIPTION": "Наносит !D! урона. NL Призывает !M! сфер Плазмы."
   },
   "Self Repair": {
-    "NAME": "Self Repair",
-    "DESCRIPTION": "At the end of combat, heal !M! HP."
+    "NAME": "Самопочинка",
+    "DESCRIPTION": "Восполняет !M! ОЗ в конце боя."
   },
   "Axe Kick": {
-    "NAME": "Axe Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
+    "NAME": "Топор",
+    "DESCRIPTION": "Наносит !D! урона. NL Разряжает след. в очереди сферу."
   },
   "Beam Cell": {
-    "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
+    "NAME": "Лучевая ячейка",
+    "DESCRIPTION": "Наносит !D! урона и накладывает !M! Уязвимости."
   },
   "Go for the Eyes": {
-    "NAME": "Go for the Eyes",
-    "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
+    "NAME": "Целься в глаза",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Слабости, если враг намеревается атаковать."
   },
   "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
+    "NAME": "Рваная рана",
+    "DESCRIPTION": "Наносит !D! урона. NL Повышает урон всех Рваных ран на !M! в этом бою."
   },
   "Darkness": {
-    "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
+    "NAME": "Мгла",
+    "DESCRIPTION": "Накладывает !M! Слабости. NL Призывает !M! сфер Тьмы.",
+    "UPGRADE_DESCRIPTION": "Накладывает !M! Слабости. NL Накладывает !M! Уязвимости. NL Призывает !M! сфер Тьмы."
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTION": "Draw !M! additional card at the start of each turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
+    "NAME": "Машинное обучение",
+    "DESCRIPTION": "Вы берёте !M! доп. карту в начале каждого хода.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Вы берёте !M! доп. карту в начале каждого хода."
   },
   "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Use the passive effect of all of your Channeled Orbs."
+    "NAME": "Импульс",
+    "DESCRIPTION": "Активирует пассивный эффект всех Призванных сфер. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Активирует пассивный эффект всех Призванных сфер."
   },
   "Skim": {
-    "NAME": "Skim",
-    "DESCRIPTION": "Draw !M! cards."
+    "NAME": "Пролистать",
+    "DESCRIPTION": "Вы берёте !M! карт."
   },
   "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTION": "Prevent the next time you would lose HP.",
-    "UPGRADE_DESCRIPTION": "Prevent the next !M! times you would lose HP."
+    "NAME": "Буфер",
+    "DESCRIPTION": "Предотвращает след. потерю ОЗ.",
+    "UPGRADE_DESCRIPTION": "Предотвращает !M! след. потери ОЗ."
   },
   "FTL": {
-    "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
+    "NAME": "Быстрее света",
+    "DESCRIPTION": "Наносит !D! урона. Вы берёте 1 карту, если в этом ходу было разыграно меньше !M! карт."
   },
   "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice."
+    "NAME": "Облик эхо",
+    "DESCRIPTION": "Первая разыгранная в каждом ходу карта разыгрывается дважды."
   },
   "Heatsinks": {
-    "NAME": "Heatsinks",
-    "DESCRIPTION": "Whenever you play a Power card, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Whenever you play a Power card, draw !M! cards."
+    "NAME": "Радиаторы",
+    "DESCRIPTION": "Вы берёте !M! карту, когда разыгрываете Талант.",
+    "UPGRADE_DESCRIPTION": "Вы берёте !M! карт, когда разыгрываете Талант."
   },
   "Genetic Algorithm": {
-    "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. Exhaust."
+    "NAME": "Генетический алгоритм",
+    "DESCRIPTION": "Даёт !B! Защиты. Навсегда повышает даваемую Защиту на !M!. Сжигается."
   },
   "Melter": {
-    "NAME": "Melter",
-    "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
+    "NAME": "Расплавить",
+    "DESCRIPTION": "Убирает всю Защиту врага. NL Наносит !D! урона."
   },
   "Dualcast": {
-    "NAME": "Dualcast",
-    "DESCRIPTION": "Evoke your next Orb 2 times."
+    "NAME": "Сдвоенный разряд",
+    "DESCRIPTION": "Разряжает след. в очереди сферу 2 раза."
   },
   "Redo": {
-    "NAME": "Redo",
-    "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
+    "NAME": "Повторить",
+    "DESCRIPTION": "Разряжает след. в очереди сферу. NL Призывает только что Разряженную сферу."
   },
   "Rainbow": {
-    "NAME": "Rainbow",
-    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark."
+    "NAME": "Радуга",
+    "DESCRIPTION": "Призывает 1 сферу Молнии, 1 сферу Льда и 1 сферу Тьмы. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Призывает 1 сферу Молнии, 1 сферу Льда и 1 сферу Тьмы."
   },
   "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTION": "Whenever you play a Power, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power, Channel 1 Lightning."
+    "NAME": "Шторм",
+    "DESCRIPTION": "Призывает 1 сферу Молнии, когда вы разыгрываете Талант.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Призывает 1 сферу Молнии, когда вы разыгрываете Талант."
   },
   "All For One": {
-    "NAME": "All For One",
-    "DESCRIPTION": "Deal !D! damage. Put all Cost 0 cards from your discard pile into your hand."
+    "NAME": "Все за одного",
+    "DESCRIPTION": "Наносит !D! урона. Вы кладёте все карты с ценой 0 из стопки сброса в руку."
   },
   "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTION": "At the start of each turn, add a random colorless card to your hand."
+    "NAME": "Притяжение",
+    "DESCRIPTION": "Добавляет в руку случайную бесцветную карту в начале каждого вашего хода."
   },
   "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of each turn, add a random Power card to your hand."
+    "NAME": "Находчивый ИИ",
+    "DESCRIPTION": "Добавляет в руку случайный Талант в начале каждого хода."
   },
   "Defragment": {
-    "NAME": "Defragment",
-    "DESCRIPTION": "Gain !M! Focus."
+    "NAME": "Дефрагментация",
+    "DESCRIPTION": "Даёт !M! Фокуса."
   },
   "Doom and Gloom": {
-    "NAME": "Doom and Gloom",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Channel !M! Dark."
+    "NAME": "Пустота и темнота",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Призывает !M! сферу Тьмы."
   },
   "Biased Cognition": {
-    "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
+    "NAME": "Предвзятое мышление",
+    "DESCRIPTION": "Даёт !M! Фокуса. NL Отнимает 1 Фокуса в начале каждого хода."
   },
   "Stack": {
-    "NAME": "Stack",
-    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile +3.",
+    "NAME": "Стак",
+    "DESCRIPTION": "Даёт Защиту, равную кол-ву карт в стопке сброса.",
+    "UPGRADE_DESCRIPTION": "Даёт Защиту, равную кол-ву карт в стопке сброса +3.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gains !B! Block.)"
+      " NL (Даёт !B! Защиты)."
     ]
   },
   "Thunder Strike": {
-    "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Lightning Channeled this combat."
+    "NAME": "Громовой удар",
+    "DESCRIPTION": "Наносит по !D! урона случайному врагу за каждую Призванную в этом бою сферу Молнии."
   },
   "Force Field": {
-    "NAME": "Force Field",
-    "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
+    "NAME": "Силовое поле",
+    "DESCRIPTION": "Стоит на 1 [B] меньше за каждый разыгранный в этом бою Талант. NL Даёт !B! Защиты."
   },
   "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTION": "Whenever you Channel an Orb, draw !M! card."
+    "NAME": "Зарядить",
+    "DESCRIPTION": "Вы берёте !M! карту, когда Призываете сферу."
   },
   "Cache": {
-    "NAME": "Cache",
+    "NAME": "Кэш",
     "DESCRIPTION": "Deprecated."
   },
   "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTION": "Deal !D! damage. NL Place the next card you play this turn on top of your draw pile."
+    "NAME": "Отдача",
+    "DESCRIPTION": "Наносит !D! урона. NL Вы кладёте след. разыгранную в этом ходу карту на верх стопки добора."
   },
   "Allocate": {
-    "NAME": "Allocate",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
+    "NAME": "Распределение",
+    "DESCRIPTION": "Даёт !M! Фокуса. NL Отнимает 1 Силы. NL Отнимает 1 Ловкости."
   },
   "Streamline": {
-    "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
+    "NAME": "Оптимизация",
+    "DESCRIPTION": "Наносит !D! урона. NL Понижает свою цену на !M! в этом бою."
   },
   "Channel": {
     "NAME": "Channel",
     "DESCRIPTION": "Deprecated."
   },
   "Sweeping Beam": {
-    "NAME": "Sweeping Beam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card."
+    "NAME": "Сметающий луч",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Вы берёте !M! карту."
   },
   "Leap": {
-    "NAME": "Leap",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "Прыжок",
+    "DESCRIPTION": "Даёт !B! Защиты."
   },
   "Seek": {
-    "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "NAME": "Искать",
+    "DESCRIPTION": "Вы кладёте !M! выбранных из стопки добора карт в руку. NL Сжигается."
   },
   "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb. NL Exhaust."
+    "NAME": "Бластер",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Даёт по [B] за каждую Призванную сферу. NL Сжигается."
   },
   "Reboot": {
-    "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
+    "NAME": "Перезагрузка",
+    "DESCRIPTION": "Вы перетасовываете ВСЕ свои карты в стопку добора, затем берёте !M! карт. NL Сжигается."
   },
   "Steam Power": {
-    "NAME": "Steam Power",
-    "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
+    "NAME": "Паровой двигатель",
+    "DESCRIPTION": "Вы берёте !M! карты. NL Добавляет Ожог в стопку сброса."
   },
   "Blizzard": {
-    "NAME": "Blizzard",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Frost Channeled this combat.",
+    "NAME": "Метель",
+    "DESCRIPTION": "Наносит по !M! урона ВСЕМ врагам за каждую Призванную в этом бою сферу Льда.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)",
+      " NL (Наносит !D! урона.)",
       ""
     ]
   },
   "Chill": {
-    "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+    "NAME": "Изморозь",
+    "DESCRIPTION": "Призывает по !M! сфере Льда за каждого врага в бою. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Призывает по !M! Сфере Льда за каждого врага в бою. NL Сжигается."
   },
   "Coolheaded": {
-    "NAME": "Coolheaded",
-    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
+    "NAME": "Невозмутимость",
+    "DESCRIPTION": "Призывает 1 сферу Льда. NL Вы берёте !M! карту.",
+    "UPGRADE_DESCRIPTION": "Призывает 1 сферу Льда. NL Вы берёте !M! карты."
   },
   "Flux Capacitor": {
-    "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma."
+    "NAME": "Конденсатор потока",
+    "DESCRIPTION": "Заменяет все Призванные сферы на сферы Плазмы."
   },
   "Primitive Tech": {
-    "NAME": "Primitive Tech",
+    "NAME": "Примитивные технологии",
     "DESCRIPTION": "Deprecated."
   },
   "Hello World": {
-    "NAME": "Hello World",
-    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
+    "NAME": "Здравствуй, мир",
+    "DESCRIPTION": "Добавляет в руку случайную Обычную карту в начале хода.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет в руку случайную Обычную карту в начале хода."
   },
   "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+    "NAME": "Цикл",
+    "DESCRIPTION": "Активирует пассивный эффект след. в очереди сферы в начале каждого хода."
   }
 }
