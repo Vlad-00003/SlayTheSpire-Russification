@@ -887,7 +887,7 @@
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Increase your max Orb count by the number of Orbs Evoked."
+    "DESCRIPTION": "Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked."
   },
   "White Noise": {
     "NAME": "White Noise",
@@ -936,7 +936,7 @@
   "Capacitor": {
     "NAME": "Capacitor",
     "DESCRIPTION": "Gain !M! Orb slot.",
-	"UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
+    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
   },
   "Energy Pulse": {
     "NAME": "Energy Pulse",
@@ -1000,8 +1000,8 @@
   },
   "Overclock": {
     "NAME": "Overclock",
-    "DESCRIPTION": "Gain !B! Block. Upgrade a random Orb.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Upgrade all Orbs."
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Barrage": {
     "NAME": "Barrage",
@@ -1022,7 +1022,7 @@
   },
   "Winter": {
     "NAME": "Winter",
-    "DESCRIPTION": "At the start of your turn, if you have an Orb slot, Channel 1 Frost."
+    "DESCRIPTION": "Deprecated."
   },
   "Meteor Strike": {
     "NAME": "Meteor Strike",
@@ -1145,10 +1145,7 @@
   },
   "Thunder Strike": {
     "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal damage equal to your Focus to a random enemy !M! times.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)"
-    ]
+    "DESCRIPTION": "Deal !D! damage to a random enemy for each Lightning Channeled this combat."
   },
   "Force Field": {
     "NAME": "Force Field",
@@ -1160,7 +1157,7 @@
   },
   "Cache": {
     "NAME": "Cache",
-    "DESCRIPTION": "At the end of your turn, choose !M! card from your draw pile and place it on top."
+    "DESCRIPTION": "Deprecated."
   },
   "Rebound": {
     "NAME": "Rebound",
@@ -1176,7 +1173,7 @@
   },
   "Channel": {
     "NAME": "Channel",
-    "DESCRIPTION": "Whenever you play a Power card this turn, gain !M! Block."
+    "DESCRIPTION": "Deprecated."
   },
   "Sweeping Beam": {
     "NAME": "Sweeping Beam",
@@ -1192,7 +1189,7 @@
   },
   "Blaster": {
     "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb. NL Exhaust."
   },
   "Reboot": {
     "NAME": "Reboot",
@@ -1204,10 +1201,10 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Frost Channeled this combat.",
+    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Frost Channeled this combat.",
     "EXTENDED_DESCRIPTION": [
-      " NL You have Channeled ",
-      " Frost."
+      " NL (Deals !D! damage.)",
+      ""
     ]
   },
   "Chill": {
@@ -1226,7 +1223,7 @@
   },
   "Primitive Tech": {
     "NAME": "Primitive Tech",
-    "DESCRIPTION": "Whenever you play a card of Common rarity, draw !M! card."
+    "DESCRIPTION": "Deprecated."
   },
   "Hello World": {
     "NAME": "Hello World",
