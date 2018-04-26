@@ -265,7 +265,7 @@
         "призванных",
         "призываете"
       ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+      "DESCRIPTION": "Призванные сферы помещаются в первый пустой слот. Если пустых слотов нет, то самая правая сфера автоматически #yРазряжается, освобождая место."
     },
     "TODO": {
       "NAMES": [
