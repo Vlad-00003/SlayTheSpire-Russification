@@ -913,8 +913,8 @@
   },
   "Chaos": {
     "NAME": "Хаос",
-    "DESCRIPTION": "Призывает !M! случ. сфер.",
-    "UPGRADE_DESCRIPTION": "Призывает !M! случ. сфер."
+    "DESCRIPTION": "Призывает !M! случайную сферу.",
+    "UPGRADE_DESCRIPTION": "Призывает !M! случайные сферы."
   },
   "Reinforced Body": {
     "NAME": "Укрепить корпус",
@@ -1026,7 +1026,7 @@
   },
   "Meteor Strike": {
     "NAME": "Метеоритный удар",
-    "DESCRIPTION": "Наносит !D! урона. NL Призывает !M! Сферу Плазмы."
+    "DESCRIPTION": "Наносит !D! урона. NL Призывает !M! Сферы Плазмы."
   },
   "Self Repair": {
     "NAME": "Самопочинка",
