@@ -103,117 +103,117 @@
     ]
   },
   "SmokeBomb": {
-    "NAME": "Smoke Bomb",
+    "NAME": "Дымовая шашка",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
+      "Позволяет сбежать из боя, не получив наград. Не работает на боссов."
     ]
   },
   "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
+    "NAME": "Экстракт стали",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
+      "Даёт #b",
+      " #yЛатных #yДоспехов."
     ]
   },
   "FocusPotion": {
-    "NAME": "Focus Potion",
+    "NAME": "Зелье фокуса",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus."
+      "Даёт #b",
+      " #yФокуса."
     ]
   },
   "BloodPotion": {
-    "NAME": "Blood Potion",
+    "NAME": "Зелье крови",
     "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
+      "Восполняет ОЗ в количестве #b",
+      "% от макс. ОЗ."
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "Настой энтропии",
     "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
+      "Все пустые места для зелий заполняются случайными зельями."
     ]
   },
   "AttackPotion": {
-    "NAME": "Attack Potion",
+    "NAME": "Зелье атаки",
     "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
+      "Добавляет в руку случ. Атаку. В этом ходу она стоит #b0."
     ]
   },
   "SteroidPotion": {
-    "NAME": "Steroid Potion",
+    "NAME": "Стероиды",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yStrength. At the end of your turn, lose #b",
-      " #yStrength."
+      "Даёт #b",
+      " #yСилы. Отнимает #b",
+      " #yСилы в конце хода."
     ]
   },
   "PowerPotion": {
-    "NAME": "Power Potion",
+    "NAME": "Зелье таланта",
     "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
+      "Добавляет в руку случ. Талант. NL В этом ходу он стоит #b0."
     ]
   },
   "LiquidBronze": {
-    "NAME": "Liquid Bronze",
+    "NAME": "Жидкая бронза",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
+      "Даёт #b",
+      " #yШипов."
     ]
   },
   "SkillPotion": {
-    "NAME": "Skill Potion",
+    "NAME": "Зелье навыка",
     "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
+      "Добавляет в руку случ. Навык. NL В этом ходу он стоит #b0."
     ]
   },
   "Fruit Juice": {
-    "NAME": "Fruit Juice",
+    "NAME": "фруктовый сок",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
+      "Даёт #b",
+      " Макс. ОЗ."
     ]
   },
   "FearPotion": {
-    "NAME": "Fear Potion",
+    "NAME": "Зелье ужаса",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
+      "Накладывает #b",
+      " #yУязвимости."
     ]
   },
   "SneckoOil": {
-    "NAME": "Snecko Oil",
+    "NAME": "Масла Змекко",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " cards. Become #yConfused."
+      "Вы берёте #b",
+      " карты. Вы приходите в #yЗамешательство."
     ]
   },
   "SpeedPotion": {
-    "NAME": "Speed Potion",
+    "NAME": "Зелье скорости",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yDexterity. At the end of your turn, lose #b",
-      " #yDexterity."
+      "Даёт #b",
+      " #yЛовкости. Отнимает #b",
+      " #yЛовкости в конце хода."
     ]
   },
   "GamblersBrew": {
-    "NAME": "Gambler's Brew",
+    "NAME": "Настойка игрока",
     "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
+      "Сбросьте любое количество карт и возьмите столько же."
     ]
   },
   "FairyPotion": {
-    "NAME": "Fairy Potion",
+    "NAME": "Фея в бутылке",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "Вместо того, чтобы умереть, вы восполняете #b10% Макс. ОЗ и сбрасываете это зелье."
     ]
   },
   "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
+    "NAME": "Призрак в банке",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible."
+      "Даёт #b",
+      " #yПризрачности."
     ]
   }
 }
