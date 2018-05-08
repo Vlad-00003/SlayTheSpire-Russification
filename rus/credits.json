@@ -220,5 +220,11 @@
   "THANKS_MSG": {
     "HEADER": "...и спасибо ВАМ за игру!",
     "NAMES": []
+  },
+  "LOC_SRB": {
+    "HEADER": "Перевод на сербский",
+    "NAMES": [
+      "Никола «hauzer» Вукославлевич (Nikola «hauzer» Vukosavljević)"
+    ]
   }
 }

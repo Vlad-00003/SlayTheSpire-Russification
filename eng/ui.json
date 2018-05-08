@@ -152,7 +152,13 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Replace (Gambling Chip)"
+      "Replace (Gambling Chip)",
+	  "Replace"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
     ]
   },
   "ReprogramAction": {
@@ -198,6 +204,12 @@
   "SkillFromDeckToHandAction": {
     "TEXT": [
       "Choose a Skill to Add to Your Hand"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a Card to Add to Your Hand",
+	  "Choose Cards to Add to Your Hand"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -369,7 +381,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Mugged..."
+      "Mugged...",
+	  "Fled..."
     ]
   },
   "SingleViewRelicPopup": {
@@ -468,6 +481,11 @@
   "ArmamentsAction": {
     "TEXT": [
       "Upgrade"
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
     ]
   },
   "DualWieldAction": {
@@ -1011,6 +1029,11 @@
   "OpeningAction": {
     "TEXT": [
       "That enemy does not intend to attack!"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
     ]
   },
   "ApplyPowerAction": {
