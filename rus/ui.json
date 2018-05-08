@@ -152,7 +152,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "заменить (Игровая фишка)."
+      "заменить (Игровая фишка).",
+      "заменить"
     ]
   },
   "DiscardPileToHandAction": {
@@ -380,7 +381,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Вас ограбили..."
+      "Вас ограбили...",
+      "Вы сбежали..."
     ]
   },
   "SingleViewRelicPopup": {
