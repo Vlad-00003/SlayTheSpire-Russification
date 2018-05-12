@@ -912,7 +912,7 @@
       "#r%s Turns",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yGold",
-      "Picked %s",
+      "Picked:",
       "Skipped:",
       "Missing Info"
     ]

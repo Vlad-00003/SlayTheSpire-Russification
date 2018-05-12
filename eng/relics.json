@@ -738,6 +738,13 @@
       "Gain [B] at the start of each turn."
     ]
   },
+  "Potion Belt": {
+    "NAME": "Potion Belt",
+    "FLAVOR": "I can hold more Potions using this belt!",
+    "DESCRIPTIONS": [
+      "Upon pick up, gain #b1 Potion slot."
+    ]
+  },
   "Prayer Wheel": {
     "NAME": "Prayer Wheel",
     "FLAVOR": "The wheel continues to spin, never stopping.",

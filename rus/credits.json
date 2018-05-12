@@ -25,6 +25,10 @@
       "MoGi Group"
     ]
   },
+  "LOC_CAT": {
+    "HEADER": "Catalan Localization",
+    "NAMES": []
+  },
   "LOC_DEU": {
     "HEADER": "Перевод на немецкий",
     "NAMES": [
@@ -145,6 +149,10 @@
       "Эрдем Гюрбюз (Erdem Gürbüz)"
     ]
   },
+  "LOC_UKR": {
+    "HEADER": "Ukrainian Localization",
+    "NAMES": []
+  },
   "LOC_ZHS": {
     "HEADER": "Перевод на китайский (упрощённый)",
     "NAMES": [
@@ -230,13 +238,5 @@
       "Тамара Райан (Tamara Ryan)",
       "Майкл Швальбе (Michael Schwalbe)"
     ]
-  },
-  "LOC_CAT": {
-    "HEADER": "Catalan Localization",
-    "NAMES": []
-  },
-  "LOC_UKR": {
-    "HEADER": "Ukrainian Localization",
-    "NAMES": []
   }
 }
