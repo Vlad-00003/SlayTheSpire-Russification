@@ -909,11 +909,11 @@
     ]
   },
   "Equilibrium": {
-    "NAME": "Equilibrium",
+    "NAME": "Эквилибриум",
     "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
+      "Вы не сбрасываете карты в конце текущего хода.",
+      "Вы не сбрасываете карты в конце следующих #b",
+      " ходов."
     ]
   }
 }
