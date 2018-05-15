@@ -647,7 +647,7 @@
   },
   "Hologram": {
     "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
+    "DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
   },
   "Hyperbeam": {
@@ -1216,8 +1216,8 @@
     ]
   },
   "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
+    "NAME": "Equilibrium",
+    "DESCRIPTION": "Gain !B! Block. NL Retain your hand this turn."
   },
   "Unload": {
     "NAME": "Unload",

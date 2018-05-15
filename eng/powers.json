@@ -674,11 +674,11 @@
     ]
   },
   "Regeneration": {
-    "NAME": "Regeneration",
+    "NAME": "Regen",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " #yHP at the end of your turn for #b",
-      " turns."
+      "At the end of your turn, heal #b",
+      " #yHP, then reduce #yRegen by #b1.",
+      ""
     ]
   },
   "Repair": {
@@ -907,6 +907,14 @@
     "DESCRIPTIONS": [
       "At the end of your turn, lose #b",
       " #yDexterity."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
     ]
   }
 }

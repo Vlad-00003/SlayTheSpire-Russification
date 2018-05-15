@@ -675,9 +675,9 @@
   "Regeneration": {
     "NAME": "Регенерация",
     "DESCRIPTIONS": [
-      "Восполняет #b",
-      " #yОЗ в конце вашего хода. Длится #b",
-      " ход(а)."
+      "В конце вашего хода, восполняет #b",
+      " #yОЗ, затем понижает #yРегенерацию на #b1",
+      ""
     ]
   },
   "Repair": {
@@ -906,6 +906,14 @@
     "DESCRIPTIONS": [
       "Отнимает #b ",
       " #yЛовкости в конце вашего хода."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
     ]
   }
 }
