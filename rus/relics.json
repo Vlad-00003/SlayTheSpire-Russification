@@ -1155,11 +1155,11 @@
     ]
   },
   "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "NAME": "Заводной ботинок",
+    "FLAVOR": "Становится больше, когда вы его заводите.",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
+      "Незаблокированный урон от #yАтак менее или равный #b",
+      " увеличивается до #b5."
     ]
   }
 }
