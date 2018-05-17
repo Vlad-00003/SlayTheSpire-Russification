@@ -284,7 +284,6 @@
       " times."
     ]
   },
-
   "Energized": {
     "NAME": "Energized",
     "DESCRIPTIONS": [
@@ -305,6 +304,14 @@
     "DESCRIPTIONS": [
       "Whenever you deal unblocked #yAttack damage, apply #b",
       " #yPoison."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
     ]
   },
   "Evolve": {
@@ -907,14 +914,6 @@
     "DESCRIPTIONS": [
       "At the end of your turn, lose #b",
       " #yDexterity."
-    ]
-  },
-  "Equilibrium": {
-    "NAME": "Equilibrium",
-    "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
     ]
   }
 }

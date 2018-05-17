@@ -27,9 +27,8 @@
   },
   "LOC_CAT": {
     "HEADER": "Catalan Localization",
-    "NAMES": [
-    ]
-  },  
+    "NAMES": []
+  },
   "LOC_DEU": {
     "HEADER": "German Localization",
     "NAMES": [
@@ -152,8 +151,7 @@
   },
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
-    "NAMES": [
-    ]
+    "NAMES": []
   },
   "LOC_ZHS": {
     "HEADER": "Chinese (Simplified) Localization",

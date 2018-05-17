@@ -730,7 +730,7 @@
   "Loop": {
     "NAME": "Loop",
     "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb.",
-	"UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
