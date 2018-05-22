@@ -293,6 +293,10 @@
     "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
     "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
   },
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
+  },
   "Corpse Explosion": {
     "NAME": "Corpse Explosion",
     "DESCRIPTION": "Enemy loses all Poison. Deal damage equal to twice the amount lost to ALL enemies.",

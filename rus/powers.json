@@ -339,6 +339,14 @@
       " карты больше."
     ]
   },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
+    ]
+  },
   "Feel No Pain": {
     "NAME": "Забыть о боли",
     "DESCRIPTIONS": [
@@ -764,6 +772,13 @@
     "DESCRIPTIONS": [
       "Вы получаете #b",
       " урона, когда разыгрываете #yАтаку."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
     ]
   },
   "Shriek From Beyond": {

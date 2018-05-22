@@ -339,6 +339,14 @@
       " extra cards next turn."
     ]
   },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
+    ]
+  },
   "Feel No Pain": {
     "NAME": "Feel No Pain",
     "DESCRIPTIONS": [
@@ -764,6 +772,13 @@
     "DESCRIPTIONS": [
       "Whenever you play an #yAttack, take #b",
       " damage."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
     ]
   },
   "Shriek From Beyond": {

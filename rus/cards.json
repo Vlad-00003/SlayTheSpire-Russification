@@ -293,6 +293,10 @@
     "DESCRIPTION": "Заряжает 1 Сферу Льда. NL Вы берёте !M! карту.",
     "UPGRADE_DESCRIPTION": "Заряжает 1 Сферу Льда. NL Вы берёте !M! карты."
   },
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
+  },
   "Corpse Explosion": {
     "NAME": "Взрыв трупа",
     "DESCRIPTION": "Снимает с врага весь Яд. Наносит ВСЕМ врагам урон, двукратный снятому Яду.",
