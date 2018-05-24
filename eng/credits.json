@@ -151,7 +151,9 @@
   },
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
-    "NAMES": []
+    "NAMES": [
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
+    ]
   },
   "LOC_ZHS": {
     "HEADER": "Chinese (Simplified) Localization",
