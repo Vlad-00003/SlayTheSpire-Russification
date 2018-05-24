@@ -340,11 +340,11 @@
     ]
   },
   "Fading": {
-    "NAME": "Fading",
+    "NAME": "Увядает",
     "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "Умрёт через #b",
+      " ход(а).",
+      "Умрёт в этом ходу."
     ]
   },
   "Feel No Pain": {
@@ -775,10 +775,10 @@
     ]
   },
   "Shifting": {
-    "NAME": "Shifting",
+    "NAME": "Искажается",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
+      "",
+      " теряет #yСилу в кол-ве полученного урона до конца текущего хода."
     ]
   },
   "Shriek From Beyond": {
