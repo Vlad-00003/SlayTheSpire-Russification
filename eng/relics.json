@@ -842,8 +842,8 @@
     "NAME": "Runic Pyramid",
     "FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-      "At the end of your turn, you no longer discard your hand. NL Draw #b",
-      " less card each turn."
+      "At the end of your turn, you no longer discard your hand.",
+      ""
     ]
   },
   "Self Forming Clay": {
