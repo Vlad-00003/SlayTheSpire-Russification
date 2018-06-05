@@ -134,7 +134,10 @@
       "Ascimator",
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
-      "Alexandr \"LiaNdrY\" Mazistov"
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Shop Asset Translation:",
+      "Urist McFerrum"
     ]
   },
   "LOC_SRB": {
@@ -151,7 +154,9 @@
   },
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
-    "NAMES": []
+    "NAMES": [
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
+    ]
   },
   "LOC_ZHS": {
     "HEADER": "Chinese (Simplified) Localization",
@@ -225,7 +230,8 @@
       "Alexander Toy",
       "Merijn van der Vliet",
       "David Von Derau",
-      "Conor Watson"
+      "Conor Watson",
+      "David \"divadus\" Withington"
     ]
   },
   "THANKS_MSG": {

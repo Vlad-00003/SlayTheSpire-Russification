@@ -21,7 +21,8 @@
       "Blocked",
       "Max HP +",
       "Stunned!",
-      "Interrupted!"
+      "Interrupted!",
+      "Relics"
     ]
   },
   "AbstractDungeon": {
@@ -219,7 +220,8 @@
       "Choose a Card",
       "+2 Max HP",
       "VOTE NOW: ",
-      "s left."
+      "s left.",
+      "View Upgrade"
     ]
   },
   "CharacterOption": {
@@ -296,7 +298,8 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "Click again to exit",
+      "to exit"
     ]
   },
   "DailyScreen": {
@@ -477,7 +480,8 @@
       "What's an Open Beta?",
       "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
       "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
-      "Click anywhere to Start"
+      "Click anywhere to Start",
+      "Continue"
     ]
   },
   "End Turn Button": {
@@ -567,10 +571,10 @@
       "Keyboard",
       "Controller (Not Yet Available)",
       "Reset to Default",
-      "Confirm",
+      "Confirm Card",
       "Cancel / Exit",
       "Map",
-      "Master Deck",
+      "View Deck",
       "Draw Pile",
       "Discard Pile",
       "Exhaust Pile",
@@ -586,7 +590,14 @@
       "Select Card #7",
       "Select Card #8",
       "Select Card #9",
-      "Select Card #10"
+      "Select Card #10",
+      "Release Card",
+      "Up",
+      "Down",
+      "Select",
+      "End Turn / Info",
+      "Tab Left",
+      "Tab Right"
     ]
   },
   "LanguageDropdown": {
@@ -682,7 +693,8 @@
       "#yBuild: ",
       "Embark",
       "Return",
-      "click to edit"
+      "click to edit",
+      "to edit"
     ]
   },
   "MasterDeckViewScreen": {

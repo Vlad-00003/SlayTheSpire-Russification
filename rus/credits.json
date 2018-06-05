@@ -134,7 +134,10 @@
       "Ascimator",
       "Екатерина «Meds» Белименко-Болджер (Kateryna «Meds» Belimenko-Bolger)",
       "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)",
-      "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)"
+      "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)",
+      "Дмитрий «Regallion» Жиряков (Dmitry «Regallion» Zhiryakov)",
+      "Перевод графики магазина:",
+      "Urist McFerrum"
     ]
   },
   "LOC_SRB": {
@@ -151,7 +154,9 @@
   },
   "LOC_UKR": {
     "HEADER": "Перевод на украинский",
-    "NAMES": []
+    "NAMES": [
+      "Владислав «DarkXylese» Каштелянов (Vladyslav «DarkXylese» Kashtelyanov)"
+    ]
   },
   "LOC_ZHS": {
     "HEADER": "Перевод на китайский (упрощённый)",
@@ -225,7 +230,8 @@
       "Александр Той (Alexander Toy)",
       "Мерийн ван дер Влиет (Merijn van der Vliet)",
       "Дэвид Фон Дерау (David Von Derau)",
-      "Конор Уотсон (Conor Watson)"
+      "Конор Уотсон (Conor Watson)",
+      "Дэвид «divadus» Уиттингтон (David «divadus» Withington)"
     ]
   },
   "THANKS_MSG": {

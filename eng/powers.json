@@ -162,7 +162,8 @@
     "NAME": "Creative AI",
     "DESCRIPTIONS": [
       "At the start of your turn, add #b",
-      " random Power card into your hand."
+      " random Power card into your hand.",
+      " random Power cards into your hand."
     ]
   },
   "Curiosity": {
@@ -280,8 +281,8 @@
     "NAME": "Electro",
     "DESCRIPTIONS": [
       "#yLightning hits ALL enemies.",
-      " NL If there is only #b1 enemy, #yLightning hits #b",
-      " times."
+      "",
+      ""
     ]
   },
   "Energized": {
@@ -337,6 +338,14 @@
       "Draw #b1 more card next turn.",
       "Draw #b",
       " extra cards next turn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
     ]
   },
   "Feel No Pain": {
@@ -764,6 +773,13 @@
     "DESCRIPTIONS": [
       "Whenever you play an #yAttack, take #b",
       " damage."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
     ]
   },
   "Shriek From Beyond": {
