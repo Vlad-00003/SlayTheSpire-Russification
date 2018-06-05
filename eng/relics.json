@@ -151,6 +151,16 @@
       " HP."
     ]
   },
+  "Busted Crown": {
+    "NAME": "Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
+      "Gain [R] at the start of each turn. ",
+      "Gain [G] at the start of each turn. ",
+      "Gain [B] at the start of each turn. "
+    ]
+  },
   "Cables": {
     "NAME": "Gold-Plated Cables",
     "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
@@ -504,6 +514,13 @@
     "FLAVOR": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle.",
     "DESCRIPTIONS": [
       "Gain [R] at the start of each turn. Start combats with #b2 #rWounds in your draw pile."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Mark of the Bloom",
+    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "DESCRIPTIONS": [
+      "You can no longer heal."
     ]
   },
   "Matryoshka": {

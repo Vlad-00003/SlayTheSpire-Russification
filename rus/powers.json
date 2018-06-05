@@ -294,6 +294,15 @@
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
+  "EnergizedBlue": {
+    "NAME": "Энергичность",
+    "DESCRIPTIONS": [
+      "Даёт #b",
+      " [B] в вашем след. ходу.",
+      " [B] в вашем след. ходу.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
   "Entangled": {
     "NAME": "Путы",
     "DESCRIPTIONS": [

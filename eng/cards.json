@@ -286,7 +286,7 @@
   },
   "Conserve Battery": {
     "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
+    "DESCRIPTION": "Gain !B! Block. NL Next turn gain [B]."
   },
   "Consume": {
     "NAME": "Consume",
@@ -985,6 +985,10 @@
   "Rip and Tear": {
     "NAME": "Rip and Tear",
     "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+  },
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
   },
   "Rupture": {
     "NAME": "Rupture",
