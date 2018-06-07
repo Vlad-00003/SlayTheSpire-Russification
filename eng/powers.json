@@ -846,8 +846,8 @@
   "Storm": {
     "NAME": "Storm",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
+      "Whenever you play a #bPower, #yChannel #b",
+      " #yLightning."
     ]
   },
   "Strength": {
