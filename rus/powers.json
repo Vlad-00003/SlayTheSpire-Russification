@@ -888,10 +888,10 @@
     ]
   },
   "TimeMazePower": {
-    "NAME": "Time Maze",
+    "NAME": "Лабиринт времени",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
+      "Когда вы разыграете #b",
+      " карт, ваш ход завершится"
     ]
   },
   "Tools Of The Trade": {
