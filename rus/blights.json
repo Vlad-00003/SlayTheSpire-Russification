@@ -1,22 +1,22 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Deadly Enemies",
+    "NAME": "Усиление",
     "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
+      "Враги наносят на #b",
+      "% большше урона."
     ]
   },
   "TimeMaze": {
-    "NAME": "Time Maze",
+    "NAME": "Лабиринт времени",
     "DESCRIPTION": [
-      "Enemies have the Time Maze power."
+      "Враги обладают способностью 'Лабиринт времени'."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Tough Enemies",
+    "NAME": "Живучесть",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
+      "Враги имеют на #b",
+      "% больше ОЗ."
     ]
   }
 }
