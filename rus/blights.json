@@ -1,9 +1,9 @@
 {
   "Accursed": {
-    "NAME": "Проклятый",
+    "NAME": "Accursed",
     "DESCRIPTION": [
-      "Даёт #b",
-      " случайных #yПроклятий, в момент получения."
+      "Upon pickup, obtain #b",
+      " random #yCurses."
     ]
   },
   "DeadlyEnemies": {
@@ -14,10 +14,10 @@
     ]
   },
   "Scatterbrain": {
-    "NAME": "Растяпа",
+    "NAME": "Scatterbrain",
     "DESCRIPTION": [
-      "Даёт #b",
-      " случайных карт, в момент получения."
+      "Upon pickup, obtain #b",
+      " random cards."
     ]
   },
   "TimeMaze": {
@@ -34,10 +34,10 @@
     ]
   },
   "TwistingMind": {
-    "NAME": "Искажение разума",
+    "NAME": "Twisting Mind",
     "DESCRIPTION": [
-      "#yТрансформирует #b",
-      " случайных карт, в момент получения."
+      "Upon pickup, #yTransform #b",
+      " cards."
     ]
   }
 }
