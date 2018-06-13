@@ -1,9 +1,23 @@
 {
+  "Accursed": {
+    "NAME": "Accursed",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random #yCurses."
+    ]
+  },
   "DeadlyEnemies": {
     "NAME": "Deadly Enemies",
     "DESCRIPTION": [
       "Enemies deal #b",
       "% more damage."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Scatterbrain",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random cards."
     ]
   },
   "TimeMaze": {
@@ -17,6 +31,13 @@
     "DESCRIPTION": [
       "Enemies have #b",
       "% more HP."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Twisting Mind",
+    "DESCRIPTION": [
+      "Upon pickup, #yTransform #b",
+      " cards."
     ]
   }
 }

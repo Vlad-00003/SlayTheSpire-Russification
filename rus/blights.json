@@ -1,9 +1,23 @@
 {
+  "Accursed": {
+    "NAME": "Accursed",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random #yCurses."
+    ]
+  },
   "DeadlyEnemies": {
     "NAME": "Усиление",
     "DESCRIPTION": [
       "Враги наносят на #b",
       "% большше урона."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Scatterbrain",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random cards."
     ]
   },
   "TimeMaze": {
@@ -17,6 +31,13 @@
     "DESCRIPTION": [
       "Враги имеют на #b",
       "% больше ОЗ."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Twisting Mind",
+    "DESCRIPTION": [
+      "Upon pickup, #yTransform #b",
+      " cards."
     ]
   }
 }
