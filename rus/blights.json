@@ -1,43 +1,43 @@
 {
   "Accursed": {
-    "NAME": "Accursed",
+    "NAME": "Проклятый",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "При получении, даёт #b",
+      " случайных #Проклятий."
     ]
   },
   "DeadlyEnemies": {
-    "NAME": "Усиление",
+    "NAME": "Могущество Мора",
     "DESCRIPTION": [
-      "Враги наносят на #b",
-      "% большше урона."
+      "Противники наносят на #b",
+      "% больше урона."
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "Растяпа",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random cards."
+      "При получении, даёт #b",
+      " случайные карты."
     ]
   },
   "TimeMaze": {
     "NAME": "Лабиринт времени",
     "DESCRIPTION": [
-      "Враги обладают способностью 'Лабиринт времени'."
+      "Враги получают способность «Лабиринт времени»."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Живучесть",
+    "NAME": "Защита Мора",
     "DESCRIPTION": [
-      "Враги имеют на #b",
+      "Противники получают на #b",
       "% больше ОЗ."
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "Искажение сознания",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "При получении, #yИзменяет #b",
+      " карт."
     ]
   }
 }
