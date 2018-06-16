@@ -36,7 +36,8 @@
       "Дастин «Skrelpoid» Кристен (Dustin «Skrelpoid» Kristen)",
       "Джонас Тродлер (Jonas Trodler)",
       "Hongkong Koma",
-      "Moly"
+      "Moly",
+      "koykoy13"
     ]
   },
   "LOC_FRA": {
@@ -53,6 +54,12 @@
       "Хьюго «Tagadda» Вурпилло (Hugo «Tagadda» Vurpillot)",
       "Корентен «Tchus» Монфор (Corentin «Tchus» Monfort)",
       "Закари «WyvernZed» Джанис (Zachary «WyvernZed» Janisse)"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "Greek Localization",
+    "NAMES": [
+      "Котсос «Iglor» Даймонд (Kotsos «Iglor» Diamond)"
     ]
   },
   "LOC_ITA": {

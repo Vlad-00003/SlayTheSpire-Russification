@@ -294,6 +294,15 @@
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
   "Entangled": {
     "NAME": "Entangled",
     "DESCRIPTIONS": [
@@ -837,8 +846,8 @@
   "Storm": {
     "NAME": "Storm",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
+      "Whenever you play a #bPower, #yChannel #b",
+      " #yLightning."
     ]
   },
   "Strength": {
@@ -876,6 +885,13 @@
       "Whenever you play #b",
       " cards, your turn is ended and Time Eater gains #b",
       " #yStrength."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
     ]
   },
   "Tools Of The Trade": {
