@@ -54,7 +54,7 @@
   "MimicInfestation": {
     "NAME": "Mimic Infestation",
     "DESCRIPTION": [
-      "Treasure rooms in future acts are replaced by Elites."
+      "Treasure rooms in future acts are replaced by Elites. Elites no longer drop relics."
     ]
   },
   "Scatterbrain": {
