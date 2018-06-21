@@ -372,6 +372,13 @@
       " HP whenever you enter a Rest Site."
     ]
   },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
+    ]
+  },
   "Frozen Egg": {
     "NAME": "Frozen Egg",
     "FLAVOR": "The egg lies inert and frozen, never to hatch.",
@@ -666,6 +673,14 @@
     "FLAVOR": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
     "DESCRIPTIONS": [
       "#bTriples the chance of receiving rare cards as monster rewards."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
     ]
   },
   "Nuclear Battery": {
@@ -967,6 +982,14 @@
     "FLAVOR": "The charred remains of your offering to the spirits.",
     "DESCRIPTIONS": [
       "It's unpleasant."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "DESCRIPTIONS": [
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
     ]
   },
   "Strange Spoon": {

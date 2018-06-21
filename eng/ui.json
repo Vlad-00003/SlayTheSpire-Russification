@@ -129,6 +129,11 @@
       " Unlocked!"
     ]
   },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension Unlocked!"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Choose an Attack to Add to Your Hand"
@@ -613,7 +618,8 @@
       "Left (Alt)*",
       "Right (Alt)*",
       "Up",
-      "Down"
+      "Down",
+      "Controller Enabled"
     ]
   },
   "LanguageDropdown": {
