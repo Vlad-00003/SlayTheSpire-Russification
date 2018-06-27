@@ -27,6 +27,10 @@
     "NAME": "Big Game Hunter",
     "DESCRIPTION": "Elite enemies are now swarming the Spire and drop better rewards."
   },
+  "Endless": {
+    "NAME": "Endless",
+    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+  },
   "Heirloom": {
     "NAME": "Heirloom",
     "DESCRIPTION": "Start with 1 Rare relic."

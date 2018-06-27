@@ -309,6 +309,19 @@
       "to exit"
     ]
   },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed"
+    ]
+  },
   "DailyScreen": {
     "TEXT": [
       "Daily Challenge",
@@ -786,8 +799,8 @@
       "Unknown",
       "Win a Daily Climb to unlock this game mode.",
       "This feature is not yet available.",
-      "Endless",
-      "Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
+      "Custom",
+      "Customize your own run with unique modifiers."
     ]
   },
   "MerchantImageTextNotInGame": {
