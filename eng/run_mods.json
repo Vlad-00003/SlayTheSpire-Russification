@@ -39,6 +39,10 @@
     "NAME": "Hoarder",
     "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
   },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
+  },
   "Insanity": {
     "NAME": "Insanity",
     "DESCRIPTION": "Start with a random deck of 50 cards."
@@ -51,9 +55,21 @@
     "NAME": "Midas",
     "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
   },
+  "My True Form": {
+    "NAME": "My True Form",
+    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+  },
   "Night Terrors": {
     "NAME": "Night Terrors",
     "DESCRIPTION": "Resting at Rest Sites heals 100% of your HP, but costs 5 max HP."
+  },
+  "One Hit Wonder": {
+    "NAME": "One Hit Wonder",
+    "DESCRIPTION": "Start the game with 1 max HP."
+  },
+  "Praise Snecko": {
+    "NAME": "Praise Snecko",
+    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
   },
   "Shiny": {
     "NAME": "Shiny",
@@ -62,6 +78,10 @@
   "Specialized": {
     "NAME": "Specialized",
     "DESCRIPTION": "Start with 5 copies of a single rare card."
+  },
+  "Starter Deck": {
+    "NAME": "Starter Deck",
+    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
   },
   "Terminal": {
     "NAME": "Terminal",
