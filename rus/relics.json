@@ -256,6 +256,14 @@
       "#yЗаряжает #b1 #yСферу Молнии в начале каждого боя."
     ]
   },
+  "CultistMask": {
+    "NAME": "Cultist Headpiece",
+    "FLAVOR": "Part of the Flock!",
+    "DESCRIPTIONS": [
+      "You feel more talkative.",
+      "@CAW!@ NL @CAAAW@"
+    ]
+  },
   "Cursed Key": {
     "NAME": "Проклятый ключ",
     "FLAVOR": "Вы чувствуете, как от ключа исходит губительная аура. У силы есть своя цена.",
@@ -447,6 +455,13 @@
       " [R] и берёте #b1 карту, когда умирает враг.",
       " [G] и берёте #b1 карту, когда умирает враг.",
       " [B] и берёте #b1 карту, когда умирает враг."
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlin Visage",
+    "FLAVOR": "Time to run.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b1 #yWeak."
     ]
   },
   "Happy Flower": {

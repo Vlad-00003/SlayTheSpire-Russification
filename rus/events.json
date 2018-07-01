@@ -183,14 +183,18 @@
   "FaceTrader": {
     "NAME": "Торговец лицами",
     "DESCRIPTIONS": [
-      "ПОХОЖЕ ТЕБЕ НЕ ПОМЕШАЕТ НОВОЕ ЛИЦО!",
-      "ЭТО НОВОЕ ЛИЦО ВАМ К ЛИЦУ!"
+      "You walk by an eerie statue holding several masks... NL Something behind you softly whispers, NL ~\"Stop.\"~",
+      "You swerve around to face the statue which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
     ],
     "OPTIONS": [
-      "[Маска Н'лота] #gПри #gразыгрывании #gРедких #gкарт, #gдаёт #g3 #gЗащиты.",
-      "[Голова З-з-з-з-змея] #gПри #gначале #gлюбого #gсобытия, #gдаёт #g50 #gЗолота.",
-      "[Лицо Клирика] #gПосле #gкаждого #gбоя #gподнимает #gМакс. #gОЗ #gна #g1",
-      "[Уйти]"
+      "[Дать прикоснуться] #rПотерять #r10% #rМакс #rОЗ, #gполучить #g",
+      " #gЗолота.",
+      "[Обменяться] #g50%: #gХорошее #gлицо. #r50%: #rПлохое #rлицо.",
+      "[Уйти]",
+      "[Продолжить]"
     ]
   },
   "Falling": {

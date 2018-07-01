@@ -256,6 +256,14 @@
       "At the start of each combat, #yChannel #b1 #yLightning."
     ]
   },
+  "CultistMask": {
+    "NAME": "Cultist Headpiece",
+    "FLAVOR": "Part of the Flock!",
+    "DESCRIPTIONS": [
+      "You feel more talkative.",
+      "@CAW!@ NL @CAAAW@"
+    ]
+  },
   "Cursed Key": {
     "NAME": "Cursed Key",
     "FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
@@ -447,6 +455,13 @@
       "[R] and draw #b1 card.",
       "[G] and draw #b1 card.",
       "[B] and draw #b1 card."
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlin Visage",
+    "FLAVOR": "Time to run.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b1 #yWeak."
     ]
   },
   "Happy Flower": {
@@ -676,11 +691,11 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "N'Loth's Mask",
+    "NAME": "N'Loth's Hungry Face",
     "FLAVOR": "You feel hungry.",
     "DESCRIPTIONS": [
-      "Whenever you play a Rare card, gain #b",
-      " #yBlock."
+      "The next non-boss chest you open is empty.",
+      ""
     ]
   },
   "Nuclear Battery": {
@@ -988,7 +1003,7 @@
     "NAME": "Ssserpent Head",
     "FLAVOR": "The most fulfilling of lives is that in which you can buy anything!",
     "DESCRIPTIONS": [
-      "Whenever you begin an Event, gain #b",
+      "Whenever you enter a ? room, gain #b",
       " #yGold."
     ]
   },
