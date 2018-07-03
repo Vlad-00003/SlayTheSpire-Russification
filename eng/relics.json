@@ -321,6 +321,14 @@
       "[B] at the start of each turn."
     ]
   },
+  "DollysMirror": {
+    "NAME": "Dolly's Mirror",
+    "FLAVOR": "\"I look funny in this.\"",
+    "DESCRIPTIONS": [
+      "Upon pickup, obtain an additional copy of a card in your deck.",
+      "Choose 1 Card to Copy."
+    ]
+  },
   "Dream Catcher": {
     "NAME": "Dream Catcher",
     "FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
@@ -1026,9 +1034,9 @@
     "FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
     "DESCRIPTIONS": [
       "Every #b",
-      " times you shuffle your deck, gain [R] [R] .",
-      " times you shuffle your deck, gain [G] [G] .",
-      " times you shuffle your deck, gain [B] [B] ."
+      " times you shuffle your draw pile, gain [R] [R] .",
+      " times you shuffle your draw pile, gain [G] [G] .",
+      " times you shuffle your draw pile, gain [B] [B] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1112,6 +1120,13 @@
     "FLAVOR": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
     "DESCRIPTIONS": [
       "Whenever an enemy dies, transfer any #yPoison it has to a random enemy."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "The Abacus",
+    "FLAVOR": "\"One...Two...Three...\"",
+    "DESCRIPTIONS": [
+      "Gain #b6 #yBlock whenever you shuffle your draw pile."
     ]
   },
   "Thread and Needle": {

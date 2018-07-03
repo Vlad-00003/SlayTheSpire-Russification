@@ -63,8 +63,8 @@
   "Berserk": {
     "NAME": "Berserk",
     "DESCRIPTIONS": [
-      "If your HP is at or below #b50%, gain ",
-      " at the start of your turn."
+      "Gain ",
+      "  at the start of your turn."
     ]
   },
   "Bias": {
@@ -547,6 +547,14 @@
       " at the start of your turn."
     ]
   },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTIONS": [
+      "At the start of your turn, play the top card of your draw pile.",
+      "At the start of your turn, play the top #b",
+      " cards of your draw pile."
+    ]
+  },
   "Metallicize": {
     "NAME": "Metallicize",
     "DESCRIPTIONS": [
@@ -593,6 +601,12 @@
     "NAME": "No Draw",
     "DESCRIPTIONS": [
       "You cannot draw cards until end of turn."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "No Block Power",
+    "DESCRIPTIONS": [
+      "You cannot gain #yBlock."
     ]
   },
   "Noxious Fumes": {
