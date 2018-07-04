@@ -239,6 +239,13 @@
       "Соберите столько, сколько сможете."
     ]
   },
+  "ClockworkSouvenir": {
+    "NAME": "Clockwork Souvenir",
+    "FLAVOR": "\"So many intricate gears.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yArtifact."
+    ]
+  },
   "Coffee Dripper": {
     "NAME": "Кофейная воронка",
     "FLAVOR": "«Пожалуй, ещё одну чашечку. За работу. За работу!» — Архитектор",
@@ -595,6 +602,13 @@
       "В след. #b2 сундуках, которые вы откроете, будет по #b2 #yреликвии (исключая сундуки боссов).",
       "В след. сундуке, который вы откроете, будет #b2 #yреликвии (исключая сундук босса).",
       "Эта реликвия израсходована."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Meal Ticket",
+    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "DESCRIPTIONS": [
+      "Whenever you enter a shop room, heal #b7 HP."
     ]
   },
   "Meat on the Bone": {
@@ -1215,6 +1229,13 @@
     "FLAVOR": "Отлично сочетается с Имбирём.",
     "DESCRIPTIONS": [
       "Даёт иммунитет к #yХрупкости."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Twisted Funnel",
+    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
     ]
   },
   "Unceasing Top": {

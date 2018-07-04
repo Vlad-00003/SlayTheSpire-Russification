@@ -307,10 +307,10 @@
   },
   "Corpse Explosion": {
     "NAME": "Corpse Explosion",
-    "DESCRIPTION": "Enemy loses all Poison. Deal damage equal to twice the amount lost to ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Enemy loses all Poison. Deal damage equal to 3 times the amount lost to ALL enemies.",
+    "DESCRIPTION": "Apply !M! Poison. NL When the enemy dies, deal damage to ALL enemies equal to its max HP.",
+    "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
-      "That enemy isn't Poisoned."
+      "deprecated"
     ]
   },
   "Corruption": {
@@ -878,7 +878,7 @@
   },
   "PanicButton": {
     "NAME": "Panic Button",
-    "DESCRIPTION": "Gain !B! Block. You cannot gain Block for the next !M! turns. NL Exhaust."
+    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for the next !M! turns. NL Exhaust."
   },
   "Parasite": {
     "NAME": "Parasite",
@@ -1206,7 +1206,7 @@
   },
   "The Bomb": {
     "NAME": "The Bomb",
-    "DESCRIPTION": "Deal !D! damage to everyone (including yourself). NL Exhaust."
+    "DESCRIPTION": "At the end of 3 turns, deal !M! damage to ALL enemies."
   },
   "Thinking Ahead": {
     "NAME": "Thinking Ahead",

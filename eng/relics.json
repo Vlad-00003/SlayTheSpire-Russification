@@ -239,6 +239,13 @@
       "Collect as many as you can."
     ]
   },
+  "ClockworkSouvenir": {
+    "NAME": "Clockwork Souvenir",
+    "FLAVOR": "\"So many intricate gears.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yArtifact."
+    ]
+  },
   "Coffee Dripper": {
     "NAME": "Coffee Dripper",
     "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
@@ -595,6 +602,13 @@
       "The next #b2 chests you open contain #b2 #yRelics. (Excludes boss chests)",
       "The next chest you open contains #b2 #yRelics. (Excludes boss chests)",
       "This relic has been used up."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Meal Ticket",
+    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "DESCRIPTIONS": [
+      "Whenever you enter a shop room, heal #b7 HP."
     ]
   },
   "Meat on the Bone": {
@@ -1215,6 +1229,13 @@
     "FLAVOR": "Best with Ginger.",
     "DESCRIPTIONS": [
       "You can no longer become #yFrail."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Twisted Funnel",
+    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
     ]
   },
   "Unceasing Top": {

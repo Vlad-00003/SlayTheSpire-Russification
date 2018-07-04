@@ -151,6 +151,14 @@
       " damage."
     ]
   },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+      "When this enemy dies, deal damage to ALL enemies equal to #b",
+      " times its Max HP."
+    ]
+  },
   "Corruption": {
     "NAME": "Corruption",
     "DESCRIPTIONS": [
@@ -604,9 +612,9 @@
     ]
   },
   "NoBlockPower": {
-    "NAME": "No Block Power",
+    "NAME": "No Block",
     "DESCRIPTIONS": [
-      "You cannot gain #yBlock."
+      "You cannot gain #yBlock from cards."
     ]
   },
   "Noxious Fumes": {
@@ -870,6 +878,13 @@
       "Increases attack damage by #b",
       "Decrease attack damage by #b",
       "."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
     ]
   },
   "Thievery": {
