@@ -98,7 +98,7 @@
     ]
   },
   "Boot": {
-    "NAME": "Заводной ботинок",
+    "NAME": "Могучий ботинок",
     "FLAVOR": "Если ботинок завести, он станет больше.",
     "DESCRIPTIONS": [
       "Повышает наносимый #yАтаками урон с #b",
@@ -240,10 +240,10 @@
     ]
   },
   "ClockworkSouvenir": {
-    "NAME": "Clockwork Souvenir",
-    "FLAVOR": "\"So many intricate gears.\"",
+    "NAME": "Заводная безделушка",
+    "FLAVOR": "\"Так много изящных шестеренок.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b1 #yArtifact."
+      "Даёт #b1 #yАртефакт, в начале каждого боя."
     ]
   },
   "Coffee Dripper": {
@@ -605,10 +605,10 @@
     ]
   },
   "MealTicket": {
-    "NAME": "Meal Ticket",
-    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "NAME": "Талон на питание",
+    "FLAVOR": "\"Бесплатные фрикадельки при каждом посещении!\"",
     "DESCRIPTIONS": [
-      "Whenever you enter a shop room, heal #b7 HP."
+      "Восполняет #b7 ОЗ, при каждом посещении магазина."
     ]
   },
   "Meat on the Bone": {
@@ -1232,10 +1232,10 @@
     ]
   },
   "TwistedFunnel": {
-    "NAME": "Twisted Funnel",
-    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "NAME": "Искаженная воронка",
+    "FLAVOR": "\"Я бы не стал из этого пить.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+      "Накладывает #b4 #yЯда на ВСЕХ врагов, в начале каждого боя."
     ]
   },
   "Unceasing Top": {
