@@ -308,7 +308,7 @@
   "Corpse Explosion": {
     "NAME": "Взрыв трупа",
     "DESCRIPTION": "Накладывает !M! Яда. NL Когда противник погибает, наносит ВСЕМ врагам урон, равный его Макс. ОЗ.",
-	"UPGRADE_DESCRIPTION": "устарело",
+    "UPGRADE_DESCRIPTION": "устарело",
     "EXTENDED_DESCRIPTION": [
       "устарело"
     ]
