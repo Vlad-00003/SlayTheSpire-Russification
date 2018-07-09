@@ -236,7 +236,14 @@
     "NAME": "Circlet",
     "FLAVOR": "You ran out of relics to find. Impressive!",
     "DESCRIPTIONS": [
-      "Looks pretty."
+      "Collect as many as you can."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Clockwork Souvenir",
+    "FLAVOR": "\"So many intricate gears.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yArtifact."
     ]
   },
   "Coffee Dripper": {
@@ -254,6 +261,14 @@
     "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
     "DESCRIPTIONS": [
       "At the start of each combat, #yChannel #b1 #yLightning."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Cultist Headpiece",
+    "FLAVOR": "Part of the Flock!",
+    "DESCRIPTIONS": [
+      "You feel more talkative.",
+      "@CAW!@ NL @CAAAW@"
     ]
   },
   "Cursed Key": {
@@ -313,6 +328,14 @@
       "[B] at the start of each turn."
     ]
   },
+  "DollysMirror": {
+    "NAME": "Dolly's Mirror",
+    "FLAVOR": "\"I look funny in this.\"",
+    "DESCRIPTIONS": [
+      "Upon pickup, obtain an additional copy of a card in your deck.",
+      "Choose 1 Card to Copy."
+    ]
+  },
   "Dream Catcher": {
     "NAME": "Dream Catcher",
     "FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
@@ -370,6 +393,13 @@
       "For every #b",
       " cards in your deck, heal #b",
       " HP whenever you enter a Rest Site."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
     ]
   },
   "Frozen Egg": {
@@ -440,6 +470,13 @@
       "[R] and draw #b1 card.",
       "[G] and draw #b1 card.",
       "[B] and draw #b1 card."
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlin Visage",
+    "FLAVOR": "Time to run.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b1 #yWeak."
     ]
   },
   "Happy Flower": {
@@ -567,6 +604,13 @@
       "This relic has been used up."
     ]
   },
+  "MealTicket": {
+    "NAME": "Meal Ticket",
+    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "DESCRIPTIONS": [
+      "Whenever you enter a shop room, heal #b7 HP."
+    ]
+  },
   "Meat on the Bone": {
     "NAME": "Meat on the Bone",
     "FLAVOR": "The meat keeps replenishing, never seeming to fully run out.",
@@ -666,6 +710,14 @@
     "FLAVOR": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
     "DESCRIPTIONS": [
       "#bTriples the chance of receiving rare cards as monster rewards."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth's Hungry Face",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "The next non-boss chest you open is empty.",
+      ""
     ]
   },
   "Nuclear Battery": {
@@ -969,6 +1021,14 @@
       "It's unpleasant."
     ]
   },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can buy anything!",
+    "DESCRIPTIONS": [
+      "Whenever you enter a ? room, gain #b",
+      " #yGold."
+    ]
+  },
   "Strange Spoon": {
     "NAME": "Strange Spoon",
     "FLAVOR": "Staring at the spoon, it appears to bend and twist around before your eyes.",
@@ -988,9 +1048,9 @@
     "FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
     "DESCRIPTIONS": [
       "Every #b",
-      " times you shuffle your deck, gain [R] [R] .",
-      " times you shuffle your deck, gain [G] [G] .",
-      " times you shuffle your deck, gain [B] [B] ."
+      " times you shuffle your draw pile, gain [R] [R] .",
+      " times you shuffle your draw pile, gain [G] [G] .",
+      " times you shuffle your draw pile, gain [B] [B] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1074,6 +1134,13 @@
     "FLAVOR": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
     "DESCRIPTIONS": [
       "Whenever an enemy dies, transfer any #yPoison it has to a random enemy."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "The Abacus",
+    "FLAVOR": "\"One...Two...Three...\"",
+    "DESCRIPTIONS": [
+      "Gain #b6 #yBlock whenever you shuffle your draw pile."
     ]
   },
   "Thread and Needle": {
@@ -1162,6 +1229,13 @@
     "FLAVOR": "Best with Ginger.",
     "DESCRIPTIONS": [
       "You can no longer become #yFrail."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Twisted Funnel",
+    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
     ]
   },
   "Unceasing Top": {

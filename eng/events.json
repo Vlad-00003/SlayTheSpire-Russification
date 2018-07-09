@@ -180,6 +180,23 @@
       "Select a Card to Duplicate."
     ]
   },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "You walk by an eerie statue holding several masks... NL Something behind you softly whispers, NL ~\"Stop.\"~",
+      "You swerve around to face the statue which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
+    ],
+    "OPTIONS": [
+      "[Touch] #rLose #r10% #rMax #rHP, #ggain #g",
+      " #gGold.",
+      "[Trade] #g50%: #gGood #gFace. #r50%: #rBad #rFace.",
+      "[Leave]",
+      "[Continue]"
+    ]
+  },
   "Falling": {
     "NAME": "Falling",
     "DESCRIPTIONS": [
@@ -187,7 +204,8 @@
       "While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Strike at the wall to hang on to it.",
       "You land with extreme grace before continuing on.",
       "Harnessing and expending some of your raw power, you manage to land unhurt.",
-      "You are able to latch on to the wall, and manage to make a short hop onto another stable platform."
+      "You are able to latch on to the wall, and manage to make a short hop onto another stable platform.",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Continue]",
@@ -197,7 +215,8 @@
       "[Locked] Requires: Power Card",
       "[Strike] #rLose ",
       "[Locked] Requires: Attack Card",
-      "[Leave]"
+      "[Leave]",
+      "[Land] "
     ]
   },
   "Forgotten Altar": {
@@ -438,7 +457,7 @@
       "No need to be greedy."
     ],
     "OPTIONS": [
-      "[Open Sphere] #rFight. #gReward: #gRelic.",
+      "[Open Sphere] #rFight. #gReward: #gRare #gRelic.",
       "[Leave]",
       "[Fight]"
     ]
@@ -527,7 +546,7 @@
       "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
       "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
       "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ #r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature,~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...",
+      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...",
       "#b~CONFUSION.~ NL NL #y[OBJECTIVE] #gBALANCE #gmust #gbe #gENFORCED NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[WARNING] #rLarge #robject #rapproaching NL NL ~\"I...~ ~..am~ ~....Neow..\"~"
     ],
     "OPTIONS": [
