@@ -424,6 +424,13 @@
       "When viewing your #yDraw #yPile, the cards are now shown in order."
     ]
   },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
   "Fusion Hammer": {
     "NAME": "Fusion Hammer",
     "FLAVOR": "Once wielded, the owner can never let go.",
@@ -479,6 +486,13 @@
       "Start each combat with #b1 #yWeak."
     ]
   },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's block, apply #b2 #yVulnerable."
+    ]
+  },
   "Happy Flower": {
     "NAME": "Happy Flower",
     "FLAVOR": "This unceasingly joyous plant is a popular novelty item among nobles.",
@@ -487,6 +501,13 @@
       " turns, gain [R] .",
       " turns, gain [G] .",
       " turns, gain [B] ."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Discard #b1 card and gain [G] at the start of each turn."
     ]
   },
   "Ice Cream": {
@@ -904,8 +925,10 @@
   },
   "Ring of the Serpent": {
     "NAME": "Ring of the Serpent",
+    "FLAVOR": "Your ring has morphed and changed forms.",
     "DESCRIPTIONS": [
-      "Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max HP by #b"
+      "Replaces #gSnake #gRing. ",
+      "At the start of your turn, draw #b1 additional card."
     ]
   },
   "Ring of the Snake": {
@@ -979,6 +1002,14 @@
     "FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
     "DESCRIPTIONS": [
       "When adding cards to your deck, you may gain #b+2 Max HP instead."
+    ]
+  },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
     ]
   },
   "Smiling Mask": {

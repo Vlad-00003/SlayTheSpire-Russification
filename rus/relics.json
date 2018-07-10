@@ -424,6 +424,13 @@
       "Позволяет видеть порядок карт в стопке добора."
     ]
   },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
   "Fusion Hammer": {
     "NAME": "Неразлучный молот",
     "FLAVOR": "Заполучивший его никогда с ним не расстанется.",
@@ -479,6 +486,13 @@
       "Накладывает на вас #b1 #yСлабости в начале каждого боя."
     ]
   },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's block, apply #b2 #yVulnerable."
+    ]
+  },
   "Happy Flower": {
     "NAME": "Счастливый цветок",
     "FLAVOR": "Этот невероятно радостный цветок пользуется популярностью среди знати.",
@@ -487,6 +501,13 @@
       " ход.",
       " ход.",
       " ход."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Discard #b1 card and gain [G] at the start of each turn."
     ]
   },
   "Ice Cream": {
@@ -904,8 +925,10 @@
   },
   "Ring of the Serpent": {
     "NAME": "Кольцо Змея",
+    "FLAVOR": "Your ring has morphed and changed forms.",
     "DESCRIPTIONS": [
-      "Заменяет #g«Змеиное #gкольцо». Побеждая #yэлитного врага, вы повышаете Макс. ОЗ на #b"
+      "Заменяет #g«Змеиное #gкольцо». Побеждая #yэлитного врага, вы повышаете Макс. ОЗ на #b",
+      "At the start of your turn, draw #b1 additional card."
     ]
   },
   "Ring of the Snake": {
@@ -979,6 +1002,14 @@
     "FLAVOR": "Этот побитый временем артефакт издаёт мелодичный звон при ударе.",
     "DESCRIPTIONS": [
       "Вместо того, чтобы добавить карту в колоду, вы можете получить #b+2 Макс. ОЗ."
+    ]
+  },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
     ]
   },
   "Smiling Mask": {
