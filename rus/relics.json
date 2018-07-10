@@ -425,10 +425,10 @@
     ]
   },
   "FrozenCore": {
-    "NAME": "Frozen Core",
-    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "NAME": "Замерзшее ядро",
+    "FLAVOR": "Трещина в ядре заполнилась пульсирующей, холодной энергией.",
     "DESCRIPTIONS": [
-      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+      "Заменяет #r«Треснувшее #rядро». Если в конце хода остается пустой слот сфер, #yЗаряжает #b1 #yСферу льда."
     ]
   },
   "Fusion Hammer": {
@@ -487,10 +487,10 @@
     ]
   },
   "HandDrill": {
-    "NAME": "Hand Drill",
-    "FLAVOR": "\"Spirals are dangerous.\"",
+    "NAME": "Ручной бур",
+    "FLAVOR": "\"Спирали - опасны.\"",
     "DESCRIPTIONS": [
-      "Whenever you break an enemy's block, apply #b2 #yVulnerable."
+      "Когда вы пронзаете защиту врага, накладывает #b2 #yУязвимости."
     ]
   },
   "Happy Flower": {
@@ -504,10 +504,10 @@
     ]
   },
   "HoveringKite": {
-    "NAME": "Hovering Kite",
-    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "NAME": "Парящий воздушный змей",
+    "FLAVOR": "Змей облетает вас в битве, движимый неведомой силой.",
     "DESCRIPTIONS": [
-      "Discard #b1 card and gain [G] at the start of each turn."
+      "Даёт [G] и принуждает сбросить #b1 карту в начале хода. "
     ]
   },
   "Ice Cream": {
@@ -924,15 +924,15 @@
     ]
   },
   "Ring of the Serpent": {
-    "NAME": "Кольцо Змея",
-    "FLAVOR": "Your ring has morphed and changed forms.",
+    "NAME": "Кольцо аспида",
+    "FLAVOR": "Кольцо изменило цвет и форму.",
     "DESCRIPTIONS": [
-      "Заменяет #g«Змеиное #gкольцо». Побеждая #yэлитного врага, вы повышаете Макс. ОЗ на #b",
-      "At the start of your turn, draw #b1 additional card."
+      "Заменяет #g«Кольцо #gзмеи».",
+      "Вы берёте 1 доп. карту в начале своего хода."
     ]
   },
   "Ring of the Snake": {
-    "NAME": "Змеиное кольцо",
+    "NAME": "Кольцо змеи",
     "FLAVOR": "Сделано из окаменелой змеи. Символизирует великое мастерство охотницы.",
     "DESCRIPTIONS": [
       "Вы берёте на #b",
@@ -1005,11 +1005,11 @@
     ]
   },
   "Sling": {
-    "NAME": "Sling of Courage",
-    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "NAME": "Праща отваги",
+    "FLAVOR": "\"Прекрасный инструмент для борьбы с крупными противниками.\"",
     "DESCRIPTIONS": [
-      "Start each Elite combat with #b",
-      " #yStrength."
+      "Даёт #b",
+      " #yСилы в начале боя с элитным противником."
     ]
   },
   "Smiling Mask": {
