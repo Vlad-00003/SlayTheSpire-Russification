@@ -7,6 +7,10 @@
     "NAME": "Binary",
     "DESCRIPTION": "Card rewards contain only 2 cards."
   },
+  "Blight Chests": {
+    "NAME": "Blight Chests",
+    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+  },
   "Brewmaster": {
     "NAME": "Brewmaster",
     "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
