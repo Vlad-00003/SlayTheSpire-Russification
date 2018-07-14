@@ -507,7 +507,7 @@
     "NAME": "Hovering Kite",
     "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
     "DESCRIPTIONS": [
-      "Gain [G] and discard #b1 card at the start of each turn."
+      "Gain [G] and discard #b2 cards at the start of each turn."
     ]
   },
   "Ice Cream": {
@@ -1324,6 +1324,13 @@
     "FLAVOR": "A small white statue of a creature you have never seen before.",
     "DESCRIPTIONS": [
       "Potions always drop after combat."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Wrist Blade",
+    "FLAVOR": "Handy for assassinations.",
+    "DESCRIPTIONS": [
+      "#yAttack cards that cost #b0 deal #b4 additional damage."
     ]
   }
 }
