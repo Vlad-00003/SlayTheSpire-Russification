@@ -174,7 +174,11 @@
   },
   "LOC_ZHT": {
     "HEADER": "Chinese (Traditional) Localization",
-    "NAMES": []
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
   },
   "OPS": {
     "HEADER": "Operations & Metrics",

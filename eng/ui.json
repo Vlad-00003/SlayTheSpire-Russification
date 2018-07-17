@@ -536,6 +536,11 @@
       "Exordium"
     ]
   },
+  "ForethoughtAction": {
+    "TEXT": [
+      "put on bottom of your draw pile."
+    ]
+  },
   "GamblingChipAction": {
     "TEXT": [
       "Replace (Gambling Chip)",

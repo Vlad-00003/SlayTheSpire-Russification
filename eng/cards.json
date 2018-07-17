@@ -399,6 +399,11 @@
     "NAME": "Disarm",
     "DESCRIPTION": "Enemy loses !M! Strength. NL Exhaust."
   },
+  "Discovery": {
+    "NAME": "Discovery",
+    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
+  },
   "Distraction": {
     "NAME": "Distraction",
     "DESCRIPTION": "Add a random Skill to your hand. NL It costs 0 this turn. NL Exhaust."
@@ -580,6 +585,10 @@
     "NAME": "Force Field",
     "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
   },
+  "Forethought": {
+    "NAME": "Forethought",
+    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played."
+  },
   "Fusion": {
     "NAME": "Fusion",
     "DESCRIPTION": "Channel !M! Plasma."
@@ -679,6 +688,10 @@
   "Immolate": {
     "NAME": "Immolate",
     "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a Burn to your discard pile."
+  },
+  "Impatience": {
+    "NAME": "Impatience",
+    "DESCRIPTION": "If you have no Attack cards in your hand, draw !M! cards."
   },
   "Impervious": {
     "NAME": "Impervious",
@@ -1275,6 +1288,10 @@
   "Venomology": {
     "NAME": "Alchemize",
     "DESCRIPTION": "Obtain a random potion. NL Exhaust."
+  },
+  "Violence": {
+    "NAME": "Violence",
+    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand."
   },
   "Void": {
     "NAME": "Void",

@@ -174,7 +174,11 @@
   },
   "LOC_ZHT": {
     "HEADER": "Перевод на китайский (традиционный)",
-    "NAMES": []
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
   },
   "OPS": {
     "HEADER": "Операции и метрики",
