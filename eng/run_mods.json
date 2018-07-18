@@ -87,6 +87,10 @@
     "NAME": "Starter Deck",
     "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
   },
+  "Stunted Growth": {
+    "NAME": "Stunted Growth",
+    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
+  },
   "Terminal": {
     "NAME": "Terminal",
     "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
