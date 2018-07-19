@@ -541,6 +541,11 @@
       "put on bottom of your draw pile."
     ]
   },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
+    ]
+  },
   "GamblingChipAction": {
     "TEXT": [
       "Replace (Gambling Chip)",
