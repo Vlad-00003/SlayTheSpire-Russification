@@ -68,7 +68,7 @@
     "NAMES": [
       "Адитя «RiSQ.» Арифин (Aditya «RiSQ.» Arifin)",
       "Дарьян «Samus» Рамадханы (Daryan «Samus» Ramadhany)",
-      "Szaal"
+	  "Хэйвизал «Szaal» Фэрокуи (Haveiszal «Szaal» Faroqie)"
     ]
   },
   "LOC_ITA": {
@@ -140,10 +140,10 @@
   "LOC_RUS": {
     "HEADER": "Перевод на русский",
     "NAMES": [
-      "Перевод и координация:",
+      "Перевод:",
       "Иван «Ingrett» Хорошуненко (Ivan «Ingrett» Khoroshunenko)",
-      "Перевод и репозиторий:",
       "Владислав «Vlad-00003» Большаков (Vladislav «Vlad-00003» Bolshakov)",
+      "Дмитрий «Regallion» Жиряков (Dmitry «Regallion» Zhiryakov)",
       "Предложения и отзывы:",
       "Михаил «Outmind» Дюжев (Mikhail «Outmind» Dyuzhev)",
       "Богдан «DarkRosse» Калитюк (Bohdan «DarkRosse» Kalytiuk)",
@@ -152,7 +152,6 @@
       "Екатерина «Meds» Белименко-Болджер (Kateryna «Meds» Belimenko-Bolger)",
       "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)",
       "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)",
-      "Дмитрий «Regallion» Жиряков (Dmitry «Regallion» Zhiryakov)",
       "Перевод графики магазина:",
       "Urist McFerrum"
     ]
