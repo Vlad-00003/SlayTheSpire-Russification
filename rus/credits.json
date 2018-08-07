@@ -58,13 +58,13 @@
     ]
   },
   "LOC_GRE": {
-    "HEADER": "Greek Localization",
+    "HEADER": "Перевод на греческий",
     "NAMES": [
       "Котсос «Iglor» Даймонд (Kotsos «Iglor» Diamond)"
     ]
   },
   "LOC_IND": {
-    "HEADER": "Indonesian Localization",
+    "HEADER": "Перевод на индонезийский",
     "NAMES": [
       "Адитя «RiSQ.» Арифин (Aditya «RiSQ.» Arifin)",
       "Дарьян «Samus» Рамадханы (Daryan «Samus» Ramadhany)",
@@ -154,6 +154,15 @@
       "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)",
       "Перевод графики магазина:",
       "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Перевод на испанский",
+    "NAMES": [
+      "Перевод и координация:",
+      "Педро-Луис «PerikiyoXD» Валадес Виера (Pedro Luis «PerikiyoXD» Valadés Viera)",
+      "Перевод:",
+      "xabad98"
     ]
   },
   "LOC_SRB": {

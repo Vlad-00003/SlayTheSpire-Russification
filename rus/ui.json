@@ -422,6 +422,14 @@
       " уровень режима «Возвышение»!"
     ]
   },
+  "DeletePopup": {
+    "TEXT": [
+      "Delete this save?",
+      "Yes",
+      "No",
+      "WARNING: This action cannot be undone."
+    ]
+  },
   "Dig Option": {
     "TEXT": [
       "Копать",
@@ -1025,6 +1033,17 @@
       "Ежедневная вылазка",
       "Зерно: %s",
       "Выбранное зерно: %s"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot"
     ]
   },
   "SeedPanel": {
