@@ -424,10 +424,10 @@
   },
   "DeletePopup": {
     "TEXT": [
-      "Delete this save?",
-      "Yes",
-      "No",
-      "WARNING: This action cannot be undone."
+      "Удалить это сохранение?",
+      "Да",
+      "Нет",
+      "ВНИМАНИЕ: Это действие необратимо."
     ]
   },
   "Dig Option": {
@@ -1037,13 +1037,13 @@
   },
   "SaveSlot": {
     "TEXT": [
-      "Playtime ",
-      "Empty Slot"
+      "Время игры ",
+      "Пустая ячейка"
     ]
   },
   "SaveSlotScreen": {
     "TEXT": [
-      "Choose a Save Slot"
+      "Выбирете ячейку сохранения"
     ]
   },
   "SeedPanel": {
