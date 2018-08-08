@@ -866,8 +866,8 @@
   },
   "Offering": {
     "NAME": "Подношение",
-    "DESCRIPTION": "Отнимает 5 О3 и NL даёт [R] [R]. NL Вы берёте !M! карты. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Отнимает 5 О3 и NL даёт [R] [R]. NL Вы берёте !M! карт. NL Сжигается."
+    "DESCRIPTION": "Отнимает 6 О3 и NL даёт [R] [R]. NL Вы берёте !M! карты. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Отнимает 6 О3 и NL даёт [R] [R]. NL Вы берёте !M! карт. NL Сжигается."
   },
   "Outmaneuver": {
     "NAME": "Перехитрить",
