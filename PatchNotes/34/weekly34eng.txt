@@ -1,0 +1,96 @@
+Headline: Weekly Patch 34: Malaise
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/d8df47e8954cae8a706cd25ea6c69752489965f5.jpg[/img]
+Greetings,
+
+This week's focus continues the trend of adding content to reach our content goals. On top of this, we took some time to examine various cards and relics for balancing. We appreciate your continued patience and feedback!
+
+[h1]Content[/h1]
+The main branch gets 4 new relics! The beta branch contains various relics, cards, and events. However,they still require testing, fine tuning, and art assets until they're officially available on the main branch. For our newer players, information on the beta branch can be found [url=https://steamcommunity.com/games/646570/announcements/detail/1462971926900801868]here.[/url]
+
+[h1]What's Still Coming?[/h1]
+Lots! We still want to add (or are currently working on) a Save Slot system, Steam Workshop support, Steam Controller support, improving and adding various VFX, etc etc... and of course [spoiler]NO SPOILERS.[/spoiler]
+
+[h1]Localization[/h1]
+Is the translation for your preferred language missing, lacking, or outdated? Well, the tremendous efforts of community translators are working tirelessly just for you. Help them out! Just visit our [url=http://discord.gg/slaythespire]official Discord server[/url] and hop in the localization section! I'll draw you a cultist in return!
+
+[h1]Community Fanart[/h1]
+We really enjoy posting these. As always, just ping [url=https://twitter.com/megacrit]@MegaCrit[/url] if you want your works showcased here!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/2253fcba9e7d7acfda89bd95b3d5c821e8fcb607.jpg[/img]
+[i]This gorgeous illustration of the main characters by [url=https://www.instagram.com/pk_clara/]Clara Cheung[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/e9b699ceb2a03281aa173b6c8375f7cab6fb89ff.jpg[/img]
+[i]The Silent by [url=https://twitter.com/khg9201]@khg9201[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/70cd9b0b65f2d7eaed89f20ab457cc54d6ebdcbc.jpg[/img]
+[i]This interesting cultist design by [url=https://twitter.com/Pixel_State]@Pixel_State[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Content[/h1]
+[list]
+[*]Adding common relic Maw Bank
+[*]Adding rare relic Nunchaku.
+[*]Adding green boss relic Hovering Kite.
+[*]Adding green boss relic Wrist Blade.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]Custom Mode is now available if your highest daily score is more than 0.
+[*]Anger card buff: 5 -> 6 damage. Upgraded 7 -> 8 damage.
+[*]Berserk card buff: Cost 1 -> 0. Upgrading now reduces Vulnerable from 3 -> 2.
+[*]Eternal Feather relic buff: 2 -> 3 HP per 5 cards.
+[*]Expertise+ card nerf: 8 -> 7 cards in hand.
+[*]Glacier card nerf: Block 9 -> 8. Upgraded: 12 -> 11.
+[*]Hovering Kite relic nerfed. (1 -> 2 discards)
+[*]Hyperbeam card buff: 25 -> 26 damage. Upgraded: 32 -> 34.
+[*]Juggernaut card buff: Damage 3 -> 5. Upgraded 5 -> 6.
+[*]Malaise card is now Rare (was Uncommon).
+[*]Offering card nerf: Self damage increased from 4 -> 5.
+[*]Poisoned Stab card buff: Damage 5 -> 6. Upgraded: 6 -> 8.
+[*]Rampage card's ramp increased from 4 -> 5. No change to upgraded version.
+[*]Rebound card buff: Damage 8 -> 9. Upgraded 11 -> 12.
+[*]Ritual Dagger card buff. Base damage +3.
+[*]Snecko Oil potion buffed. Draw 2 -> 3 cards.
+[*]Tactician card is now Uncommon.
+[*]Tiny House relic buff: 30 -> 50 gold.
+[*]Unload card buff: Damage 12 -> 14. Upgraded 16 -> 18.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Adding a few periods for some Choose a card... messages.
+[*]Adding keyword highlighting for Bottled relics.
+[*]CARD_OBTAIN sfx no longer stacks for add card to hand actions like Storm Of Steel.
+[*]Dream Catcher's wording is made more consistent with Regal Pillow.
+[*]Improved formatting for Tactician and Ritual Dagger cards.
+[*]Oxford comma for Orange Pellets relic.
+[*]Removed LT/RT vertical scrolling for dungeon map screen with controllers. 
+[*]Updating wording for Daily Unlock requirement.
+[*]When targeting monsters with controllers, the left most monster is always targeted first now.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Binary mod is now correctly marked as a negative modifier in the custom mode screen.
+[*]Cards in Run History weren't being sorted correctly.
+[*]Enemies in the Awakened One encounter were not attacking in the correct order. Now attacks left to right.
+[*]Fixed an issue where continuing an Endless run would crash.
+[*]Fixed bug where you could play locked characters with controller.
+[*]Fixed issue where Multi-Page tutorial didn't work with controllers properly.
+[*]Fixed issue where viewing map legend via controller while transitioning to next room caused issues.
+[*]Fixed issue where you couldn't view relics in dungeon map screen using controller.
+[*]Fixed Save and Quit Smoke Bomb exploit.
+[*]Fixed some instances where closing the relic view popup prevented the screen below from updating correctly.
+[*]Gold gain effect from things like Dead Adventurer is now a localizeable string.
+[*]Players could get the Catalyst achievement from the regnerate power.
+[*]Using a Smoke Bomb no longer gives the Champion score bonus.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Credits added for ZHT.
+[*]Updates for DEU, ITA, JPN, KOR, RUS, ZHS, ZHT.
+[/list]

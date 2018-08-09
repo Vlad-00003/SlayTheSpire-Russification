@@ -1,0 +1,82 @@
+Headline: Weekly Patch 33: Terror
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/66640150597331303d545bfb9345e0137078de98.jpg[/img]
+Hello,
+
+This week's focus was on content creation and polish! With the completion of the animations for 3 new enemies, they have been unleashed into the Beyond!
+
+[h1]Act 3 Enemies[/h1]
+Three new enemies have been added into Act 3. This doubles the variety of enemies in Act 3!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/637c6de2bf30d703441046f533d2be78ad3ca603.png[/img]
+[i]Three new ways to die[/i]
+
+[h1]Relics[/h1]
+Five new relics have been added! We're still adding more content (as our beta players are aware) so stay tuned.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/56353f5f1af8cbc2408cf87bbc9d4507e8a7a3e8.png[/img]
+[i]The Hand Drill: A new shop-only relic[/i]
+
+[h1]Custom Mode[/h1]
+We're glad that you're all enjoying Custom Mode. It's fun to experiment and see some crazy interactions.
+
+This week we're adding in the Endless and Boss Blights mods, allowing players to keep modifying their decks and fight monsters that keep getting stronger.
+
+We're looking into lowering the requirement to unlock Custom Mode, adding more goodies, and eventually expanding into supporting mods better (Steam Workshop?!). When we lower the unlock requirement, we're considering the removal of the special seeds. As always, let us know what you think in the comments or at our [url=http://discord.gg/slaythespire]official Discord.[/url]
+
+[h1]Community Fanart[/h1]
+Hey, why is there only one this week?! Because you're making art but not pinging [url=https://twitter.com/megacrit]@MegaCrit[/url], and saying you want it in the announcements, that's why. We want to see and post all your creations!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/d91e1b05afe4efc497008b88f58a55893e5f9fe5.jpg[/img]
+[i]Time Eater by [url=https://twitter.com/ShadowmarX]@ShadowmarX[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Content[/h1]
+[list]
+[*]Adding enemy Reptomancer.
+[*]Adding enemy Spire Growth.
+[*]Adding enemy Transient.
+[*]Adding relic Frozen Core.
+[*]Adding relic Hand Drill.
+[*]Adding relic Orange Pellets.
+[*]Adding relic Ring of the Serpent.
+[*]Adding relic Sling of Courage.
+[*]Endless mod added to Custom Mode. Enemies get stronger and stronger.
+[*]Blight Chests mod added to Custom Mode. Boss chests give unique unavoidable blights for added challenge.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]Berserk card buffed. Applies 3 Vulnerable to self instead of 5.
+[*]Corpse Explosion power can now trigger on Darklings.
+[*]No Draw power now counts as a debuff.
+[*]Red Skull relic is now Common.
+[*]Singing Bowl relic is now Uncommon.
+[*]Tough Bandages relic is now Rare.
+[*]Twisted Funnel relic is now Silent only.
+[*]Wraith Form power now properly counts as a debuff. (Like Biased Cognition)
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]If cards have too many keywords (eg Rainbow), the tips are shifted up.
+[*]Improved Face Trader wording for top option to better reflect what happens.
+[*]Updating Power icon for Corpse Explosion.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Deep Breath card now correctly shuffles the deck the correct amount.
+[*]Fixed issue where Run History sometimes displayed a custom seed for normal runs.
+[*]Gambler's Brew will no longer crash if used with no cards in hand.
+[*]Gremlin Leader summon used the incorrect RNG, resulting in different enemies for the same seed.
+[*]Havoc card now utilizes RNG to select its random target (save/load consistency).
+[*]Normality card's reminder text no longer uses incorrect wording.
+[*]Obtaining Pandora's Box without Strikes or Defends no longer opens a blank screen.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DEU, ITA, JPN, KOR, RUS, SRB, SRP, UKR, ZHS, ZHT.
+[/list]
