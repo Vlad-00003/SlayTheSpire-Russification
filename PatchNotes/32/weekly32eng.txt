@@ -1,0 +1,91 @@
+HEADLINE: Weekly Patch 32: Face Trader
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/183e12746997541aab6277c9fa28b3d8b1886a7d.jpg[/img]
+Hello,
+
+Hope everyone's having some fun and the sun! Taking a break in the shade to play Slay the Spire is nice, too :).
+
+This week's focus is mainly on content and improving usability for Custom Mode.
+
+[h1]Face Trader[/h1]
+It's a new event! This event shows up in any Act and can give you 1 of 5 relics 
+ exclusive to this event, we think it's facetastic.
+
+[h1]Shop Relics[/h1]
+The third relic sold by the merchant is now always a shop rarity relic. To prevent players from seeing too many familiar relics there, we added 5 new shop relics! (Spoilers in patch notes)
+
+[h1]Relic Overflow Paging[/h1]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/a68cd16a225ee26a0f9859ff3af2a824d3ed2d8e.gif[/img]
+
+We noticed that relics got a bit too small when people were having fun testing the game's limits. To maintain a reasonable hitbox, we removed the shrink logic and replaced it with arrows to allow you to page through relics. We decreased the spacing a bit, so it can pack 25 relics per page.
+
+[h1]Community Fan Art[/h1]
+Didn't post any last time, sorry. Send us more! It's amazing to see the game's characters drawn (or created) in so many ways. Thank you!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/f97a77319bbce7eb901291a0b389ae65924d9445.jpg[/img]
+[i]Lego Ironclad by [url=https://www.reddit.com/user/LBomb_25]/u/LBomb_25[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/8f3a2035461d2d1db58c4244bc2ec84a5f2cf5ea.jpg[/img]
+[i]The Silent by [url=https://twitter.com/Noxykat]@Noxykat[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/64a8448492307ad0b20ab1e7745b514cbc944bc0.jpg[/img]
+[i]The Ironclad slicing through Donu by [url=https://twitter.com/shimoyamamikito]@shimoyamamikito[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Content[/h1]
+[list]
+[*]Adding shop relic Clockwork Sourvenir.
+[*]Adding shop relic Dolly's Mirror.
+[*]Adding shop relic Meal Ticket.
+[*]Adding shop relic The Abacus.
+[*]Adding shop relic Twisted Funnel.
+[*]Adding the Face Trader event.
+[*]Adding event relic Cultist Headpiece.
+[*]Adding event relic Face of Cleric.
+[*]Adding event relic Gremlin Visage.
+[*]Adding event relic N'loth's Hungry Face.
+[*]Adding event relic Ssserpent Head.
+[*]Rework: Berserk card: Gain Vulnerable for several turns to gain +1 Energy per turn.
+[*]Rework: Corpse Explosion card: Apply 6 Poison. When this enemy dies, deal damage to ALL enemies equal to its max HP.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]Toolbox relic is now shop rarity.
+[*]Centennial Puzzle relic is now common rarity.
+[*]Knowing Skull HP cost minimum is set to 6 to prevent infinite gold with Bloody Idol.
+[*]Mind Blast is now always Innate and costs 2. Upgrade reduces cost to 1.
+[*]Shackled Power now capped at 999 for Transient.
+[*]The 3rd relic in shops are now always Shop rarity. 
+[*]The Chosen enemy's AI is now less random.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Seed Input Panel improvements for Custom Mode.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Uncommon relics were more common than Common rarity in Shops. Swapped (48% <-> 34%)
+[*]Buying an egg relic in the shop will now correctly show cards in the shop upgraded.
+[*]Custom Run's Embark button is no longer disabled when entering the screen.
+[*]Custom Run now resets the set seed when screen is reopened.
+[*]Disallow interacting with objects behind the seed input panel in Custom Mode Screen.
+[*]Donu and Deca now alternate their attacks on turn 2.
+[*]Draft mod should now always draft 15 cards, even if you abandon mid draft.
+[*]Energized power now caps at 999.
+[*]Fixed Fairy Potion and Lizard Tail not triggering with Muzzle blight.
+[*]Greatly increased compatability of various mods in Custom Mode.
+[*]Fixed issue where Daily scores weren't uploading for some players.
+[*]Sundial relic wording improvements.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DEU, FRA, GRE, ITA, JPN, KOR, RUS, ZHS, ZHT.
+[/list]
+
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/b9416dba29ee335d3c7c2bdb6efa5a0b8714ad5e.png[/img]

@@ -37,7 +37,8 @@
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
-      "koykoy13"
+      "koykoy13",
+      "Magnus Upmann"
     ]
   },
   "LOC_FRA": {
@@ -60,6 +61,14 @@
     "HEADER": "Greek Localization",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Indonesian Localization",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Haveiszal \"Szaal\" Faroqie"
     ]
   },
   "LOC_ITA": {
@@ -131,10 +140,10 @@
   "LOC_RUS": {
     "HEADER": "Russian Localization",
     "NAMES": [
-      "Translation and Coordination:",
+      "Translation:",
       "Ivan \"Ingrett\" Khoroshunenko",
-      "Translation and Repository:",
       "Vladislav \"Vlad-00003\" Bolshakov",
+      "Dmitry \"Regallion\" Zhiryakov",
       "Suggestions and Feedback:",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
@@ -143,9 +152,18 @@
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
       "Alexandr \"LiaNdrY\" Mazistov",
-      "Dmitry \"Regallion\" Zhiryakov",
       "Shop Asset Translation:",
       "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Spanish Localization",
+    "NAMES": [
+      "Translation and Coordination:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Translation:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Skiddome"
     ]
   },
   "LOC_SRB": {
@@ -163,7 +181,8 @@
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
     "NAMES": [
-      "Vladyslav \"DarkXylese\" Kashtelyanov"
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Vasyl \"RDSk\" Mykhaliuk"
     ]
   },
   "LOC_ZHS": {
@@ -174,7 +193,11 @@
   },
   "LOC_ZHT": {
     "HEADER": "Chinese (Traditional) Localization",
-    "NAMES": []
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
   },
   "OPS": {
     "HEADER": "Operations & Metrics",

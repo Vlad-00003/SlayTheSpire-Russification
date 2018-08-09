@@ -171,6 +171,15 @@
       "~My~ ~powers~ NL ~were~ ~matched...~"
     ]
   },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dagger",
+    "DIALOG": [
+      ""
+    ]
+  },
   "Darkling": {
     "MOVES": [
       "Chomp! Chomp!"
@@ -452,6 +461,15 @@
       ""
     ],
     "NAME": "Puppeteer",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reptomancer",
     "DIALOG": [
       ""
     ]

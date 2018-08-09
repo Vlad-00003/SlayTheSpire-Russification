@@ -399,6 +399,11 @@
     "NAME": "Disarm",
     "DESCRIPTION": "Enemy loses !M! Strength. NL Exhaust."
   },
+  "Discovery": {
+    "NAME": "Discovery",
+    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
+  },
   "Distraction": {
     "NAME": "Distraction",
     "DESCRIPTION": "Add a random Skill to your hand. NL It costs 0 this turn. NL Exhaust."
@@ -580,6 +585,11 @@
     "NAME": "Force Field",
     "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
   },
+  "Forethought": {
+    "NAME": "Forethought",
+    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played.",
+    "UPGRADE_DESCRIPTION": "Place any number of cards from your hand on the bottom of your draw pile. They cost 0 until played."
+  },
   "Fusion": {
     "NAME": "Fusion",
     "DESCRIPTION": "Channel !M! Plasma."
@@ -679,6 +689,10 @@
   "Immolate": {
     "NAME": "Immolate",
     "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a Burn to your discard pile."
+  },
+  "Impatience": {
+    "NAME": "Impatience",
+    "DESCRIPTION": "If you have no Attack cards in your hand, draw !M! cards."
   },
   "Impervious": {
     "NAME": "Impervious",
@@ -833,7 +847,8 @@
       "Unplayable. NL You cannot play more than ",
       " cards per turn.",
       " cards per turn. NL You have played ",
-      " card this turn."
+      " card this turn.",
+      " cards this turn."
     ]
   },
   "Nova": {
@@ -851,8 +866,8 @@
   },
   "Offering": {
     "NAME": "Offering",
-    "DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+    "DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "Outmaneuver",
@@ -1016,7 +1031,7 @@
   },
   "RitualDagger": {
     "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
   },
   "Rupture": {
     "NAME": "Rupture",
@@ -1189,8 +1204,8 @@
   },
   "Tactician": {
     "NAME": "Tactician",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G].",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G] [G].",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
@@ -1230,8 +1245,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Add X random colorless cards into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards into your hand. NL Exhaust."
+    "DESCRIPTION": "Add X random colorless cards to your hand. They cost 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards to your hand. They cost 0 this turn. NL Exhaust."
   },
   "Trip": {
     "NAME": "Trip",
@@ -1274,6 +1289,10 @@
   "Venomology": {
     "NAME": "Alchemize",
     "DESCRIPTION": "Obtain a random potion. NL Exhaust."
+  },
+  "Violence": {
+    "NAME": "Violence",
+    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Exhaust."
   },
   "Void": {
     "NAME": "Void",

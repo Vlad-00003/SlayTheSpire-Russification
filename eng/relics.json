@@ -109,7 +109,7 @@
     "NAME": "Bottled Flame",
     "FLAVOR": "Inside the bottle resides a flame that eternally burns.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose an #yAttack card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -119,7 +119,7 @@
     "NAME": "Bottled Lightning",
     "FLAVOR": "Peering into the swirling maelstrom, you see a part of yourself staring back.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose a #ySkill card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -127,9 +127,9 @@
   },
   "Bottled Tornado": {
     "NAME": "Bottled Tornado",
-    "FLAVOR": "Test relic.",
+    "FLAVOR": "The bottle gently hums and whirs.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose a #yPower card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -229,7 +229,8 @@
     "NAME": "Chemical X",
     "FLAVOR": "WARNING: Do not combine with sugar, spice, and everything nice.",
     "DESCRIPTIONS": [
-      "Whenever you play a cost #bX card, its effects are increased by #b"
+      "The effects of your cost #bX cards are increased by #b",
+      "."
     ]
   },
   "Circlet": {
@@ -340,7 +341,7 @@
     "NAME": "Dream Catcher",
     "FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
     "DESCRIPTIONS": [
-      "Whenever you rest, you may add a card to your deck."
+      "Whenever you #yRest, you may add a card to your deck."
     ]
   },
   "Du-Vu Doll": {
@@ -419,9 +420,16 @@
   },
   "Frozen Eye": {
     "NAME": "Frozen Eye",
-    "FLAVOR": "No description.",
+    "FLAVOR": "Staring into the eye, you see a glimpse of your future.",
     "DESCRIPTIONS": [
       "When viewing your #yDraw #yPile, the cards are now shown in order."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
     ]
   },
   "Fusion Hammer": {
@@ -479,6 +487,13 @@
       "Start each combat with #b1 #yWeak."
     ]
   },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
+    ]
+  },
   "Happy Flower": {
     "NAME": "Happy Flower",
     "FLAVOR": "This unceasingly joyous plant is a popular novelty item among nobles.",
@@ -487,6 +502,13 @@
       " turns, gain [R] .",
       " turns, gain [G] .",
       " turns, gain [B] ."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Gain [G] and discard #b2 cards at the start of each turn."
     ]
   },
   "Ice Cream": {
@@ -602,6 +624,14 @@
       "The next #b2 chests you open contain #b2 #yRelics. (Excludes boss chests)",
       "The next chest you open contains #b2 #yRelics. (Excludes boss chests)",
       "This relic has been used up."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Maw Bank",
+    "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+    "DESCRIPTIONS": [
+      "Whenever you climb a floor, gain #b",
+      " #yGold. No longer works when you spend any #yGold at the shop."
     ]
   },
   "MealTicket": {
@@ -734,6 +764,16 @@
       "Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns."
     ]
   },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " #yAttacks, gain [R] .",
+      " #yAttacks, gain [G] .",
+      " #yAttacks, gain [B] ."
+    ]
+  },
   "Odd Mushroom": {
     "NAME": "Odd Mushroom",
     "FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
@@ -763,6 +803,13 @@
       "Negate the next #b2 #rCurses you obtain.",
       "Negate the next #rCurse you obtain.",
       "This relic is all used up."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pellets",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, #yAttack, and #ySkill in the same turn, remove all of your Debuffs."
     ]
   },
   "Orichalcum": {
@@ -904,8 +951,10 @@
   },
   "Ring of the Serpent": {
     "NAME": "Ring of the Serpent",
+    "FLAVOR": "Your ring has morphed and changed forms.",
     "DESCRIPTIONS": [
-      "Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max HP by #b"
+      "Replaces #gRing #gof #gthe #gSnake. ",
+      "At the start of your turn, draw #b1 additional card."
     ]
   },
   "Ring of the Snake": {
@@ -981,6 +1030,14 @@
       "When adding cards to your deck, you may gain #b+2 Max HP instead."
     ]
   },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
   "Smiling Mask": {
     "NAME": "Smiling Mask",
     "FLAVOR": "Mask worn by the merchant. He must have spares...",
@@ -1027,6 +1084,15 @@
     "DESCRIPTIONS": [
       "Whenever you enter a ? room, gain #b",
       " #yGold."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Stone Calendar",
+    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+    "DESCRIPTIONS": [
+      "At the end of turn #b",
+      ", deal #b",
+      " damage to ALL enemies."
     ]
   },
   "Strange Spoon": {
@@ -1286,6 +1352,13 @@
     "FLAVOR": "A small white statue of a creature you have never seen before.",
     "DESCRIPTIONS": [
       "Potions always drop after combat."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Wrist Blade",
+    "FLAVOR": "Handy for assassinations.",
+    "DESCRIPTIONS": [
+      "#yAttacks that cost #b0 deal #b3 additional damage."
     ]
   }
 }

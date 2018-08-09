@@ -7,9 +7,21 @@
     "NAME": "Binary",
     "DESCRIPTION": "Card rewards contain only 2 cards."
   },
+  "Blight Chests": {
+    "NAME": "Blight Chests",
+    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+  },
+  "Blue Cards": {
+    "NAME": "Blue Cards",
+    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+  },
   "Brewmaster": {
     "NAME": "Brewmaster",
     "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
+  },
+  "Colorless Cards": {
+    "NAME": "Colorless Cards",
+    "DESCRIPTION": "Colorless cards appear more often."
   },
   "Cursed Run": {
     "NAME": "Cursed Run",
@@ -30,6 +42,10 @@
   "Endless": {
     "NAME": "Endless",
     "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+  },
+  "Green Cards": {
+    "NAME": "Green Cards",
+    "DESCRIPTION": "Green cards now appear in rewards and shops."
   },
   "Heirloom": {
     "NAME": "Heirloom",
@@ -71,6 +87,10 @@
     "NAME": "Praise Snecko",
     "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
   },
+  "Red Cards": {
+    "NAME": "Red Cards",
+    "DESCRIPTION": "Red cards now appear in rewards and shops."
+  },
   "Shiny": {
     "NAME": "Shiny",
     "DESCRIPTION": "Starting deck is replaced with 1 of every rare card."
@@ -82,6 +102,10 @@
   "Starter Deck": {
     "NAME": "Starter Deck",
     "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
+  },
+  "Stunted Growth": {
+    "NAME": "Stunted Growth",
+    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
   },
   "Terminal": {
     "NAME": "Terminal",

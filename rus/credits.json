@@ -37,7 +37,8 @@
       "Джонас Тродлер (Jonas Trodler)",
       "Hongkong Koma",
       "Moly",
-      "koykoy13"
+      "koykoy13",
+      "Магнус Упманн (Magnus Upmann)"
     ]
   },
   "LOC_FRA": {
@@ -57,9 +58,17 @@
     ]
   },
   "LOC_GRE": {
-    "HEADER": "Greek Localization",
+    "HEADER": "Перевод на греческий",
     "NAMES": [
       "Котсос «Iglor» Даймонд (Kotsos «Iglor» Diamond)"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Перевод на индонезийский",
+    "NAMES": [
+      "Адитя «RiSQ.» Арифин (Aditya «RiSQ.» Arifin)",
+      "Дарьян «Samus» Рамадханы (Daryan «Samus» Ramadhany)",
+      "Хэйвизал «Szaal» Фэрокуи (Haveiszal «Szaal» Faroqie)"
     ]
   },
   "LOC_ITA": {
@@ -131,10 +140,10 @@
   "LOC_RUS": {
     "HEADER": "Перевод на русский",
     "NAMES": [
-      "Перевод и координация:",
+      "Перевод:",
       "Иван «Ingrett» Хорошуненко (Ivan «Ingrett» Khoroshunenko)",
-      "Перевод и репозиторий:",
       "Владислав «Vlad-00003» Большаков (Vladislav «Vlad-00003» Bolshakov)",
+      "Дмитрий «Regallion» Жиряков (Dmitry «Regallion» Zhiryakov)",
       "Предложения и отзывы:",
       "Михаил «Outmind» Дюжев (Mikhail «Outmind» Dyuzhev)",
       "Богдан «DarkRosse» Калитюк (Bohdan «DarkRosse» Kalytiuk)",
@@ -143,9 +152,18 @@
       "Екатерина «Meds» Белименко-Болджер (Kateryna «Meds» Belimenko-Bolger)",
       "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)",
       "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)",
-      "Дмитрий «Regallion» Жиряков (Dmitry «Regallion» Zhiryakov)",
       "Перевод графики магазина:",
       "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Перевод на испанский",
+    "NAMES": [
+      "Перевод и координация:",
+      "Педро-Луис «PerikiyoXD» Валадес Виера (Pedro Luis «PerikiyoXD» Valadés Viera)",
+      "Перевод:",
+      "Ксавьер «xabad98» Абад Салинас (Xavier «xabad98» Abad Salinas)",
+      "Skiddome"
     ]
   },
   "LOC_SRB": {
@@ -163,7 +181,8 @@
   "LOC_UKR": {
     "HEADER": "Перевод на украинский",
     "NAMES": [
-      "Владислав «DarkXylese» Каштелянов (Vladyslav «DarkXylese» Kashtelyanov)"
+      "Владислав «DarkXylese» Каштелянов (Vladyslav «DarkXylese» Kashtelyanov)",
+      "Василь «RDSk» Майкалиак (Vasyl «RDSk» Mykhaliuk)"
     ]
   },
   "LOC_ZHS": {
@@ -174,7 +193,11 @@
   },
   "LOC_ZHT": {
     "HEADER": "Перевод на китайский (традиционный)",
-    "NAMES": []
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
   },
   "OPS": {
     "HEADER": "Операции и метрики",

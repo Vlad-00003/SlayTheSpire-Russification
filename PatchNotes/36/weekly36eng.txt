@@ -1,0 +1,57 @@
+Weekly Patch 36: Power Through
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/235fd0f2a911f4ffb3fe694cf32564022b1cec47.png[/img]
+Hey everyone,
+
+It's patch time!
+
+This week brings a few bug fixes and quality of life improvements. We thank you for your patience while we work on various features that are still forthcoming! It's gonna be good :D
+
+[h1]Save Slot System[/h1]
+We're finishing up a Save Slot system! This will probably be available in beta next week.
+
+[h1]Community Fan Art[/h1]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/0c1c04307c42a6c512105b8ed86508a398e53a8f.jpg[/img]
+[i]Battle of the 3 Ds by [url=https://twitter.com/AzulCrescent]@AzulCrescent[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/1309c64fb2e2ddf0d4a76bed8f298e04c1a0d452.jpg[/img]
+[i]Ironclad admiring Singing Bowl by [url=https://twitter.com/Kapibeee]@Kapibeee[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/310f8b9832f235a21ec634ff059e9b2a3ee81709.png[/img]
+[i]Lagavulin by [url=https://twitter.com/EyeSakk]@EyeSakk[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Fixed an incorrect interaction with Mark of the Bloom and the Maoi Head event in Act 3.
+[*]Fixed bug where We Meet Again potion removal didn't apply for the left most slot.
+[*]Fixed issue where Custom Mods would be enabled in a Daily Run.
+[*]Improved blight stacking for Endless. Grotesque Trophy is just 1 blight now.
+[*]Limit Break card now also doubles negative strength.
+[*]Moving Bronze Automaton and its orbs 50px left so the rightmost orb's powers aren't cut off.
+[*]Opening the Daily Climb screen should now properly show today's score.
+[*]Poison is now capped at 9999.
+[*]Preventing save corruption due to power loss.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Draw and Discard piles can now be opened from hand select screen (Gambling Chip, Armaments, etc).
+[*]Thorns and Flame Barrier powers are made consistent.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]Ascension Mode unlock requirement updated. Now unlocked per character when you win.
+[*]Ball Lightning+ card nerf: Upgrade damage 4 -> 3.
+[*]Blade Dance card rarity lowered from Uncommon -> Common.
+[*]Slaver/Looter and Slaver/Monster encounters in Act 1 swap positions to prevent Vulnerable + Attack turns.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DEU, IND, ITA, KOR, RUS, ZHS, ZHT.
+[*]Updating credits organization for RUS.
+[/list]

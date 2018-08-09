@@ -87,8 +87,8 @@
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Choose a Card to Add to Your Hand",
-      "Choose Cards to Add to Your Hand"
+      "Choose a Card to Add to Your Hand.",
+      "Choose Cards to Add to Your Hand."
     ]
   },
   "ApplyPowerAction": {
@@ -136,7 +136,7 @@
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "Choose an Attack to Add to Your Hand."
     ]
   },
   "BattleStartEffect": {
@@ -422,6 +422,14 @@
       " Unlocked!"
     ]
   },
+  "DeletePopup": {
+    "TEXT": [
+      "Delete this save?",
+      "Yes",
+      "No",
+      "WARNING: This action cannot be undone."
+    ]
+  },
   "Dig Option": {
     "TEXT": [
       "Dig",
@@ -534,6 +542,16 @@
   "Exordium": {
     "TEXT": [
       "Exordium"
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "put on bottom of your draw pile."
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
     ]
   },
   "GamblingChipAction": {
@@ -660,7 +678,8 @@
       "Hungarian",
       "Serbian (Latin)",
       "Catalan",
-      "Greek"
+      "Greek",
+      "Indonesian"
     ]
   },
   "LeaderboardFilters": {
@@ -797,7 +816,7 @@
       "",
       "See all of the people who contributed on Slay the Spire!",
       "Unknown",
-      "Win a Daily Climb to unlock this game mode.",
+      "Play a Daily Climb to unlock this game mode.",
       "This feature is not yet available.",
       "Custom",
       "Customize your own run with unique modifiers."
@@ -1014,6 +1033,19 @@
       "Only Daily Challenge",
       "Seed: %s",
       "Custom Seed: %s"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot",
+      "Rename",
+      "Delete this Save"
     ]
   },
   "SeedPanel": {
