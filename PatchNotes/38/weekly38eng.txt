@@ -1,0 +1,76 @@
+Weekly Patch 38: Bane
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/b1debe93fa6de7d6197deb1743774d8c3efe1383.jpg[/img]
+Hello all,
+
+This week we're bringing in new Ascension levels, a good amount of colorless cards, and a few bug fixes here and there!
+
+[h1]Ascension[/h1]
+Ascension 16 - 20 is here! Gold becomes more precious, enemies are tougher, and a change is added to the final encounter. These ascension levels are not yet finalized and feedback is welcome :).
+
+[h1]New Colorless Cards[/h1]
+Ten new colorless cards have been added to the game!
+
+[h1]Community Fan Art[/h1]
+Once again we are blessed with beautiful fan art from the community. PRAISE SNECKO!
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/07a2ccf17ef679e8e045ea69cdaaf9bc8ed368bd.png[/img]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/27998ccf92895d0cfe00d3248600065b8e423a7f.jpg[/img]
+[i]This incredible hand drawn piece by [url=https://twitter.com/ScorpionTundra]@ScorpionTundra[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/29b19ad7ff88a6fa40fcbcf94f1496b243b14847.png[/img]
+[i]"I am the Deadliest Assassin" by [url=https://www.reddit.com/user/Zixzs]/u/Zixzs[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/639515a2d547249b53929496c2ca086a309ed900.jpg[/img]
+[i]Silent vs Darklings by [url=https://twitter.com/Vasilas32]@Vasilas32[/url][/i]
+
+[b]Patch Notes[/b]
+[h1]Content[/h1]
+[list]
+[*]Ascension 16 - 20 is now available!
+[*]Adding Achievement for beating Ascension 20.
+[*]Adding colorless card Chrysalis.
+[*]Adding colorless card Discovery.
+[*]Adding colorless card Forethought.
+[*]Adding colorless card Hand of Greed.
+[*]Adding colorless card Impatience.
+[*]Adding colorless card Mayhem.
+[*]Adding colorless card Metamorphosis.
+[*]Adding colorless card Panic Button.
+[*]Adding colorless card The Bomb.
+[*]Adding colorless card Violence.
+[*]Adding curse card Shame.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]Incense Burner relic nerf: 5 -> 6 turns. 
+[*]Paper Krane relic nerf: 50% -> 40% damage reduction.
+[*]The Guardian boss' Phase Shift is now 35 starting Ascension 9.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Display-related configs are no longer applied on save slot switch (caused UI issues).
+[*]Parasite + Fungi Beast combat can actually be encountered now.
+[*]Fixed an instance where you couldn't proceed if all rest site options were unavailable.
+[*]Gold Shrine event's desecrate option now shows the correct gold amount.
+[*]Save Slot completion % should now be more accurate.
+[*]We Meet Again event no longer allows the player to drink or discard the potion.
+[*]Wrist Blade relic now works with cards that are cost 0 via Setup or Forethought.
+[*]You can now drink Fruit Juice in more locations. (FRUIT JUICE REVOLUTION)
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Compressing campfire option assets
+[*]Bestiary is removed from the Main Menu as it's not implemented yet.
+[*]Deleting a save slot now removes the name of that save slot in the background (top left corner).
+[*]Removing 'Controller Support not supported' message in Run History Screen (as it's supported).
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Adding initial support for EPO (Esperanto).
+[*]Updates for DEU, IND, ITA, JPN, KOR, UKR, ZHS, ZHT.
+[/list]
