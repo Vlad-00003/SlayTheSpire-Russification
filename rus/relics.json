@@ -694,13 +694,13 @@
     ]
   },
   "MutagenicStrength": {
-    "NAME": "Mutagenic Strength",
-    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "NAME": "Мутагенное усиление",
+    "FLAVOR": "«Результат, похоже, нестабилен. Срабатывает лишь тогда, когда субъекту угрожает опасность.» - Неизвестный",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yStrength that is lost at the end of your turn."
+	  "Даёт #b",
+	  " #yСилы в начале боя. Она исчезает в конце вашего хода."
     ]
-  },
+},
   "Necronomicon": {
     "NAME": "Некрономикон",
     "FLAVOR": "Только глупец попытается совладать с его зловещей силой. По ночам вам снится, как книга пожирает ваш разум.",
