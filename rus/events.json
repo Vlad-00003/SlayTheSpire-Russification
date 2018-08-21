@@ -151,12 +151,42 @@
       "%: #rмонстр #rвернётся."
     ]
   },
+  "Designer": {
+    "NAME": "Designer In-Spire",
+    "DESCRIPTIONS": [
+      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
+      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
+      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
+      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Adjustments] #rLose #r",
+      "[Clean Up] #rLose #r",
+      "[Full Service] #rLose #r",
+      "[Punch] #rLose #r",
+      " #rHP.",
+      " #rGold. ",
+      "#gUpgrade #g",
+      " #grandom #gcards.",
+      "#gUpgrade #ga #gcard.",
+      "#gRemove #ga #gcard.",
+      "#gTransform #g",
+      " #gcards.",
+      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
+      "[Leave]",
+      "Choose a Card to Upgrade",
+      "Choose 2 Cards to Transform",
+      "Choose a Card to Remove"
+    ]
+  },
   "Drug Dealer": {
     "NAME": "Наркоторговец",
     "DESCRIPTIONS": [
       "К вам вразвалку подходит мужчина с повязкой на глазу и дьявольской ухмылкой. NL «Эй, чужак. Есть #yМ.О.Щ., интересуешься? Она даст тебе сил больше, чем любая тренировка или благословление. Тебе пригодится, если ты один из этих безбашенных героев. NL Что скажешь? Хочешь #yМ.О.Щ.-и?» NL ",
       "~«Отлично».~ NL Мужчина протягивает вам скверный на вид шприц, наполненный светящейся жидкостью, и скрывается в тени переулка.",
-      "«Ничего, придут другие...» NL Мужчина невозмутимо уходит."
+      "«Ничего, придут другие...» NL Мужчина невозмутимо уходит.",
+      "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
     ],
     "OPTIONS": [
       "[Заплатить] #y",

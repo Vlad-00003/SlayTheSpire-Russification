@@ -693,6 +693,14 @@
       "Whenever you play a #yPower, a random card in your hand costs #b0 for the turn."
     ]
   },
+  "MutagenicStrength": {
+    "NAME": "Mutagenic Strength",
+    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yStrength that is lost at the end of your turn."
+    ]
+  },
   "Necronomicon": {
     "NAME": "Necronomicon",
     "FLAVOR": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.",

@@ -693,6 +693,14 @@
       "Случайная карта в руке стоит #b0, когда разыгрывается #yТалант."
     ]
   },
+  "MutagenicStrength": {
+    "NAME": "Mutagenic Strength",
+    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yStrength that is lost at the end of your turn."
+    ]
+  },
   "Necronomicon": {
     "NAME": "Некрономикон",
     "FLAVOR": "Только глупец попытается совладать с его зловещей силой. По ночам вам снится, как книга пожирает ваш разум.",
