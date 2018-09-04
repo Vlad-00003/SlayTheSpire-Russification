@@ -135,6 +135,14 @@
       " to your hand."
     ]
   },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "Emanates an infernal heat.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, everyone gains #b",
+      " #yStrength."
+    ]
+  },
   "Bronze Scales": {
     "NAME": "Bronze Scales",
     "FLAVOR": "The sharp scales of the Guardian. Rearranges itself to protect its user. ",
@@ -401,6 +409,13 @@
     "FLAVOR": "Everyone loves Cleric.",
     "DESCRIPTIONS": [
       "Raise your Max HP by #b1 after each combat."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fossilized Helix",
+    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "DESCRIPTIONS": [
+      "Prevent the first time you would lose HP in combat."
     ]
   },
   "Frozen Egg": {
@@ -905,6 +920,13 @@
       "Gain [B] at the start of each turn."
     ]
   },
+  "Pocketwatch": {
+    "NAME": "Pocketwatch",
+    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+    ]
+  },
   "Potion Belt": {
     "NAME": "Potion Belt",
     "FLAVOR": "I can hold more Potions using this belt!",
@@ -917,6 +939,21 @@
     "FLAVOR": "The wheel continues to spin, never stopping.",
     "DESCRIPTIONS": [
       "Normal enemies drop an additional card reward."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Preserved Insect",
+    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "DESCRIPTIONS": [
+      "Enemies in Elite rooms have #b",
+      "% less HP."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatic Shard",
+    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "DESCRIPTIONS": [
+      "Combat reward screens now contain colorless cards and cards from other colors."
     ]
   },
   "Question Card": {

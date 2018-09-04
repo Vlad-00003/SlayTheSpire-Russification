@@ -135,6 +135,14 @@
       " в первую руку каждого боя."
     ]
   },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "Emanates an infernal heat.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, everyone gains #b",
+      " #yStrength."
+    ]
+  },
   "Bronze Scales": {
     "NAME": "Бронзовая чешуя",
     "FLAVOR": "Острая чешуя Стража. Перестраивается для защиты носителя.",
@@ -401,6 +409,13 @@
     "FLAVOR": "Все любят Клирика.",
     "DESCRIPTIONS": [
       "После каждого боя поднимает Макс. ОЗ на #b1"
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fossilized Helix",
+    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "DESCRIPTIONS": [
+      "Prevent the first time you would lose HP in combat."
     ]
   },
   "Frozen Egg": {
@@ -905,6 +920,13 @@
       "Даёт [B] в начале вашего хода."
     ]
   },
+  "Pocketwatch": {
+    "NAME": "Pocketwatch",
+    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+    ]
+  },
   "Potion Belt": {
     "NAME": "Пояс для зелий",
     "FLAVOR": "Этот пояс позволит мне нести больше зелий!",
@@ -917,6 +939,21 @@
     "FLAVOR": "Барабан крутится без остановки.",
     "DESCRIPTIONS": [
       "Даёт дополнительную #yнаградную #yкарту за победу над #yобычными врагами."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Preserved Insect",
+    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "DESCRIPTIONS": [
+      "Enemies in Elite rooms have #b",
+      "% less HP."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatic Shard",
+    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "DESCRIPTIONS": [
+      "Combat reward screens now contain colorless cards and cards from other colors."
     ]
   },
   "Question Card": {
