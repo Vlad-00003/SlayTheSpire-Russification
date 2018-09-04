@@ -136,11 +136,11 @@
     ]
   },
   "Brimstone": {
-    "NAME": "Brimstone",
-    "FLAVOR": "Emanates an infernal heat.",
+    "NAME": "Сера",
+    "FLAVOR": "Источает адский жар.",
     "DESCRIPTIONS": [
-      "At the start of your turn, everyone gains #b",
-      " #yStrength."
+      "Даёт #b",
+      " #yСилы ВСЕМ в начале вашего хода."
     ]
   },
   "Bronze Scales": {
@@ -412,10 +412,10 @@
     ]
   },
   "FossilizedHelix": {
-    "NAME": "Fossilized Helix",
-    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "NAME": "Окаменевшая раковина",
+    "FLAVOR": "Можно только гадать, какому существу принадлежала эта практически неразрушимая раковина.",
     "DESCRIPTIONS": [
-      "Prevent the first time you would lose HP in combat."
+      "Предотвращает первую потерю ОЗ в каждом бою."
     ]
   },
   "Frozen Egg": {
@@ -921,10 +921,10 @@
     ]
   },
   "Pocketwatch": {
-    "NAME": "Pocketwatch",
-    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "NAME": "Карманные часы",
+    "FLAVOR": "Стрелки этих часов навечно застыли на отметке 3 часа.",
     "DESCRIPTIONS": [
-      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+      "Если вы разыграли #b3 или менее карты за ход, в след. ходу вы возьмёте на #b3 карты больше"
     ]
   },
   "Potion Belt": {
@@ -942,18 +942,18 @@
     ]
   },
   "PreservedInsect": {
-    "NAME": "Preserved Insect",
-    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "NAME": "Сохраненное насекомое",
+    "FLAVOR": "Это удивительное насекомое, создает уменьшающую ауру, воздействующую на особо крупных противников",
     "DESCRIPTIONS": [
-      "Enemies in Elite rooms have #b",
-      "% less HP."
+      "Враги в комнатах элитных врагов имеют на #b",
+      "% меньше ОЗ."
     ]
   },
   "PrismaticShard": {
-    "NAME": "Prismatic Shard",
-    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "NAME": "Радужный осколок",
+    "FLAVOR": ", you are able to see entirely new perspectives.",
     "DESCRIPTIONS": [
-      "Combat reward screens now contain colorless cards and cards from other colors."
+      "Награды теперь содержат карты всех цветов, включая бесцветные."
     ]
   },
   "Question Card": {
