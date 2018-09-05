@@ -759,7 +759,7 @@
     ]
   },
   "Nloth's Gift": {
-    "NAME": "Nloth's Gift",
+    "NAME": "N'loth's Gift",
     "FLAVOR": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
     "DESCRIPTIONS": [
       "#bTriples the chance of receiving rare cards as monster rewards."
@@ -1384,6 +1384,13 @@
       " random #ySkills."
     ]
   },
+  "WarpedTongs": {
+    "NAME": "Warped Tongs",
+    "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, #yUpgrade a random card in your hand."
+    ]
+  },
   "Whetstone": {
     "NAME": "Whetstone",
     "FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
@@ -1397,6 +1404,13 @@
     "FLAVOR": "A small white statue of a creature you have never seen before.",
     "DESCRIPTIONS": [
       "Potions always drop after combat."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Winged Greaves",
+    "FLAVOR": "Stylish.",
+    "DESCRIPTIONS": [
+      "You may ignore paths when choosing the next room to travel to #b3 times."
     ]
   },
   "WristBlade": {
