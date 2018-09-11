@@ -995,7 +995,9 @@
       "Donu and Deca",
       "Sentries",
       "Chosen and Cultist",
-      "(Deprecated) Flame Bruiser"
+      "(Deprecated) Flame Bruiser",
+      "(Deprecated) Slaver and Parasite",
+      "(Deprecated) Snecko and Mystics"
     ]
   },
   "RunHistoryPathNodes": {
@@ -1022,10 +1024,10 @@
       "#ySkipped:",
       "Missing Info",
       "+2 Max HP",
-      "#bC ",
-      "#bR ",
-      "#bP ",
-      "#bS ",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
       "#bRested",
       "#bUpgraded %s",
       "#bRemoved %s",
