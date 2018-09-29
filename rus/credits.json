@@ -191,8 +191,11 @@
   "LOC_UKR": {
     "HEADER": "Перевод на украинский",
     "NAMES": [
+      "Перевод и координация:",
       "Владислав «DarkXylese» Каштелянов (Vladyslav «DarkXylese» Kashtelyanov)",
-      "Василь «RDSk» Майкалиак (Vasyl «RDSk» Mykhaliuk)"
+      "Правки и перевод:",
+      "Василь «RDSk» Майкалиак (Vasyl «RDSk» Mykhaliuk)",
+      "Артём «Crazytosik» Земляни (Artem «Crazytosik» Zemlianyi)"
     ]
   },
   "LOC_ZHS": {
