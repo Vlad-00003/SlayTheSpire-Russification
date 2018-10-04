@@ -875,6 +875,11 @@
       " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
     ]
   },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
   "PotionPopUp": {
     "TEXT": [
       "Throw",
