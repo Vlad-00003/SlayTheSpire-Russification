@@ -39,9 +39,13 @@
     "NAME": "Cursed Run",
     "DESCRIPTION": "Whenever you defeat a Boss, become Cursed. Your starting relic is replaced with Cursed Key, Darkstone Periapt, and Du-Vu Doll."
   },
+  "Daily Mods": {
+    "NAME": "Daily Mods",
+    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
+  },
   "DeadlyEvents": {
     "NAME": "Deadly Events",
-    "DESCRIPTION": "? rooms can now contain Elites but are more likely to contain Treasure rooms."
+    "DESCRIPTION": "? rooms can now contain Elites but are also more likely to contain Treasure rooms."
   },
   "Diverse": {
     "NAME": "Diverse",
@@ -96,7 +100,7 @@
     "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
   },
   "MonsterHunter": {
-    "NAME": "Monster Hunter",
+    "NAME": "Colossus ",
     "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
   },
   "My True Form": {
