@@ -54,6 +54,6 @@ When we leave Early Access, outdated translations will need to be removed. If th
 [h1]Localization[/h1]
 [list]
 [*]Improvements for rendering energy orbs and icons for JPN, ZHS, and ZHT (notable Run History)
-[*]Updates for DEU, EPO, FRA, ITA, KOR, SPA, UKR, ZHS, ZHT.
+[*]Updates for DEU, EPO, FRA, ITA, KOR, RUS, SPA, UKR, ZHS, ZHT.
 [/list]
 [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/2ca051c70d3d68676b6032241cd893164eacd522.png[/img]
