@@ -97,7 +97,7 @@
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+    "DESCRIPTION": "Enemies drop 200% more gold, but you can no longer Smith at Rest Sites."
   },
   "MonsterHunter": {
     "NAME": "Colossus ",
