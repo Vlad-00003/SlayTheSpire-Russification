@@ -120,7 +120,12 @@
       "Upgraded cards appear less often.",
       "Poor bosses.",
       "Lower Max HP.",
-      "(Max Level) Unfavorable Events."
+      "Unfavorable Events.",
+      "Shops are more costly.",
+      "Normal enemies have more challenging movesets and abilities.",
+      "Elites have more challenging movesets and abilities.",
+      "Bosses have more challenging movesets and abilities.",
+      "(Max Level) Double Boss."
     ]
   },
   "AscensionTextEffect": {
@@ -339,7 +344,8 @@
       " NL #yMods: ",
       "Modifiers: ",
       "Leaderboards",
-      "*Achievements are off for Daily Climb."
+      "*Achievements are off for Daily Climb.",
+      "  [OFFLINE MODE]"
     ]
   },
   "DeathScreen": {
@@ -679,7 +685,8 @@
       "Serbian (Latin)",
       "Catalan",
       "Greek",
-      "Indonesian"
+      "Indonesian",
+      "Esperanto"
     ]
   },
   "LeaderboardFilters": {
@@ -858,7 +865,8 @@
       "NL NL VSync",
       "Playtester Art Mode",
       "Show Card Quick Select Keys",
-      "Input Settings"
+      "Input Settings",
+      "Disable Particle Effects"
     ]
   },
   "PatchNotesScreen": {
@@ -866,6 +874,11 @@
       "Return",
       "#yPatch #yNotes",
       " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
     ]
   },
   "PotionPopUp": {
@@ -961,6 +974,38 @@
       "Choose a Card"
     ]
   },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gang of Gremlins",
+      "Large Slime",
+      "Exordium Thugs",
+      "Exordium Wildlife",
+      "Swarm of Slimes",
+      "Small Slimes",
+      "City Muggers",
+      "Three Byrds",
+      "Four Byrds",
+      "Triple Cultists",
+      "Chosen Flock",
+      "Sentry and Spheric Guardian",
+      "Centurion and Mystic",
+      "Parasite and Fungi Beast",
+      "Masked Bandits Gang",
+      "Colosseum Nobs",
+      "Colosseum Slavers",
+      "Three Shapes",
+      "Jaw Worm Horde",
+      "Four Shapes",
+      "Spheric Guardian with Shapes",
+      "Double Orb Walkers",
+      "Donu and Deca",
+      "Sentries",
+      "Chosen and Cultist",
+      "(Deprecated) Flame Bruiser",
+      "(Deprecated) Slaver and Parasite",
+      "(Deprecated) Snecko and Mystics"
+    ]
+  },
   "RunHistoryPathNodes": {
     "TEXT": [
       "Unknown",
@@ -981,20 +1026,34 @@
       "#r%s Turns",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yGold",
-      "#yObtained:",
+      "#yObtained: ",
       "#ySkipped:",
       "Missing Info",
       "+2 Max HP",
-      "#bC ",
-      "#bR ",
-      "#bP ",
-      "#bS ",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
       "#bRested",
       "#bUpgraded %s",
       "#bRemoved %s",
       "#bDug",
       "#bLifted %s/%s",
-      "#yPurchased:"
+      "#yPurchased:",
+      "#rSpent ",
+      "#rTook ",
+      "#rLost ",
+      "%s Max HP",
+      "#bHealed ",
+      "#bGained ",
+      "#bIgnored ",
+      "%s HP",
+      "#bObtained %s",
+      "#rCursed #rwith #r%s",
+      "%s Damage",
+      "#bUpgraded %s",
+      "#bTransformed %s",
+      "#rLost %s"
     ]
   },
   "RunHistoryScreen": {

@@ -32,13 +32,19 @@
   "LOC_DEU": {
     "HEADER": "German Localization",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand ",
+      "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
       "koykoy13",
       "Magnus Upmann"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Esperanto Localization",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos"
     ]
   },
   "LOC_FRA": {
@@ -115,6 +121,7 @@
       "Oskar \"volf3n\" Nowak",
       "Additional Translations:",
       "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
       "Proofreading:",
       "Oskar \"volf3n\" Nowak",
       "Suggestions and Feedback:",
@@ -163,7 +170,11 @@
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",
       "Translation:",
       "Xavier \"xabad98\" Abad Salinas",
-      "Skiddome"
+      "Sergio \"Skiddome\" Malagón",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro J. \"PJJLegend\" Jiménez",
+      "Grammar and Cleanup:",
+      "Joaquín \"Pip1n\" López"
     ]
   },
   "LOC_SRB": {
@@ -181,8 +192,11 @@
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
     "NAMES": [
+      "Translation and Coordination:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
-      "Vasyl \"RDSk\" Mykhaliuk"
+      "Corrections and Translation:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_ZHS": {

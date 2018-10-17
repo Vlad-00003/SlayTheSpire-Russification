@@ -1,0 +1,94 @@
+Weekly Patch 44: Chrysalis
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/d3d54291eff96779e7b4c64b673bb3efe3b69859.png[/img]
+Hello!
+
+This week brings a few more daily mods, several bug fixes, and we worked with a few people to update the wording for many many cards, relics, and powers. Also, some content is still planned to come into beta this month :).
+
+[h1]Daily Mods[/h1]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/58cb9262dc08b6d99c349ccf4797ebd8d0f14b00.png[/img]
+This week brings 3 new daily mods! Combined with last week's mods, we think this brings in quite a lot more variety into Daily Climbs and more options for Custom Mode.
+
+[h1]Wording Improvements[/h1]
+So this will be a bit of a long one. We received a huge list of suggestions and feedback pointing out inconsistencies and potential improvements to wording. While it would be hilarious to list them all out, listing out the general rules and  style changes would probably be best for all of us. So here it goes:
+[list]
+[*]Cards, Powers, and Relics that have a recurring effect or applies a recurring buff have been changed from "At the start of your turn" -> "At the start of each turn" for clarification.
+[*]The term "attack damage" is now lowercase, this differentiates it better from Attacks, which refers to the card.
+[*]Attack and Skill cards are referred to as Attacks and Skills in descriptions. However, when referring to a specific card, cards of a specific color, cards of a specific rarity, or specific types that aren't Attacks or Skills, they now have the word "card" appended to the end. e.g. Power cards, Status cards, Colorless cards, Uncommon cards.
+[*]Keywords are now always gold in descriptions. Block, Vulnerable, etc.
+[*]Boss and Elite are now capitalized in any descriptions
+[*]Card, Cards, Relic, Relics, Buffs, and Debuffs are now lowercase and not colored in descriptions.
+[*]If a relic that has counters is used up, it now has a consistent message across all relics, "This relic is used up."
+[*]Certain keywords on cards are now ordered so they're easier to identify. This order is: Unplayable > Innate > Ethereal > Card Description > Exhaust.
+[*]The word "all" is all-caps in certain scenarios. These scenarios are: When it refers to all enemies and when referring to cards that are outside of your hand (Apotheosis).
+[*]Updated instances of "take damage" vs "receive damage" based on who the target is, how the description is formed (condition vs effect), and a few special cases. e.g. "Whenever you receive damage, do X." is now common for player Powers and Relics.
+[*]Draw Pile, Exhaust Pile, Deck, and Discard Pile are now lowercase in descriptions.
+[*]Numbers and percentages should always be blue when seen in power and relic descriptions. However, numerical multipliers like twice and double should not be.
+[/list]
+
+While we understand that the language on these items won't ever be perfect, we hope this improves clarity and readability so the game is easier to play. As always, we welcome feedback and discussion!
+
+[h1]Community Fan Art[/h1]
+Inktober brought us some Poisonous fanart.
+Don't forget to tweet us [url=https://twitter.com/megacrit]@MegaCrit[/url] or ping us on [url=https://discord.gg/slaythespire]Discord[/url] if you want to be featured!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/b1f89a29e3437d722e67d4f162f7b16732429bab.jpg[/img]
+[i]Poisonous by [url=https://twitter.com/Augustanna]@Augustanna[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/7f020973ce49f8a3dcccdd68191587ea04187283.png[/img]
+[i]Poisonous by [url=https://www.reddit.com/user/Dragonclaude]/u/Dragonclaude[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/b04ead4a5906aa2a91b88aad7b5cba7d2eb83924.png[/img]
+[i]Flying Poison Daggers by [url=https://www.reddit.com/user/ScruffyHuski]/u/ScruffyHuski[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Content[/h1]
+[list]
+[*] New Custom Mod - Daily Mods. Allows starting a run with 3 random daily mods.
+[*] New Daily Mod - Colossus. Enemies have bonus HP but drop better rewards.
+[*] New Daily Mod - Controlled Chaos. Start with Frozen Eye. At the start of your turn, add 10 random cards to the bottom of your draw pile.
+[*] New Daily Mod - Deadly Events. ? Rooms can now contain Elites but Treasure room chance is increased.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]All sources of random temporary card generation in combat (like Dead Branch) can no longer generate cards that provide healing.
+[*]Augmenter event transform option now allows choosing 2 cards to Transform instead of selecting 3 at random.
+[*]Book of Stabbing enemy on Ascension 18+ now does a single stab sometimes, but still increases its multi-stab count.
+[*]Brimstone relic buffed. Now gives the player 2 Strength and enemies 1 Strength.
+[*]Meal Ticket relic buff: Heals 7 HP -> 10 HP.
+[*]Membership Card relic nerf: Only applies a discount now.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]250+ Consistency and wording improvements for cards, powers, relics, and events.
+[*]New tip added to indicate that healing cards cannot be generated randomly during combat.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Adding controller support for Wing Boots relic map navigation.
+[*]Bonfire Spirits event now correctly handles offering them a card with the Special rarity (like Bite, or Apparition).
+[*]Colorless Cards mod now correctly interacts with shops. Prevents Courier causing cards to appear in incorrect places on the shop screen.
+[*]Corruption and other cost reducing cards no longer make X cost cards like Transmutation and Malaise display cost 0.
+[*]Diverse mod and Red/Green/Blue mods in custom mode now exclude each other when choosing them.
+[*]Effects that trigger on damage like Masterful Stab now interacts properly with damage prevention effects like Buffer.
+[*]Fix for crash caused when entering the DAILYMODS seed.
+[*]Fix for issues caused by using the Sealed Deck mod several times in a row.
+[*]Fixed an exploit that allowed playing the same card multiple times using controller or keyboard.
+[*]Gremlin Wheel event no longer causes you to get stuck if you have no cards to remove.
+[*]If you have nothing to offer the Bonfire Spirits, the game will no longer crash. The Spirits will just be sad.
+[*]Keyboard confirm button now works in card selection screens (like choosing what to discard).
+[*]Mushroom event now correctly shows card preview for Parasite curse.
+[*]Saving and Loading with Membership Card relic no longer generates a new map.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]'.' can now be localized (for Asian languages) and fixes issues where those languages used an english '.'.
+[*]Mutagenic Strength, Meal Ticket, and Abacus now support more flexible descriptions.
+[*]Updates for DEU, EPO, IND, ITA, JPN, SPA, ZHS, ZHT.
+[/list]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/a80adfd972d7e1dc349541ee4321bb8c0abcfda4.png[/img]

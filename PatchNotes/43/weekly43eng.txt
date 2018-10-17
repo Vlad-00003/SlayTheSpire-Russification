@@ -1,0 +1,66 @@
+Weekly Patch 43: Discovery
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/94c1f3c67b0aec775c3ce9bae39c2f35fe40314b.png[/img]
+Hello!
+
+We're introducing some new mods for the Daily Climb this week (and next week, too). There's also good progress going on  other content which we're on track to get into beta sometime in October.
+
+[h1]Daily Mods[/h1]
+We're cleaning, changing, and adding more for Daily Climbs! There's still a few missing assets for the new daily mods but they'll be in soon. The many mods added to the Daily Climb are also accessible via Custom Mode.
+
+[h1]Community Fan Art[/h1]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/158b000b22f96af7f04cdc0958c48a042569b5de.png[/img]
+[i]Everybody's Favorite Merchant by [url=https://www.instagram.com/inkywavves/]@inkywavves[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/925056fe5dd478f1fa8b6afb70d0dc79d318be47.png[/img]
+[i]The Ironclad by [url=https://twitter.com/Kairekirei]@Kairekirei[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/7e8e2fd2cee7f8e9b0201bb9eeed654dc593752a.png[/img]
+[i]The Ironclad, The Silent and The Defect by [url=https://twitter.com/Victor_Sama/]@Victor_Sama[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Content[/h1]
+[list]
+[*]New Daily & Custom Mod - Careless.
+[*]New Daily & Custom Mod - Chimera.
+[*]New Daily & Custom Mod - Flight.
+[*]New Daily & Custom Mod - Sealed Deck.
+[*]Colorless/Red/Green/Blue Cards Mod are now Daily Mods.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]A Daily Climb now always consists of a card-related mod, system changing mod, and a difficulty altering mod.
+[*]Prismatic Shard now gives 1 empty orb slot to non-Defect characters.
+[*]Prismatic Shard relic no longer spawns when the Diverse daily is activated.
+[*]Removed Brewmaster mod.
+[*]Specialized daily mod now allow cards of any rarity.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Adding icon for Chimera Daily Mod.
+[*]Bottled relic images in deck view screen now scale with the card scaling.
+[*]Large relic assets are no longer pre-loaded, slightly increasing load times.
+[*]Reducing the volume of the card draw SFX from 70% -> 25%.
+[*]Removing card hover SFX from the game.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Can no longer skip cards when choosing a card via Discovery.
+[*]Fixed issue where bottled relic UI caused a memory leak on the deck view screen.
+[*]Fixed issue where items restocked via Courier weren't applied discounts.
+[*]Fixed issue where loading a save after beating a boss you have never seen before would crash.
+[*]In Custom Mode, fixed issue where Ascension was on if not set to level 0. (Even if toggled off)
+[*]Mind Bloom event now correctly shows curse previews for its event options.
+[*]Viewing a relic popup no longer has memory leaks.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DEU, EPO, FRA, IND, ITA, KOR, RUS, ZHS, and ZHT.
+[/list]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/04200d67e4726f056fe87cedea620aa45cd72d51.png[/img]

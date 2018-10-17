@@ -1,0 +1,99 @@
+Weekly Patch 40: Forethought
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/42ac0dc7adf649103c5e7b6f951699346b3f823a.png[/img]
+It's time for another patch!
+
+While we're still working on our final bit of content for Early Access, some new SFX have been incorporated and there are various fixes and balance changes!
+
+[h1]New Sound Effects[/h1]
+Several events now have additional ambient sounds which play upon entering. There are also several new sounds for various enemies, cards, and some Powers now have unique sound effects.
+
+[h1]Translations![/h1]
+Slay the Spire has an active community of translators! There's a LOT of flavor text, technical descriptions, and creative dialog in Slay the Spire. Currently, 11 languages are fully up-to-date! If you don't play the game in English, be sure to thank them at our [url=http://discord.gg/slaythespire]Discord server![/url]
+
+[h1]Community Fanart[/h1]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/b0eaaa87568372971c81bb876be7a749ad0bc95c.png[/img]
+[i]Boss Emblems of the Ironclad, Silent, and Defect by [url=https://twitter.com/RedDyeNo5]@RedDyeNo5[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/cdafdf3b5b111297b3a9ebb53671693044168605.png[/img]
+[i]"Good dog." by [url=https://www.reddit.com/user/Zixzs]/u/Zixzs[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/4e43c80b061b216960006e49c04807c8a66ce41b.jpg[/img]
+[i]The Silent by [url=https://twitter.com/samcaron55]@samcaron55[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Balance[/h1]
+[list]
+[*]Accursed Blacksmith event changes: [Forge] 25% -> 0%. [Rummage] 75% -> 100%.
+[*]Ascension 17 Bear's Dex debuff nerfed 5 -> 4.
+[*]Ascension 17 Repulsors no longer put 3 dazes into your draw pile.
+[*]Ascension 18 Book of Stabbing enemy now has modified AI. Now stabs you relentlessly.
+[*]Ascension 19 Awakened One's Curiousity Power nerfed 3 -> 2.
+[*]Ascension 19 Champ Strength buff nerfed 5 -> 4.
+[*]Ascension 19 Hexaghost gets less of a buff (no longer also increased Inferno damage).
+[*]Darkness+ card reworked. Now triggers the passive ability of your Dark Orbs.
+[*]Membership Card relic's discount buffed.
+[*]Reptomancer enemy is now only in the strong enemy pool instead of being in the weak and strong pools for ACT 3.
+[*]Winding Hall Event gets a new option and some text improvements. [Retrace Your Steps] Lose HP.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Augmenter event no longer incorrectly upgrades transformed cards.
+[*]Augmenter event will no longer give out duplicate relics on Endless mode.
+[*]Bonfire event will no longer give out duplicate relics on Endless mode.
+[*]Card copy effects like Dual Wield should now also copy the "free to play once" effect from cards like Setup and Forethought.
+[*]Circlets obtained from bosses in endless mode now have consistent behavior.
+[*]Clicking on embark on DailyScreen no longer crashes the game before connecting to the daily screen.
+[*]Cursed Key was not pulsing and flashing to indicate it was active when treasure was found in ? rooms.
+[*]Darklings defensive move had the incorrect intent on Ascension 17+.
+[*]Dream Catcher relic no longer opens a rewards screen if there will be no cards.
+[*]Face Trader event will no longer give out duplicate relics on Endless mode.
+[*]Fixed bug in Darklings that makes them unable to combine with other monsters. (For modders)
+[*]Fixed bug where renaming save slots wasn't working properly.
+[*]Fixed issue if there was only one card in hand card select screen (Retain), you couldn't pick it using controller.
+[*]Gremlin Match and Keep event now has cards upgraded correctly.
+[*]Lock-On Power no longer incorrectly has the focused targeting effect.
+[*]Removed two outdated tips about potions.
+[*]Reptomancer combat will now start to correctly show up as Reptomancer instead of Flame Bruiser in the run history screen for new runs.
+[*]Shifting Power (Transient) should now interact correctly, even if the owner has Artifact.
+[*]Some minor fixes for Spheric Guardian audio. Removed some code for unused sounds.
+[*]Spawned Daggers from Reptomancer will now correctly work with Philosopher's Stone, and mods like Lethality.
+[*]Typo Fix on Pleading Vagrant event.
+[/list]
+
+[h1]Sounds[/h1]
+[list]
+[*]Acid Slime (Large) and Slime Boss get additional slime attack SFX.
+[*]Added SFX when the Guardian says Destroy Destroy Destroy.
+[*]Adding event-specific ambiance SFX for 8 events.
+[*]Adding SFX for Piercing Wail card.
+[*]Adding SFX for Sweeping Beam card.
+[*]Adding SFX for Time Warp, Flight, Constricted, and Entangle Powers.
+[*]Bite SFX now plays a different SFX.
+[*]Certain buffs/debuffs now play unique SFX when applied.
+[*]Events: Falling, Secret Portal, Knowing Skull, Golden Idol, and Scrap Ooze receive ambient BGM.
+[*]Flame Barrier card gets a new SFX.
+[*]Jaw Worm now has an SFX when using a buff.
+[*]When accepting to become a vampire, a SFX now plays.
+[*]Whirlwind card gets an additional SFX.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]You can now play Daily Runs offline. (used to crash)
+[*]Art added for Mutagenic Strength relic.
+[*]Blue Candle and Medical Kit wording changed to better reflect how they work with cards like Slimed.
+[*]Card names in Run History are now Green for upgraded cards
+[*]Defect's Strikes now use the impact VFX and SFX instead of Slicing effects.
+[*]Reboot card wording update.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Adding credits for EPO.
+[*]Updating credits for SPA.
+[*]Updates for DEU, EPO, FRA, IND, ITA, JPN, KOR, RUS, SPA, ZHS, ZHT.
+[/list]

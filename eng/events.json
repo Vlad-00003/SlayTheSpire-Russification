@@ -6,33 +6,33 @@
       "You decide to put the forge to use and... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...improve your arsenal!",
       "You decide to see if you can find anything of use. After uncovering tarps, looking through boxes, and checking nooks and crannies, you find a dust covered #y~relic!~ ",
       "As you go through the finishing touches, the flames of the forge jump out at you, #r@burning@ #r@and@ #r@scarring@ your arms..",
-      "You can't shake this #r~ugly~ #r~feeling~ as you exit the hut. Maybe you disturbed some sort of spirit?",
+      "NL NL Taking the relic, you can't shake a sudden feeling of #r~sharp~ #r~pain~ as you exit the hut. Maybe you disturbed some sort of spirit?",
       "There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
     ],
     "OPTIONS": [
-      "[Forge] #gUpgrade #ga #gcard. #r25%: #rBecome #rCursed #r- #rInjury.",
-      "[Rummage] #gObtain #ga #gRelic. #r75%: #rBecome #rCursed #r- #rNormality.",
+      "[Forge] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
+      "[Rummage] #gObtain #ga #gspecial #gRelic. #rBecome #rCursed #r- #rPain.",
       "[Leave]",
       "Choose a Card to Upgrade",
       "[Locked] Requires: Upgradeable Cards"
     ]
   },
   "Addict": {
-    "NAME": "Addicted",
+    "NAME": "Pleading Vagrant",
     "DESCRIPTIONS": [
-      "As you attempt to sneak past a group of shrouded figures, a naked, red-skinned man approaches you. NL \"Got any #yJ.A.X., friend? I got the @shakes@ bad! Please... maybe some #yCoin?\" NL He seems delusional, but harmless.",
+      "While sneaking past a group of shrouded figures, one of them approaches you. NL \"Got anything for me friend? Please... maybe some #yCoin?\" NL \"I just need somewhere to stay, I have treasures I can trade...\" NL He seems delusional, but harmless.",
       "\"Oh yes, ~yes!~ Here here, a fair trade!\"",
-      "The addict throws a loud tantrum, screaming and cursing at you. NL You escape before drawing unwanted attention."
+      "You snatch the precious #yrelic from his clutches and walk away. NL From behind you hear, NL \"Have you no shame? ~HAVE~ ~YOU~ ~NO~ ~SHAAAAAME?!\"~ NL You have some #pshame."
     ],
     "OPTIONS": [
       "[Offer Gold] #y",
-      " #yGold: #gReceive #ga #gRelic.",
+      " #yGold: #gObtain #ga #gRelic.",
       "[Locked] Requires: ",
       " Gold.",
-      "[Give JAX] #gReceive #ga #gRelic. #rLose J.A.X.",
-      "[Locked] Requires: J.A.X.",
-      "[Leave] Ignore the addict.",
-      "[Leave]"
+      "[Rob] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rShame.",
+      "[Leave]",
+      "",
+      ""
     ]
   },
   "Back to Basics": {
@@ -82,7 +82,7 @@
       " #gHP.",
       "[Donut] #gMax #gHP #g+",
       ".",
-      "[Box] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+      "[Box] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
       "[Leave]"
     ]
   },
@@ -103,6 +103,22 @@
       "[Leave]",
       "[Offer] Receive a reward based on the offer.",
       "Select a Card to Offer."
+    ]
+  },
+  "Colosseum": {
+    "NAME": "The Colosseum",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
+      "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
+      " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
+      "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
+      "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Fight]",
+      "[COWARDICE] Escape.",
+      "[VICTORY] A powerful fight with many rewards."
     ]
   },
   "Cursed Tome": {
@@ -140,7 +156,7 @@
       "NL Though his #ypossessions #yare #ystill #yintact, you're in no mind to find out what happened here...",
       "You found some #ygold! NL Continue searching?",
       "Hmm, couldn't find anything... NL Continue searching?",
-      "You found a #yrelic! Continue searching?",
+      "You found a #yrelic! NL Continue searching?",
       "Looks like you searched all his belongings without a hitch!"
     ],
     "OPTIONS": [
@@ -151,20 +167,50 @@
       "%: #rmonster #rreturns."
     ]
   },
-  "Drug Dealer": {
-    "NAME": "J.A.X. Dealer",
+  "Designer": {
+    "NAME": "Designer In-Spire",
     "DESCRIPTIONS": [
-      "A man with an eyepatch and a devilish grin casually strides up to you. NL \"Hey there stranger. Interested in some #yJ.A.X.? It'll make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish. NL Whad'ya say? Wanna get #yJAXXED?\" NL ",
-      "~\"Excellent.\"~ NL The man hands over a dangerous looking syringe filled with glowing liquid before skulking off into a shadowy alleyway.",
-      "\"No matter, there's always the next one...\" NL The man saunters away."
+      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
+      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
+      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
+      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
     ],
     "OPTIONS": [
-      "[Pay] #y",
-      " #yGold: #gGet #gJAXXED.",
-      "[Locked] Requires: ",
-      " Gold.",
+      "[Continue]",
+      "[Adjustments] #rLose #r",
+      "[Clean Up] #rLose #r",
+      "[Full Service] #rLose #r",
+      "[Punch] #rLose #r",
+      " #rHP.",
+      " #rGold. ",
+      "#gUpgrade #g",
+      " #grandom #gcards.",
+      "#gUpgrade #ga #gcard.",
+      "#gRemove #ga #gcard.",
+      "#gTransform #g",
+      " #gcards.",
+      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
       "[Leave]",
-      "[Decline]"
+      "Choose a Card to Upgrade",
+      "Choose 2 Cards to Transform",
+      "Choose a Card to Remove"
+    ]
+  },
+  "Drug Dealer": {
+    "NAME": "Augmenter",
+    "DESCRIPTIONS": [
+      " A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish. NL ~Whad'ya~ ~say?~\"",
+      "~\"Excellent.\"~ NL The man hands over a dangerous looking syringe filled with a #b~glowing~ #b~liquid~ before skulking off into a shadowy alleyway.",
+      "~\"Superb.\"~ NL The man injects you with three unknown substances and pulls out a notepad. As you begin to feel light-headed, he starts to franticaly write down notes. NL Losing track of time completely, by the time you regain your senses, the shady character has disappeared.",
+      "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
+    ],
+    "OPTIONS": [
+      "[Test J.A.X.] #gGet #gJAXXED.",
+      "[Become Test Subject] #gTransform #g2 #gcards.",
+      "[Ingest Mutagens] #gObtain #ga #gspecial #grelic.",
+      "[Leave]",
+      "[Locked] Requires: 2 or more cards in deck.",
+      "Select Cards to Transform."
     ]
   },
   "Duplicator": {
@@ -229,7 +275,7 @@
       "You lash out and smash the statue in front of you, breaking the magical hold the room had placed upon you. NL A dark wail echoes all around you, and you can feel the #p~cursed~ #p~magic~ seep into your bones."
     ],
     "OPTIONS": [
-      "[Offer: Golden Idol] #gReceive #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
+      "[Offer: Golden Idol] #gObtain #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
       "[Locked] Requires: Golden Idol.",
       "[Sacrifice] #gGain #g",
       " #gMax #gHP. #rLose #r",
@@ -260,7 +306,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gObtain #g5 Apparition. #rLose #r",
+      "[Accept] #gReceive #g5 Apparition. #rLose #r",
       "% #rMax #rHP.",
       "[Refuse]",
       "",
@@ -279,7 +325,7 @@
       "If there was ever an obvious trap, this would be it. NL You decide not to interfere with objects placed upon pedestals."
     ],
     "OPTIONS": [
-      "[Take] #gReceive #gGolden #gIdol. #rTrigger #ra #rtrap.",
+      "[Take] #gObtain #gGolden #gIdol. #rTrigger #ra #rtrap.",
       "[Leave]",
       "[Outrun] #rBecome #rCursed #r- #rInjury.",
       "[Smash] #rTake #r",
@@ -299,7 +345,7 @@
     "OPTIONS": [
       "[Pray] #gGain #g",
       " #gGold.",
-      "[Desecrate] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
+      "[Desecrate] #gGain #g275 #gGold. #rBecome #rCursed #r- #rRegret.",
       "[Leave]"
     ]
   },
@@ -366,7 +412,7 @@
       "The serpent rears its head and blasts a stream of #ygold upwards! NL It is amazing and terrifying simultaneously. NL You gather all the #ygold, thank the snake, and get going."
     ],
     "OPTIONS": [
-      "[Agree] #gReceive #g",
+      "[Agree] #gGain #g",
       " #gGold. #rBecome #rCursed #r- #rDoubt.",
       "[Disagree]",
       "[Continue]",
@@ -380,7 +426,7 @@
       "Satisfied, the walls in front of you merge back into the ceiling, leaving a path forward."
     ],
     "OPTIONS": [
-      "[Forget] #gRemove #ga #gcard #gin #gyour #gdeck.",
+      "[Forget] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
       "[Change] #gTransform #ga #gcard #gin #gyour #gdeck.",
       "[Grow] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
       "Select a Card to Remove.",
@@ -428,7 +474,7 @@
       "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
     ],
     "OPTIONS": [
-      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.",
+      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gObtain #ga #gRare #gRelic.",
       "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
       "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
       "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
@@ -472,7 +518,7 @@
     ],
     "OPTIONS": [
       "[Offer: ",
-      "] #rLose #rthis #rrelic. #gGain #ga #gnew #gspecial #grelic.",
+      "] #rLose #rthis #rrelic. #gObtain #ga #gspecial #grelic.",
       "[Leave]"
     ]
   },
@@ -680,7 +726,7 @@
       "You continue along your way, leaving the forgotten dead undisturbed."
     ],
     "OPTIONS": [
-      "[Open Coffin] #gReceive #ga #gRelic. #r",
+      "[Open Coffin] #gObtain #ga #gRelic. #r",
       "%: #rBecome #rCursed #r- #rWrithe.",
       "[Leave]"
     ]
@@ -696,7 +742,7 @@
     "OPTIONS": [
       "[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r",
       " #rMax #rHP.",
-      "[Offer: Golden Idol] #gReceive #g333 #gGold. #rLose #rGolden #rIdol.",
+      "[Offer: Golden Idol] #gGain #g333 #gGold. #rLose #rGolden #rIdol.",
       "[Locked] Requires: Golden Idol.",
       "[Leave]"
     ]
@@ -743,7 +789,7 @@
       "[Don the Red Mask] #gGain #g222 #gGold.",
       "[Locked] Requires: Red Mask.",
       "[Offer: ",
-      " Gold] #rLose #rall #rGold. #gGain #ga #gRelic.",
+      " Gold] #rLose #rall #rGold. #gObtain #ga #gRelic.",
       "[Leave]"
     ]
   },
@@ -785,11 +831,11 @@
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
-      "[Accept] #gRemove #gall Strikes. #gObtain #g5 Bites. #rLose #r",
+      "[Accept] #gRemove #gall Strikes. #gReceive #g5 Bites. #rLose #r",
       "% #rMax #rHP.",
       "[Refuse]",
       "[Lose ",
-      "] #gRemove #gall Strikes. #gObtain #g5 Bites.",
+      "] #gRemove #gall Strikes. #gReceive #g5 Bites.",
       "[Leave]"
     ]
   },
@@ -810,7 +856,7 @@
       "[Locked] Requires: At least 50 Gold.",
       "[Give Card] #rLose ",
       "[Locked] Requires: Card.",
-      ". #gReceive #ga #gRelic.",
+      ". #gObtain #ga #gRelic.",
       "[Attack]",
       "[Leave]",
       " #rGold"
@@ -831,7 +877,7 @@
     "OPTIONS": [
       "[Play]",
       "[Prize!] YAY!!!!",
-      "[Prize!] #gGain #ga #gRelic.",
+      "[Prize!] #gObtain #ga #gRelic.",
       "[Prize!] #gHeal #gto #gfull #ghealth.",
       "[Prize?] #rCurse #r- #rDecay.",
       "[Prize!] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
@@ -844,10 +890,11 @@
   "Winding Halls": {
     "NAME": "Winding Halls",
     "DESCRIPTIONS": [
-      "As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. The constant whispering voices in the back of your head aren't helping things either.",
-      "Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. That's what the voices say anyway, and why would they lie?",
-      "Something in you cracks. Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a \"new\" perspective. Things do seem to make so much more sense now.",
-      "As you take a moment to stop and carefully observe the undulating landscape around you, the hint of a pattern starts to emerge from within the randomness. Whenever the demented noises begin to interrupt your thoughts, you struggle through the mental pain and ignore it. NL NL Eventually you successfully map out a path forward, and continue on, now resistant to the nefarious nature of this alien place."
+      "As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. NL NL The constant #p~whispering~ #p~voices~ in the back of your head aren't helping things either.",
+      "Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. NL NL That's what the #p~voices~ say anyway, and why would they lie?",
+      "Something in you cracks. NL NL Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a #p~\"new\"~ perspective. NL Things do seem to make so much more sense now.",
+      "As you take a moment to stop and carefully observe the undulating landscape around you, the hint of a pattern starts to emerge from within the randomness. Whenever the demented noises begin to interrupt your thoughts, you struggle through the mental pain and ignore it. NL NL Eventually you successfully map out a path forward, and continue on, now resistant to the nefarious nature of this alien place.",
+      "You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
     ],
     "OPTIONS": [
       "...",
@@ -855,7 +902,9 @@
       " #rHP.",
       "[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
       "[Leave]",
-      " #gHP."
+      " #gHP.",
+      "[Retrace Your Steps] #rLose #r",
+      " #rMax #rHP."
     ]
   },
   "World of Goop": {

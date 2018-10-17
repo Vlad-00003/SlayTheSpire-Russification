@@ -16,16 +16,36 @@
     "DESCRIPTION": "Blue cards now appear in rewards and shops."
   },
   "Brewmaster": {
-    "NAME": "Brewmaster",
+    "NAME": "[DEPRECATED] Brewmaster",
     "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
+  },
+  "Careless": {
+    "NAME": "Careless",
+    "DESCRIPTION": "At the start of every turn, discard the top card of your draw pile."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Your starting deck is a fusion of 3 characters."
   },
   "Colorless Cards": {
     "NAME": "Colorless Cards",
-    "DESCRIPTION": "Colorless cards appear more often."
+    "DESCRIPTION": "Colorless cards now appear in rewards."
+  },
+  "ControlledChaos": {
+    "NAME": "Controlled Chaos",
+    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
   },
   "Cursed Run": {
     "NAME": "Cursed Run",
     "DESCRIPTION": "Whenever you defeat a Boss, become Cursed. Your starting relic is replaced with Cursed Key, Darkstone Periapt, and Du-Vu Doll."
+  },
+  "Daily Mods": {
+    "NAME": "Daily Mods",
+    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
+  },
+  "DeadlyEvents": {
+    "NAME": "Deadly Events",
+    "DESCRIPTION": "? rooms can now contain Elites but are also more likely to contain Treasure rooms."
   },
   "Diverse": {
     "NAME": "Diverse",
@@ -42,6 +62,10 @@
   "Endless": {
     "NAME": "Endless",
     "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+  },
+  "Flight": {
+    "NAME": "Flight",
+    "DESCRIPTION": "You may ignore paths when choosing the next room to travel to."
   },
   "Green Cards": {
     "NAME": "Green Cards",
@@ -63,17 +87,29 @@
     "NAME": "Insanity",
     "DESCRIPTION": "Start with a random deck of 50 cards."
   },
+  "IntelligentEnemies": {
+    "NAME": "Intelligent Enemies",
+    "DESCRIPTION": "All enemies have more challenging movesets and abilities."
+  },
   "Lethality": {
     "NAME": "Lethality",
     "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+    "DESCRIPTION": "Enemies drop 200% more gold, but you can no longer Smith at Rest Sites."
+  },
+  "MonsterHunter": {
+    "NAME": "Colossus ",
+    "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
   },
   "My True Form": {
     "NAME": "My True Form",
     "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+  },
+  "NeowTime": {
+    "NAME": "Neow Time",
+    "DESCRIPTION": "Receive 3 blessings and 1 blight from Neow."
   },
   "Night Terrors": {
     "NAME": "Night Terrors",
@@ -91,13 +127,17 @@
     "NAME": "Red Cards",
     "DESCRIPTION": "Red cards now appear in rewards and shops."
   },
+  "SealedDeck": {
+    "NAME": "Sealed Deck",
+    "DESCRIPTION": "Craft a deck from 30 random cards."
+  },
   "Shiny": {
     "NAME": "Shiny",
     "DESCRIPTION": "Starting deck is replaced with 1 of every rare card."
   },
   "Specialized": {
     "NAME": "Specialized",
-    "DESCRIPTION": "Start with 5 copies of a single rare card."
+    "DESCRIPTION": "Start with 5 copies of a single card."
   },
   "Starter Deck": {
     "NAME": "Starter Deck",

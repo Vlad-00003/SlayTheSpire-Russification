@@ -41,6 +41,12 @@
       "Магнус Упманн (Magnus Upmann)"
     ]
   },
+  "LOC_EPO": {
+    "HEADER": "перевод на эсперанто",
+    "NAMES": [
+      "Винсент «Babelismoj» Оостелбос (Vincent «Babelismoj» Oostelbos)"
+    ]
+  },
   "LOC_FRA": {
     "HEADER": "Перевод на французский",
     "NAMES": [
@@ -115,6 +121,7 @@
       "Оскар «volf3n» Новак (Oskar «volf3n» Nowak)",
       "Дополнительный перевод:",
       "Адриан «xeros» Ролка (Adrian «xeros» Rolka)",
+      "Марек «Skorpionex» Мазур (Marek «Skorpionex» Mazur)",
       "Корректировка:",
       "Оскар «volf3n» Новак (Oskar «volf3n» Nowak)",
       "Предложения и отзывы:",
@@ -163,13 +170,17 @@
       "Педро-Луис «PerikiyoXD» Валадес Виера (Pedro Luis «PerikiyoXD» Valadés Viera)",
       "Перевод:",
       "Ксавьер «xabad98» Абад Салинас (Xavier «xabad98» Abad Salinas)",
-      "Skiddome"
+      "Skiddome",
+      "Джуанджо «ajuanjojjj» Мартинез (Juanjo «ajuanjojjj» Martinez)",
+      "Педро Дж. «PJJLegend» Хименес (Pedro J. «PJJLegend» Jiménez)",
+      "Художественный текст и вычитка:",
+      "Хоакин «Pip1n» Лопез (Joaquín «Pip1n» López)"
     ]
   },
   "LOC_SRB": {
     "HEADER": "Перевод на сербский",
     "NAMES": [
-      "Никола «hauzer» Вукославлевич (Nikola «hauzer» Vukosavljević)"
+      "Никола «hauzer» Вукосавьевич (Nikola «hauzer» Vukosavljević)"
     ]
   },
   "LOC_TUR": {
@@ -181,8 +192,11 @@
   "LOC_UKR": {
     "HEADER": "Перевод на украинский",
     "NAMES": [
+      "Перевод и координация:",
       "Владислав «DarkXylese» Каштелянов (Vladyslav «DarkXylese» Kashtelyanov)",
-      "Василь «RDSk» Майкалиак (Vasyl «RDSk» Mykhaliuk)"
+      "Правки и перевод:",
+      "Василь «RDSk» Михалюк (Vasyl «RDSk» Mykhaliuk)",
+      "Артём «Crazytosik» Земляни (Artem «Crazytosik» Zemlianyi)"
     ]
   },
   "LOC_ZHS": {

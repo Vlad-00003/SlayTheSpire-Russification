@@ -1,0 +1,59 @@
+Weekly Patch 45: Impatience
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/c7d1c6caf29d245810218628943dfb469eece121.png[/img]
+Hey again,
+
+This week's focus was on refining upcoming content, prepping for mod support, various bug fixes, and a new option to disable particle effects for low performance machines.
+
+[h1]Disable Particle Effects[/h1]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/f2f96d2d675a4ae50e584f21ea3eec838e0843e3.png[/img]
+
+We added a new option that removes particle effects from backgrounds and various effects.
+This should improve performance for slower devices and decrease battery consumption for laptops.
+
+[h1]Final Call for Translations[/h1]
+When we leave Early Access, outdated translations will need to be removed. If there are any outdated languages that you want to see in the game, support and instructions for translation is always available at our [url=https://discord.gg/slayhtespire]Discord channel[/url].
+
+[h1]Community Fanart[/h1]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/baec8379dd50a9fca022a221d6460f1c87f39285.png[/img]
+[i]The Merchant by [url=https://www.instagram.com/inkywavves/]inkywavves[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/de7db6303689a2ed23056f3d34cf8fe34fef17ad.png[/img]
+[i]The Silent by [url=https://www.reddit.com/user/cubey1234]/u/cubey1234[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/082a075ba7d3a72b8da959fd70a2baf9736e0a97.png[/img]
+[i]The Silent Fire by [url=https://twitter.com/Densetsu_VII]Nick D.[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Midas mod wording made to be more consistent with Fusion Hammer relic.
+[*]Particle effects can now be disabled in the Settings. (disables environmental effects)
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]All Out Attack card's discards now utilize seeds.
+[*]Confusion power will now work on Curses and Status cards that have costs.
+[*]Defect's starting relic is marked as seen.
+[*]Diverse mod and Colorless Cards mod now can correctly work together in Custom Mode and Dailies.
+[*]Draw Pile no longer indicates that it is a shuffled view order when viewing it with Frozen Eye.
+[*]Fix a bug where setting a card's cost to 0 wouldn't work on 0 cost cards.
+[*]Fix for colorless cards appearing too frequently for Colorless Cards mod.
+[*]Fixed exploit that allowed player to circumvent hand card confirmations (like Survivor).
+[*]Fixed issue that made enemies more common in ? rooms since some new mods were introduced.
+[*]Fixed Run History screen crash if the run contained 0 relics.
+[*]Fixes for how Eviscerate incorrectly worked with cost reduction effects like Enlightenment.
+[*]Flight's power description now correctly resets at the start of turn.
+[*]Neow max HP gain and take damage option no longer overlap (dealt lots of damage).
+[*]Neow's transform options now utilize seeds.
+[*]Some events like Pleading Vagrant did not correctly remove remaining event choices when selecting the leave option.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Improvements for rendering energy orbs and icons for JPN, ZHS, and ZHT (notable Run History)
+[*]Updates for DEU, EPO, FRA, ITA, KOR, RUS, SPA, UKR, ZHS, ZHT.
+[/list]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/2ca051c70d3d68676b6032241cd893164eacd522.png[/img]

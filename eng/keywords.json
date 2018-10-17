@@ -74,7 +74,8 @@
     "EXHAUST": {
       "NAMES": [
         "exhaust",
-        "exhausted"
+        "exhausted",
+        "exhausts"
       ],
       "DESCRIPTION": "Removed until end of combat."
     },
@@ -121,6 +122,12 @@
         "locked"
       ],
       "DESCRIPTION": "This card has yet to be unlocked."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "lock-on"
+      ],
+      "DESCRIPTION": "Lock-On targets receive #b50% more damage from Orbs."
     },
     "OPENER": {
       "NAMES": [
