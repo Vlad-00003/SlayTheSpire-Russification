@@ -130,6 +130,12 @@
       " damage to ALL enemies."
     ]
   },
+  "Compulsive": {
+    "NAME": "Compulsive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its Intent."
+    ]
+  },
   "Confusion": {
     "NAME": "Confusion",
     "DESCRIPTIONS": [
