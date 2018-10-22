@@ -131,9 +131,9 @@
     ]
   },
   "Compulsive": {
-    "NAME": "Compulsive",
+    "NAME": "Reactive",
     "DESCRIPTIONS": [
-      "Upon receiving attack damage, changes its Intent."
+      "Upon receiving attack damage, changes its intent."
     ]
   },
   "Confusion": {
