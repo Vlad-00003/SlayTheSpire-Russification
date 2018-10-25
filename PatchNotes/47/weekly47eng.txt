@@ -54,7 +54,6 @@ We're incorporating more visual effects!
 [h1]Bug Fixes[/h1]
 [list]
 [*]Adding more information to bottled card saves to prevent incorrect card being bottled when loading a save.
-[*]Defect and The Silent unlocks now reuse existing character instances.
 [*]Fix for a scenario which upgrading cards affected by Snecko Eye would sometimes give negative cost cards.
 [*]Fixed a memory leak whenever player returned to the main menu.
 [*]Fixed bug where playing Mayhem card would alter your card rewards.
@@ -63,7 +62,7 @@ We're incorporating more visual effects!
 [*]Fixed issue where seeded runs allowed ascension unlocks and uploading to leaderboards.
 [*]Fixed issue where The Specimen's Poison transfer failed if the target died before the transfer.
 [*]Fixed issue where True Grit card was not behaving correctly with seeded runs.
-[*]Fixing issues with Writhing Mass displaying the incorrect intent on turn 1.
+[*]Fixed issue with Writhing Mass displaying an incorrect intent on turn 1.
 [*]Game now handles monitor resolution changes more gracefully.
 [*]Mind Bloom event combat now correctly gives appropriate gold for the battle.
 [*]Poison transfer target for The Specimen is now seeded random. 
