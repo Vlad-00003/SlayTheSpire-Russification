@@ -648,12 +648,17 @@
       " NL The heart pulses louder and louder as your #y~consciousness~ #y~fades...~",
       "NL You ready your blade...",
       "NL You prepare your daggers...",
-      "NL You charge your core to its maximum..."
+      "NL You charge your core to its maximum...",
+      "You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~",
+      " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
+      " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
+      " NL The heart #gretreats upwards! A large door is revealed in its place."
     ],
     "OPTIONS": [
       "[Continue]",
       "[Attack] #b???",
-      "[Sleep]"
+      "[Sleep]",
+      "[Approach Door]"
     ]
   },
   "The Cleric": {

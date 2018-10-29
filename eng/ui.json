@@ -503,8 +503,8 @@
       "The City",
       "Act 3",
       "The Beyond",
-      "Act ?",
-      "???",
+      "Final Act",
+      "The Ending",
       "Click Anywhere to Continue"
     ]
   },
@@ -905,6 +905,12 @@
       "put on top of your draw pile"
     ]
   },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
+    ]
+  },
   "RecycleAction": {
     "TEXT": [
       "Exhaust"
@@ -1003,7 +1009,8 @@
       "Chosen and Cultist",
       "(Deprecated) Flame Bruiser",
       "(Deprecated) Slaver and Parasite",
-      "(Deprecated) Snecko and Mystics"
+      "(Deprecated) Snecko and Mystics",
+      "Shield and Spear"
     ]
   },
   "RunHistoryPathNodes": {
@@ -1151,7 +1158,8 @@
       "I'm #rEntangled! NL Can't play Attacks",
       "Not enough #rEnergy.",
       "Not enough #rCharge.",
-      "I can't play NL this card."
+      "I can't play NL this card.",
+      "Beta Art"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1196,6 +1204,11 @@
   "TheCity": {
     "TEXT": [
       "The City"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
     ]
   },
   "TipHelper": {
@@ -1258,6 +1271,23 @@
   "UnlockTextEffect": {
     "TEXT": [
       "New Unlock!"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
     ]
   }
 }

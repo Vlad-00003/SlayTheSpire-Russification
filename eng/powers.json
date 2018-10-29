@@ -53,11 +53,24 @@
       " turns, whenever you play an #yAttack, #yExhaust it."
     ]
   },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
+    ]
+  },
   "Barricade": {
     "NAME": "Barricade",
     "DESCRIPTIONS": [
       "#yBlock is not removed at the start of your turn.",
       "#yBlock is not removed at the start of its turn."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage."
     ]
   },
   "Berserk": {
@@ -502,6 +515,12 @@
       "Immune to damage. Whenever you gain #yBlock, loses that much HP."
     ]
   },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Caps ALL damage and HP loss taken to #b100."
+    ]
+  },
   "Juggernaut": {
     "NAME": "Juggernaut",
     "DESCRIPTIONS": [
@@ -886,6 +905,12 @@
       "Increases attack damage by #b",
       "Decrease attack damage by #b",
       "."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
     ]
   },
   "TheBomb": {

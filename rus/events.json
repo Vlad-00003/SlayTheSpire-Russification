@@ -648,12 +648,17 @@
       " NL Пульсация становится громче и громче, пока вы наконец не #y~теряете~ #y~сознание...~",
       "NL Вы заносите свой клинок...",
       "NL Вы готовите свои кинжалы...",
-      "NL Вы заряжаете своё ядро до предела..."
+      "NL Вы заряжаете своё ядро до предела...",
+      "You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~",
+      " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
+      " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
+      " NL The heart #gretreats upwards! A large door is revealed in its place."
     ],
     "OPTIONS": [
       "[Продолжить]",
       "[Атаковать] #b???",
-      "[Спать]"
+      "[Спать]",
+      "[Approach Door]"
     ]
   },
   "The Cleric": {

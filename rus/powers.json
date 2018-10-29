@@ -53,11 +53,24 @@
       " ходов."
     ]
   },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
+    ]
+  },
   "Barricade": {
     "NAME": "Баррикада",
     "DESCRIPTIONS": [
       "#yЗащита не исчезает в начале вашего хода.",
       "#yЗащита не исчезает в начале хода."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage."
     ]
   },
   "Berserk": {
@@ -502,6 +515,12 @@
       "Имеет иммунитет к урону. Теряет ОЗ, равное кол-ву получаемой вами #yЗащиты."
     ]
   },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Caps ALL damage and HP loss taken to #b100."
+    ]
+  },
   "Juggernaut": {
     "NAME": "Джаггернаут",
     "DESCRIPTIONS": [
@@ -886,6 +905,12 @@
       "Повышает урон от атак на #b",
       "Понижает урон от атак на #b",
       "."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
     ]
   },
   "TheBomb": {

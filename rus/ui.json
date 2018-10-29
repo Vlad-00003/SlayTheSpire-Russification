@@ -503,8 +503,8 @@
       "Город",
       "Акт 3",
       "Запределье",
-      "Уровень ?",
-      "???",
+      "Final Act",
+      "The Ending",
       "Нажмите в любом месте, чтобы продолжить"
     ]
   },
@@ -905,6 +905,12 @@
       "положить на верх стопки добора."
     ]
   },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
+    ]
+  },
   "RecycleAction": {
     "TEXT": [
       "сжечь."
@@ -1003,7 +1009,8 @@
       "Избранный и Культист",
       "(Устарело) Пылающий громила",
       "(Устарело) Работорговец и Паразит",
-      "(Устарело) Змекко и Жрицы"
+      "(Устарело) Змекко и Жрицы",
+      "Shield and Spear"
     ]
   },
   "RunHistoryPathNodes": {
@@ -1151,7 +1158,8 @@
       "Я в #rпутах! NL Не могу разыграть Атаку",
       "Недостаточно #rэнергии.",
       "Недостаточно #rЗаряда.",
-      "Я не могу разыграть NL эту карту"
+      "Я не могу разыграть NL эту карту",
+      "Beta Art"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1196,6 +1204,11 @@
   "TheCity": {
     "TEXT": [
       "Город"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
     ]
   },
   "TipHelper": {
@@ -1258,6 +1271,23 @@
   "UnlockTextEffect": {
     "TEXT": [
       "Награда!"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
     ]
   }
 }

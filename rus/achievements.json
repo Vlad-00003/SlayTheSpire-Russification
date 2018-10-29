@@ -41,7 +41,11 @@
       "Энергию переоценивают",
       "Сегодня мой день",
       "Преходящий",
-      "Возвышение 20"
+      "Возвышение 20",
+      "Ruby+",
+      "Emerald+",
+      "Sapphire+",
+      "The End?"
     ],
     "TEXT": [
       "Выиграть бой, оставшись с 1 ОЗ.",
@@ -84,7 +88,11 @@
       "Разыграть 10 карт с ценой 0 в одном ходу.",
       "Победить в Ежедневной вылазке.",
       "Победить Преходящего прежде, чем он исчезнет.",
-      "Пройти игру на 20-ом уровне Возвышения."
+      "Пройти игру на 20-ом уровне Возвышения.",
+      "Complete the Ending with the Ironclad.",
+      "Complete the Ending with the Silent.",
+      "Complete the Ending with the Defect.",
+      "Complete the Ending with the Ironclad, Silent, and Defect."
     ]
   },
   "CharStat": {
