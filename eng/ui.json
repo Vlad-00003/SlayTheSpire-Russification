@@ -977,7 +977,12 @@
       " Gold",
       "Add a card to your deck",
       "",
-      "Choose a Card"
+      "Choose a Card",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this will remove ",
+      "."
     ]
   },
   "RunHistoryMonsterNames": {

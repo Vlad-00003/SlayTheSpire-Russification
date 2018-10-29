@@ -977,7 +977,12 @@
       " золота",
       "Добавьте карту в колоду",
       "",
-      "Выберите карту"
+      "Выберите карту",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this will remove ",
+      "."
     ]
   },
   "RunHistoryMonsterNames": {
