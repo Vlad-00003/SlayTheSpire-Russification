@@ -54,9 +54,9 @@
     ]
   },
   "BackAttack": {
-    "NAME": "Back Attack",
+    "NAME": "Удар в спину",
     "DESCRIPTIONS": [
-      "Deals #b50% more damage as it is attacking you from behind."
+      "Наносит на #b50% больше урона, если он атакует сзади."
     ]
   },
   "Barricade": {
@@ -67,10 +67,10 @@
     ]
   },
   "BeatOfDeath": {
-    "NAME": "Beat Of Death",
+    "NAME": "Смертный бой",
     "DESCRIPTIONS": [
-      "Whenever you play a card, take #b",
-      " damage."
+      "Вы получаете #b",
+      " урона, при розыгрыше любой карты"
     ]
   },
   "Berserk": {
@@ -516,9 +516,9 @@
     ]
   },
   "Invincible": {
-    "NAME": "Invincible",
+    "NAME": "Непобедимый",
     "DESCRIPTIONS": [
-      "Caps ALL damage and HP loss taken to #b100."
+      "Никакой урон или потеря ОЗ не может превышать #b100."
     ]
   },
   "Juggernaut": {
@@ -908,9 +908,9 @@
     ]
   },
   "Surrounded": {
-    "NAME": "Surrounded",
+    "NAME": "Окружён",
     "DESCRIPTIONS": [
-      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
+      "Вы получаете на #b50% больше урона если вас атакуют сзади. Используйте зелья и карты с выбором цели, чтобы развернуться."
     ]
   },
   "TheBomb": {
