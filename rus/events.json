@@ -649,16 +649,16 @@
       "NL Вы заносите свой клинок...",
       "NL Вы готовите свои кинжалы...",
       "NL Вы заряжаете своё ядро до предела...",
-      "You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~",
-      " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
-      " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
-      " NL The heart #gretreats upwards! A large door is revealed in its place."
+      "Вы задаётесь вопросом: ~«Неужели~ ~я~ ~здесь~ ~не~ ~впервые?»~",
+      " NL Пульсация становится громче и громче, вы почти #p~теряете~ #p~сознание...~",
+      " NL Но внезапно из вас вырывается взрыв #y@энергия@, немедленно #b@пробуждая@  вас.",
+      " NL Сердце #gсбегает вверх! На его месте вы обнаруживаете огромную дверь."
     ],
     "OPTIONS": [
       "[Продолжить]",
       "[Атаковать] #b???",
       "[Спать]",
-      "[Approach Door]"
+      "[Подойти к двери]"
     ]
   },
   "The Cleric": {
