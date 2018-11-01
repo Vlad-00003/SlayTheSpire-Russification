@@ -1,0 +1,99 @@
+Weekly Patch 48: Creative AI
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/684cab284c5d25b89c26d95587e3f7bb21dfd11b.png[/img]
+Happy Halloween (yesterday)!
+
+This week we mainly worked on the final content which is now being tested in the beta branch! However, various fixes and improvements while working on this has carried over as well.
+
+[h1]Final Content[/h1]
+It's currently being tested in the [url=https://steamcommunity.com/games/646570/announcements/detail/1462971926900801868]beta branch.[/url] It's on track to make it into the main branch this month (November)!
+
+[h1]Beta Art![/h1]
+When implementing cards throughout the development of Slay the Spire we drew and received a lot of placeholder art before our talented artists gave us finalized artwork. We've decided to share this artwork in the game but there's a problem: Not all of our cards have placeholder art.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/d03d820597de5fb5ded8af164902cc50f6eba73d.png[/img]
+
+We need your help to fill in the missing art or the beta art feature may not make it into the full release :(.
+
+To help us resolve this crisis, please take a look at this [url=https://docs.google.com/spreadsheets/d/1Oa5Ev8ivQiQlORiVeLhmUpwh3Ajnx-1tFgjJRzyDBLY/edit#gid=0]secret document which indicate what cards are missing beta art.[/url]
+
+For contributions, we need a 500 x 380 PNG image that match a card template based on the card's type (templates below). Anything outside of the template will be removed.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/3eed665583f67eb90d64fb708e669ffd41e6e87e.png[/img]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/d1ddad3b48e6f3113137c13b7e9b684f91f40c16.png[/img]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/f01bbf2ee80ad2925f0182aea13af18fa4b1ef1e.png[/img]
+
+[b]Submission Guidelines[/b]
+Though we encourage any kind of art, please keep in mind that suggestions may be rejected for the following reasons:
+
+[list]
+[*]Suggestive or offensive content.
+[*]Too little effort.
+[*]Too much effort, you're making us look bad.
+[*]Too many submissions from a single person (let other people have fun, too!)
+[*]There's already art for that card, we can only have one slot. Sorry :(.
+[*]The art is not related to the card at all.
+[*]It's too late (noooo).
+[/list]
+
+Once your submission is ready, either post the image and tag us @Developers at our [url=https://discord.gg/SlayTheSpire]Discord server,[/url] or email us at support@megacrit.com. We cannot accept submissions through Twitter as the image will be severely compressed.
+
+[h1]Community Fan Art[/h1]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/351401ff57a1408a74c9c039e9ab469d7d40c331.jpg[/img]
+[i]The characters cosplaying each other by [url=https://www.reddit.com/user/dragonclaude/posts/]/u/Dragonclaude[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/c0dfa77b70244743a85f5ce20b2c4dd912bb2e95.jpg[/img]
+[i]The Silent by [url=https://www.instagram.com/nick_jeez/]@nick_jeez[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/c0d64990399248e9f4754f80e5cb121c0d470622.jpg[/img]
+[i]Deca and Donu Redesign by [url=https://www.artstation.com/krane]Mr. Krane[/url][/i]
+
+[b]Patch Notes[/b]
+[h1]Balance[/h1]
+[list]
+[*]Removing the Colossus mod to be reworked.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Adjust margin for run history's path elements to match relics and cards.
+[*]Blizzard gets improved size, velocity, and SFX pitch scaling logic (now up to 50 Frost). 
+[*]Checkbox to view upgrade in single card view is now much larger.
+[*]Improved Dagger Spray VFX readability and no longer flashes a sprite for 1 frame at the start.
+[*]Thousand Cuts power' now displays its VFX faster (0.25s -> 0.2s and 0.25s -> 0.1s FAST MODE).
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Added logic to remove the Strike tip from Pandora's box (attempt 2).
+[*]Bonfire Spirits event now works if the only remaining cards are bottled.
+[*]Capitalization fix: Jack Of All Trades -> Jack of All Trades.
+[*]Certain enemies no longer gain extra strength when removing Piercing Wail or Dark Shackles from themselves.
+[*]Electrodynamics' passively triggered Orbs now resolve in the correct order and flash the orbs
+[*]Fixed issue where Bottled icon wasn't showing in card upgrade screens. 
+[*]Fixed issue where Dagger Spray VFX wasn't spawning in the right spot for some resolutions. 
+[*]Fixed issue where Maw enemy was considered elite in the back end.
+[*]Fixed issue where relic outlines were rendered twice in reward screens.
+[*]Fixed issue where seeds stopped working after completing a run until restarting client.
+[*]Fixed several events modifying eventRNG values, causing future events to be inconsistent.
+[*]Fixing some errors with event logging in Run History.
+[*]Gold Shrine was logging an incorrect amount of gold received on A15+ for Run History.
+[*]Grammar: Aside -> Beside for Black Star's flavor text.
+[*]Insanity and Diverse mods now work together.
+[*]Resolution fallback now affects Fullscreen only, allowing higher resolutions for vertical multi-monitor setups.
+[*]Shiny mod and Diverse now work together correctly.
+[*]The Lab event now shows up correctly in the Run History.
+[/list]
+
+[h1]Optimization[/h1]
+[list]
+[*]Compressing various over-the-shoulder and character corpse assets.
+[*]Removed various unused assets.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Adding a name to DEU credits.
+[*]Updates for DEU, EPO, FRA, IND, ITA, JPN, KOR, POL, RUS, SPA, ZHS, and ZHT.
+[*]Updating REFERENCES.txt
+[/list]
