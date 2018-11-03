@@ -518,7 +518,9 @@
   "Invincible": {
     "NAME": "Invincible",
     "DESCRIPTIONS": [
-      "Caps ALL damage and HP loss taken to #b100."
+      "Can only lose #b",
+      " more HP this round.",
+      "Can no longer be harmed this round."
     ]
   },
   "Juggernaut": {
