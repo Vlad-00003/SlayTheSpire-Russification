@@ -1,0 +1,66 @@
+Weekly Patch 49: The Designer
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/e2f30fcce316d7c90c76106fef1c478011b3b37a.png[/img]
+Hey everyone,
+
+This week we spent time finishing and tweaking up some content while sorting through and incorporating beta art.
+
+[h1]Final Content[/h1]
+This will be available in the main branch next week. The additional music brought in with this content will also be added to the [url=https://store.steampowered.com/app/877620/Slay_the_Spire__Soundtrack/]Slay the Spire - Soundtrack[/url] next week, along with the special track used in the Mind Bloom event.
+
+[h1]Beta Art[/h1]
+A ton of submissions were received, thank you! The beta art submissions will be open for 1 more week as we identified some cards with missing portraits. For information on participation and what this entails, please see the [url=https://steamcommunity.com/games/646570/announcements/detail/1706195930369690868]previous weekly announcement.[/url]
+
+[h1]Community Fan Art[/h1]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/3dd8fd9202ccbcfb0ae45701fbf63d3d433f8958.png[/img]
+[i]Full Heal! by [url=https://www.reddit.com/user/Zixzs]/u/Zixzs[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/38d12f7f104c3a01f4fd9be0aec39fc048cb3348.jpg[/img]
+[i]a Transient redesign by [url=https://www.artstation.com/krane]MrKrane[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/bd6b3c801a2175380e9867fd771f3b06e1b7ecc8.jpg[/img]
+[i]Gremlin Leader by [url=https://twitter.com/l3w15911]@l3w15911[/url][/i]
+
+
+[b]Patch Notes[/b]
+
+[h1]Balance[/h1]
+[list]
+[*]Philosopher's Stone buffed: Enemies gain 2 Strength -> 1 Strength.
+[*]Removing Careless daily mod.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Adding a new line so Innate keyword is on its own line for Machine Learning+.
+[*]Colorless card mod now correctly interacts with Shiny mod.
+[*]Colorless card mod was causing colorless cards to be added to the card pool twice as often as they should.
+[*]Dead Adventurer event was not giving the gold correctly (just showing the effect).
+[*]Fix for boss treasure rooms incorrectly showing in the run history screen.
+[*]Fixed cards like Blood for Blood and Masterful Stab being affected outside of combat.
+[*]Fixed issue where Ambient SFX in the main menu played double upon loading a profile.
+[*]Fixed issue where you couldn't Retain if it was your only card (controllers).
+[*]Fixing several display issues with the run history screen.
+[*]Mind Blast card now correctly works with Controlled Chaos mod.
+[*]Minor Snecko Eye description fix.
+[*]Painful Stabs power will no longer give wounds if the damage was prevented by Buffer.
+[*]Potential fix for card + end turn button hover causing an annoying sound issue.
+[*]Preventing crashes for saves that used deprecated run mods like Careless or Colossus.
+[*]Reptomancer enemy was receiving the Ascension 18 boost at Ascension 17.
+[*]The Flight daily mod now properly works with controllers.
+[*]Top Panel heal effect will no longer play when enemies heal or gain max HP.
+[*]Wheel of Change event no longer makes you stuck if the only removable cards in your deck are bottled.
+[/list]
+
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Philosopher's Stone wording improvements.
+[*]Can now open the Settings menu while in special card obtaining screens like from Calling Bell or All Star daily mod.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DEU, EPO, FRA, IND, ITA, KOR, POL, RUS, ZHS, and ZHT.
+[*]Updating credits for RUS, and ZHS.
+[/list]
