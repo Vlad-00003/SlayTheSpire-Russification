@@ -1,0 +1,109 @@
+Weekly Patch 50: Final Act
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/cb690b2219c14d4dccecf57c7f053f55100afc8c.png[/img]
+[i]The final act is now available.[/i]
+
+For those who wish to avoid spoilers, simply skip over the section below.
+This week's patch also includes some other news!
+
+[h1]The Final Act[/h1]
+[spoiler]This content is accessible in Standard and Ascension runs after completing the game with each character (not including retroactive completions).
+[/spoiler]
+
+[spoiler]This content includes:[/spoiler]
+[list]
+[*] [spoiler]A special Final Act beyond Act 3[/spoiler]
+[*] [spoiler]1 Elite[/spoiler]
+[*] [spoiler]1 Boss[/spoiler]
+[*] [spoiler]4 Achievements[/spoiler]
+[*] [spoiler]Special endings for each character[/spoiler]
+[*] [spoiler]Bonus card portraits used during playtesting and extras by the community[/spoiler]
+[/list]
+
+[h1]Updates to the Official Soundtrack[/h1]
+Because new music was added into the game, it is now also available in our [url=https://store.steampowered.com/app/877620/Slay_the_Spire__Soundtrack/]Official Soundtrack.[/url]
+[b]Newly added tracks include:[/b]
+[list]
+[*]Mind Bloom
+[*]The Ending
+[*]The Heart
+[*]The Spire Slain
+[*]Bonus (Launch Trailer)
+[/list]
+
+[h1]One Year Anniversary! Hooray![/h1]
+Did you know Slay the Spire was released into Early Access November 14, 2017?
+
+We're aware that in our Early Access blurb it said the game would be released by now. Well, too bad- we decided to add much more than initially planned. Also, thank you for playing the game, spreading the word, and being genuinely awesome.
+
+[h1]Vacation[/h1]
+I'm taking a vacation so the next patch is December 6.
+
+[h1]Community Fan Art[/h1]
+So many drawings! It's really great to see all these characters drawn in different ways, doing different things. We're going to keep sharing it with everyone else :).
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/fbef9ed792a0b238df01bf2ada3ce11c3ebd113b.jpg[/img]
+[i]The Ironclad by [url=https://www.reddit.com/user/VaultHunt3r]/u/VaultHunt3r[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/bcd203dee46adafc3e851c5ef4f7b7e43b844b00.png[/img]
+[i]The Cultist, Slime, and a Slaver by [url=https://twitter.com/RedDyeNo5]Red Dye No. 5[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/fa99913737d6f6ecceb16258d6eff1be3b5405e9.jpg[/img]
+[i]Neow by [url=https://twitter.com/BlueStorm4WG]Marce Ricardo[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Content[/h1]
+[list]
+[*]Lots of Final Act related content.
+[*]A Note For Yourself event is now out of beta.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Ascension 20 now correctly works on Endless mode.
+[*]Awakened One and Orb Walkers were not shuffling their status cards into the player's draw pile, but into a fixed position.
+[*]Damage taken per turn checks for cards like Masterful Stab were not correctly resetting.
+[*]Fix for Mummified Hand relic targeting cards with costs lowered by Setup or Forethought.
+[*]Fixed issue where Nloth's Face relic consumed both relics from Matryoshka.
+[*]Fixed issue where the seed wasn't displaying after it was set in Char Select and Custom Mode screens.
+[*]Fixed issue where viewing relics with Nilrys Codex' popup caused issues with controllers.
+[*]Fixed softlock caused if you can't remove cards in: Back to Basics, Cleric, and Living Wall events.
+[*]HP loss amount is now blue for Neow's Lament relic description.
+[*]Red Skull relic's Strength gain is now correctly applied to the cards in your hand at start of combats.
+[*]Turnip and Ginger relics now prevent Artifact from triggering when they nullify debuffs.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]Daily mods that alter the starting deck like Sealed Deck and Draft now eliminate Pandora's Box as it does nothing.
+[*]Wing Boots relic no longer appers after floor 40 (except with the Endless mod on).
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Controllers can now view Exhausted cards during combat.
+[*]Controllers have better behavior when navigating up/down when viewing card screens like Draw and Discard piles.
+[*]Energy icon now rendered on Single Card View screen for Curses with energy costs.
+[*]ESC key now closes the map and deck view screens again (if able).
+[*]Exhaust Pile now uses a scroll bar when there are enough exhausted cards.
+[*]Hovering room elements in Run History now make them 2x size rather than 1.5x.
+[*]Icons used in Run History screen's path nodes are now sharper.
+[*]Regret card wording improved to clarify interactions with cards like Rupture.
+[*]The term Orb Slot(s) within descriptions is now lowercased to Orb slot(s).
+[*]Title capitalization for Cloak And Dagger -> Cloak and Dagger.
+[*]Title capitalization for Hand Of Greed -> Hand of Greed.
+[*]Title capitalization for Riddle With Holes -> Riddle with Holes.
+[*]Updating elite path node icon in Run History screen. Now color blind accessible.
+[*]Claw card gets VFX.
+[*]Maw enemy's bite attack gets VFX.
+[*]Rip and Tear card gets VFX.
+[*]Scrape card gets VFX.
+[*]The Champ's sword attacks get VFX.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Reorganizing RUS credits a bit.
+[*]Updates for DEU, EPO, FRA, JPN, IND, POL, RUS, SPA, ZHS, ZHT.
+[/list]
