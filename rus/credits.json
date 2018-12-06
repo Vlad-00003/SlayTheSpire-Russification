@@ -42,6 +42,19 @@
       "Магнус Упманн (Magnus Upmann)"
     ]
   },
+  "LOC_DUT": {
+    "HEADER": "Перевод на Нидерландский ",
+    "NAMES": [
+      "Предводитель гремлинов:",
+      "Елле Стейнманн «NotADitto» (Jelle Steinmann «NotADitto»)",
+      "Гремлин-верзила:",
+      "Чарли «Alcus» Йе (Charlie «Alcus» Ye)",
+      "Гремлины:",
+      "Оскар Каусин (Oscar Cousin)",
+      "«Meriscan»",
+      "Лисе Лейтнер (Lise Leitner)"
+    ]
+  },
   "LOC_EPO": {
     "HEADER": "перевод на эсперанто",
     "NAMES": [
