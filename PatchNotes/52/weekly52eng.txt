@@ -1,0 +1,76 @@
+Weekly Patch 52: Release Date & Price Increase
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/83ce7e0cb748ae459a8447889bcd638ea0ec82f2.png[/img]
+Hello everyone,
+
+This week's patch brings further visual polish and improvements to controller support while we continue work on Steam Trading Cards and Workshop support. We also have some announcements!
+
+[h1]Release Date[/h1]
+Slay the Spire will be out of Early Access on January 23, 2019.
+We'll reveal more on the future of Slay the Spire and Mega Crit Games on release.
+
+[h1]Price Increase[/h1]
+Anybody reading this probably owns the game. With the upcoming full release, there will be a price increase shortly after the upcoming Winter Sale so if you were planning on buying or gifting, it's a good time to do so!
+
+[h1]Community Fan Art[/h1]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/5db9b496ad7dce31f6009d735fea37968e1d0395.png[/img]
+[i]The Defect by [url=https://twitter.com/MoronisMcDude]@MoronisMcDude[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/0a9b40edb3d537a6e9e656e73c88cd21c8cd7cdd.png[/img]
+[i]These excellent monster drawings by [url=https://twitter.com/RedDyeNo5]@RedDyeNo5[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/94f24766698461a2147aeed899338706e15d98c3.jpg[/img]
+[i]The Silent facing off against The Guardian by [url=https://twitter.com/BlueStorm4WG]Marce Ricardo[/url][/i]
+
+[b]Patch Notes[/b]
+[h1]Balance[/h1]
+[list]
+[*]Maw Bank relic will no longer spawn at Shops.
+[*]Enchiridion relic now triggers earlier so its card is prioritized over some other relics.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Updated relic asset for Ancient Tea Set.
+[*]Updated relic asset for Pandora's Box.
+[*]Updated relic asset for Red Skull.
+[*]Updated relic asset for Regal Pillow.
+[*]Updated relic asset for Strange Spoon.
+[*]Updated relic asset for Sundial.
+[*]Updated relic asset for The Specimen.
+[*]Updated relic asset for Toolbox.
+[*]Updated relic asset for Tough Bandages.
+[*]Adding VFX for Clash card.
+[*]Adding VFX for Feed card.
+[*]ESC button can cancel out of several screens again.
+[*]Twitch integration icon moved to a location that does not overlap the Timer.
+[*]Adding support for LS, RS button assets when remapping controller inputs. 
+[*]Adding support for Right Stick up down left right assets when remapping controller inputs.
+[*]Inputs that have crossover between keyboard/controller can now be remapped without crashing.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Duplicate cards will no longer appear on reward screens with Prismatic Shard.
+[*]Fixed crashes when reassigning various hotkeys. 
+[*]Fixed issue that allowed player to throw Smoke Bomb in some rooms to no effect.
+[*]Fixed issue that caused Frail and Dexterity to inconsistently interact with each other.
+[*]Fixed issue that caused Shovel, Girya, and Peace Pipe to incorrectly spawn when they should not.
+[*]Fixed issue where Beta Art toggle sometimes appeared in the incorrect spot.
+[*]Fixed issue where Beta Art toggle was available for cards which did not have Beta Art access.
+[*]Fixed issue where cards from Unceasing Top were offset on the far left if using a controller.
+[*]Fixed issue where highlighted room in map screen changed if you scrolled up using controller.
+[*]Fixed issue where navigating up/down on the dungeon map using controller can move your cursor out of the game window.
+[*]Fixed issue where Pandora's Box relic couldn't transform cards to Rare.
+[*]Fixed issue where Save & Quit via controller also ended the turn if you were in combat.
+[*]If you Save & Quit then immediately continue using a controller, the audio no longer bugs out.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DUT, FRA, IND, JPN, KOR.
+[/list]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/aeb071ebbd9fe4a99e3b62cca6e51364017cb243.png[/img]
+[i]doot doot[/i]
