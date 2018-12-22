@@ -1,0 +1,57 @@
+Weekly Patch 53: Blizzard
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/d4e82ce190b9d568b98f3dd850c09c6caf5c6fa9.png[/img]
+Happy holidays!
+
+While things are slower due to winter festivities and gatherings, we're pushing ahead with bug fixes and visual improvements! Steam Workshop support is almost ready but we're taking a few days off for the holidays.
+The next patch will be on January 3, [b]2019.[/b]
+
+As a reminder, there will be a price increase after the current Winter Sale as detailed in [url=https://steamcommunity.com/games/646570/announcements/detail/2796070940829591158]last week's patch.[/url]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/1fa362c65f8e397262dc25acb187af191a0b6466.gif[/img]
+[i]Beaaaaam[/i]
+
+[h1]Community Fan Art[/h1]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/5c80307cb757334c7828ca175ee72edbed49907c.jpg[/img]
+[i]Praise Snecko by [url=https://twitter.com/Albino_bat]@Albino_bat[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/20836bef234a5927484e626eee4d87fdb9270db6.jpg[/img]
+[i]Ironclad by [url=https://www.reddit.com/user/khazan0]/u/khazan0[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/70b83fbfe37d3205e4c25258a50071c1ee5411a2.jpg[/img]
+[i]a Sandy Stormfield Defect by [url=https://twitter.com/Koda_Ellipsis]@Koda_Ellipsis[/url][/i]
+
+[b]Patch Notes[/b]
+[h1]UI and Effects[/h1]
+[list]
+[*]Updated relic asset for Bird-Faced Urn.
+[*]Updated relic asset for Eternal Feather.
+[*]Adding a VFX for Entangle by Red Slaver (NON-Fast Mode only)
+[*]Adding a VFX for Sweeping Beam card.
+[*]Busted Crown relic now flashes when its effect is triggered.
+[*]Hovering over an icon in the Map Legend now highlights all rooms of that type on the map.
+[*]Made in-game tips pop in from the bottom instead of just being there so it's slightly more noticeable.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Ascension 20 achievement not unlocking if you die on Act 4 on A20.
+[*]Beat of Death Power now damages you after a card's actions completely resolve.
+[*]Clicking two cards quickly when choosing one to discard will no longer discard the wrong card.
+[*]Crash fix when looking at Deck, Map, or Settings after getting Pandora's Box at Neow.
+[*]Fix for Egg relics causing an issue with cards in the Library event screen.
+[*]Fixed issue where a pre-battle action would sometimes not trigger when continuing a run.
+[*]Fixed issue where evoked Dark Orbs wouldn't switch targets if the first target died when multi-casting.
+[*]Fixing black map bug when pressing ESC in certain situations.
+[*]Invincible Power tooltip now correctly matches the icon and shows the correct amount.
+[*]Opening map/deck/setting on certain screens no longer forfeits an upgrade, boss relic, or blessing.
+[*]Spire Spear was incorrectly buffed on Ascension 17 instead of 18.
+[*]Timer no longer stops at the end of Act 3 if you meet the conditions to reach Act 4.
+[*]You can no longer Toke bottled cards.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DEU, EPO, ITA, SPA, and ZHT.
+[*]Updates for DUT and credits updates for DUT.
+[/list]
