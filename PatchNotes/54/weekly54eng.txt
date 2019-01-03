@@ -1,0 +1,90 @@
+Weekly Patch 54: Loop
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/16894b7748f40dd11791c9ee077d8664d3b46fb2.png[/img]
+Happy New Year!
+
+This week's patch brings Steam Workshop support, bug fixes, and a few touch-ups here and there.
+
+[h1]Steam Workshop[/h1]
+Utilizing and keeping up-to-date with community-made mods are now easier as we're enabling Steam Workshop support today.
+
+Have you wanted more cards, relics, characters? Many hardworking players have been modding Slay the Spire for quite a while and they can now be easily accessed through the workshop. [url=https://steamcommunity.com/workshop/browse/?appid=646570&browsesort=trend&section=readytouseitems]Check them out here![/url]
+
+Browse the Workshop page, subscribe to some mods, and upon launching the game, choose the "Play with Mods" option.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/cfba219334576a37e63b7ebcf701707acb96d3f5.png[/img]
+[i]Now you are a professional mod user[/i]
+
+For support and info on installation, bug reporting, or creating mods, join the modding community at our [url=https://discord.gg/slyathespire]Official Discord channel[/url] at #modding. We want to play your mods!
+
+[h1]Community Fan Art[/h1]
+Some excellent renditions to kick off the year
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/ea584d6a0973b17c9b69965342c8e3aead69f51f.jpg[/img]
+[i]The Ironclad by [url=https://www.instagram.com/nathanj/]nathanj[/url]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/24074e93cc551f9504e1fd18ab3569f324e56e77.jpg[/img]
+[i]The Silent by [url=https://www.reddit.com/user/khazan0]u/khazan0[/url]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/63f2284306f7e5b69285081139cdb39ab5b88f7f.jpg[/img]
+[i]The Defect by [url=https://twitter.com/nicxanbrooks]@Nicxan[/url]
+
+[b]Patch Notes[/b]
+
+[h1]Gameplay and Balance[/h1]
+[list]
+[*]A Note For Yourself event is now available if you aren't playing your highest ascension AND the ascension level is 14 or less.
+[*]If you have unlocked The Ending achievement, you can now enable the final act in custom mode.
+[*]Stone Calendar relic damage buffed 40 -> 50.
+[*]The Specialized Daily Mod now allows Alchemize (was restricted because the mod Brewmaster used to exist)
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Improved controller navigation of Rest Site options when there are 5 options.
+[*]Recall option now appears in Run History screens when hovering a rest site room node.
+[*]Removed flame VFX that appeared when Reptomancer was defeated.
+[*]Smiling Mask relic stops flashing if Card Removal Service has been utilized.
+[*]The Input Settings menu button now utilizes a different image.
+[*]The Standard play menu button now utilizes a different image.
+[*]Updated relic asset for Blood Vial.
+[*]Credits updated and improved timing for the Thanks for Playing message.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Adding a check for a Cancel button (Safer for Modders!)
+[*]Adding a check for a potential game exit crash instead of returning to menu.
+[*]Adding logic so Beyond elites score increments more accurately in case of future/custom Acts.
+[*]Blight rolling now increments relic rng seeds correctly (consistency on save/load)
+[*]Fix Run History corruption due to save/load (again). 
+[*]Fixed card randomization inconsistencies caused by save/load.
+[*]Fixed events which sometimes rerolled when loading a save after an event-based combat.
+[*]Fixed instances where certain screens could be opened while on that screen, causing visual issues. 
+[*]Fixed issue where a non-dismissable Map could be dismissed by navigating menus in a specific order.
+[*]Fixed issue where Blood Potion wouldn't heal the player if used immediately after combat.
+[*]Fixed issue where City and Beyond Elites killed score bonuses weren't showing up if you won/lost in The Ending.
+[*]Fixed issue where Entropic Brew did not give players potions if used post-combat.
+[*]Fixed issue where opening deck/map/settings and returning would enable cancelling out of certain screens (like choosing cards for bottles).
+[*]Fixed issue where opening deck/map/settings during Card Removal Service caused the card to not remove unless you access the shop again.
+[*]Fixed issue where potion seeds weren't persistent on save/load.
+[*]Fixed issue where Toy Ornithopter relic wouldn't trigger outside of combat.
+[*]Fixed issues where navigating from screen -> map/deck -> settings would dismiss some screens such as Sealed Deck.
+[*]Fixed issues where some monsters dealt the incorrect damage with Philosopher's Stone on turn 1.
+[*]Note For Yourself event no longer crashes with modded cards.
+[*]Opening Settings during Draft mod now properly hides the top banner.
+[*]Potential fix for Prismatic Shard returning duplicate cards on rare occasions.
+[*]Prevent Run History corruption when loading saves in Event rooms.
+[*]The Specialized Mod now gives you 5 of a random card and works with mods Draft and Sealed Deck.
+[*]Tingsha, Sword Boomerang, Bouncing Flask, Rip and Tear, Thunder Orbs, Havoc, and Juggernaut now utilize seeded enemy target randomization.
+[/list]
+
+[h1]Performance[/h1]
+[list]
+[*]Reduced some unnecessary saving when encountering bosses.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Adding shop assets for EPO.
+[*]Updates for EPO, DEU, DUT, EPO, FRA, ITA, KOR, SPA, UKR, ZHS, ZHT.
+[/list]
