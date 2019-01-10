@@ -994,6 +994,14 @@
       "."
     ]
   },
+  "RichPresence": {
+    "TEXT": [
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " - Floor %s",
+      "Main Menu"
+    ]
+  },
   "RunHistoryMonsterNames": {
     "TEXT": [
       "Gang of Gremlins",
