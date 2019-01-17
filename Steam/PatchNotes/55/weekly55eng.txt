@@ -1,0 +1,71 @@
+Weekly Patch 55: Blur
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/bf4f9b0fad2f6fb98887e520fb506d76f3830d99.png[/img]
+Hello!
+
+This week's patch brings Rich Presence support, VFX, bug fixes.
+
+[h1]Full Release January 23[/h1]
+In preparation for the full release and ports coming later this year, we're spending time to ensure that the game is stable. Ports are being worked on and we'll be announcing those dates as soon as we get them!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/5482bc65e5a5fb1d26d5a76c34f6c5b875150d5a.gif[/img]
+[i]Hemokinesis![/i]
+
+[h1]Price Increase[/h1]
+Will be on January 21, 2019.
+Again, a big thank you to all of our Early Access testers!
+
+[h1]Rich Presence[/h1]
+Now you can see what game mode, floor, or character your friends are playing as in Slay the Spire.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/c24b9447146a61cc0e28153c68f0a4c1218988ad.png[/img]
+[i]Only Dinosaurs (Hey, that's me) has Rich Presence here![/i]
+
+We've added support for this feature in Steam and will be expanding support to other platforms such as Discord.
+
+[h1]Community Fan Art[/h1]
+Feeling artsy?! Want something featured? Just ping us at @MegaCrit on Twitter or @Developers at our [url=https://discord.gg/slaythespire]Discord server.[/url]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/91368402af40d0ab9b241a7cc549aadef0a70d18.jpg[/img]
+[i]Jaw Worm by [url=https://www.deviantart.com/nightmareroach]NightmareRoach[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/ae511bc4398efdbc276275f59625312ff6b707d7.jpg[/img]
+[i]Ironclad camping out by [url=https://twitter.com/BlueStorm4WG]@BlueStorm4WG[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/746bd04374f75c9dcd4cd65b0c1545f6151c2ed2.jpg[/img]
+[i]Ironclad being exhausted by [url=https://www.reddit.com/user/Dragonclaude]u/Dragonclaude[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Gameplay[/h1]
+[list]
+[*]Meal Ticket relic buffed. Heals 10 -> 15.
+[*]Meal Ticket relic no longer spawns beyond floor 48 (unless Endless mode).
+[*]Reaper card now heals the correct amount if the player has The Boot relic. 
+[*]Stone Calendar relic buffed. Damage 50 -> 52 for flavor.
+[*]The Bomb card damage buffed from 30 -> 40.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Adding VFX for the Heart's buff move.
+[*]Adding VFX for Heart's debuff move.
+[*]Adding VFX for Hemokinesis card.
+[*]Adding VFX for Reaper card.
+[*]Draw, Discard, and Exhaust piles can now be viewed during Codex/Discovery card selection.
+[*]Improvements to counter on Stone Calendar to make it more obvious when it will trigger.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Fixed issue where facing too many elites causes a crash (due to modifiers/Endless).
+[*]Fixed issue where restocked cards via Courier were hard to select using controller.
+[*]Fixed issue which allowed you to cancel selecting a card to bottle by interacting with the top menu.
+[*]Fixed evoked Orbs affecting card reward outcome (affects seeded runs).
+[*]Shifting power no longer triggers when Transient receives 0 damage.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DEU, DUT, EPO, ITA, JPN, RUS, SPA, ZHS, ZHT.
+[/list]
