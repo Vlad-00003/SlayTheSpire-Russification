@@ -1,0 +1,82 @@
+Weekly Patch 56: The Collector
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/b5eeca8b704e2f40e32e8e1a4899799446c8247e.jpg[/img]
+Hello!
+
+We're going into full release in just under a week so we have been hard at work finishing up Steam Trading cards, making some final balance adjustments, and ensuring that the game is as stable as possible.
+
+[h1]Reddit AMA[/h1]
+We're holding an AMA on Reddit on January 23 at 5pm (PST)!
+For those not in the know, it means we'll be answering any questions you may have about the game or the team.
+When it's up, we'll link it from our subreddit page:[url=https://www.reddit.com/r/slaythespire/]https://www.reddit.com/r/slaythespire/[/url]
+
+[h1]Price Increase[/h1]
+The price of the game is increasing shortly before full release.
+Last chance to get the game at our Early Access rate!
+
+[h1]Incomplete Languages[/h1]
+As many of you know, Slay the Spire was graciously translated by the community. Unfortunately, not all languages were fully translated or became outdated over time.
+
+The following languages will become unavailable in the full release (but available in the beta branch):
+[list]
+[*]Greek
+[*]Norwegian
+[*]Thai
+[*]Turkish
+[*]Serbian (Cyrillic)
+[*]Serbian (Latin)
+[/list]
+
+Did you know that Slay the Spire has been fully translated into 15 languages? Remarkable! For discussion, contribution, or just saying "Thanks!" to the translation efforts, come visit the localization community at our [url=http://discord.gg/slaythespire]Discord server.[/url] If you aren't playing Slay the Spire in English, it's all thanks to them!
+
+[h1]Community Fan Art[/h1]
+Oh nooo, where are we going to showcase art when the weekly updates stop?!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/c3497adc3a42ae63b7d22151139f3f9cf9ae2bb5.jpg[/img]
+[i]The Defect by [url=https://twitter.com/Mezlocillin]@Mezlocillin[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/60d86a863f44dff37bf3cc658472a199e622acd9.jpg[/img]
+[i]Wholesome Gremlins! by [url=https://www.reddit.com/user/Sofreen]u/Sofreen[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/6c8e4eae568850f2ddba2f404c86e6b80631a10d.png[/img]
+[i]Sleepy Silent by [url=https://www.reddit.com/user/bakuhakudrawsthings]u/bakuhakudrawsthings[/url][/i]
+
+[b]Patch Notes[/b]
+
+[h1]Balance[/h1]
+[list]
+[*]Book of Stabbing enemy's multi-stab attack strikes 1 less time on Ascension 18.
+[*]Colosseum event's second fight is now a Gremlin Nob + Taskmaster (rather than 2 Gremlin Nobs)
+[*]Gambling Chip relic now triggers after card-draw based relics such as Ring of Serpent.
+[*]Spire Growth's constrict power nerfed 15 -> 12 on Ascension 18.
+[*]Writhing Mass' strong hit damage nerfed 34 -> 32. 40 -> 38 (Ascension 2)
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Adding a VFX for cards when they are removed from your deck.
+[*]A Thousand Cuts now activates 0.3s faster in Fast Mode and 0.2s faster without.
+[*]Adding controller support for death and victory screens. Allows players to see score bonus info.
+[*](Controllers) Button prompt for Singing Bowl's +2 Max HP button now dynamically placed so it doesn't overlap text.
+[*]Cards now fade out slightly faster when they're removed from decks (0.5s -> 0.33s)
+[*]Draw and Discard piles are now visible during hand card select screens as they can be interacted with.
+[*]Map Legend no longer moves slightly upon scrolling.
+[*]Map Legend placed slightly higher so cursor doesn't hover Map Legend icons after pressing Proceed to open a map.
+[*]Piercing Wail card is now 1.2s faster with Fast Mode.
+[*]Rest option now becomes disabled if you can't Rest (Coffee Dripper relic).
+[*]Smith option now becomes disabled rather then disappearing when using Midas mod or Fusion Hammer relic.
+[*]Updated assets for the Wheel of Change event.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Fixed issue where card rewards via Prismatic Shard could contain duplicates.
+[*]Fix for crash issues with Note For Yourself event and modded cards.
+[*]Fixed issue where certain game modes became unavailable after switching profiles until restarted.
+[*]Fixed issue where opening map during death fadeout starts the next run with an empty map on screen.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for EPO, DEU, DUT, IND, POL.
+[/list]
