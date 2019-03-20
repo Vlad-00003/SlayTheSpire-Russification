@@ -28,6 +28,7 @@
   "LOC_CAT": {
     "HEADER": "Перевод на каталанский",
     "NAMES": []
+    ]
   },
   "LOC_DEU": {
     "HEADER": "Перевод на немецкий",
@@ -36,9 +37,9 @@
       "Дастин «Skrelpoid» Кристен (Dustin «Skrelpoid» Kristen)",
       "Кристоф «Deknud» Хартман (Christoph «Deknud» Hartmann)",
       "Джонас Тродлер (Jonas Trodler)",
-      "Hongkong Koma",
-      "Moly",
-      "koykoy13",
+      "«Hongkong Koma»",
+      "«Moly»",
+      "«koykoy13»",
       "Магнус Упманн (Magnus Upmann)"
     ]
   },
@@ -104,23 +105,24 @@
   "LOC_JPN": {
     "HEADER": "Перевод на японский",
     "NAMES": [
-      "Grezzz"
+      "«Grezzz» (перевод от сообщества)",
+      "Kakehashi Games (официальный перевод)"
     ]
   },
   "LOC_KOR": {
     "HEADER": "Перевод на корейский",
     "NAMES": [
       "Координация перевода:",
-      "Eteriny",
+      "«Eteriny»",
       "Перевод:",
-      "Simcoding",
-      "DesFrog",
-      "Fissh",
-      "insight",
-      "K4lium",
-      "hina",
+      "«Simcoding»",
+      "«DesFrog»",
+      "«Fissh»",
+      "«insight»",
+      "«K4lium»",
+      "«hina»",
       "Перевод страницы магазина в Steam:",
-      "GyeRyak"
+      "«GyeRyak»"
     ]
   },
   "LOC_NOR": {
@@ -145,7 +147,7 @@
       "Павел «BASTIL» Калета (Pawe³ «BASTIL» Kaleta)",
       "Гжегож «GregPL» Богуславский (Grzegorz «GregPL» Bogus³awski)",
       "Эрвин «mateusz3010» Матис (Erwin «mateusz3010» Matys)",
-      "Mettie",
+      "«Mettie»",
       "Рафал «SponTon83» Шишко (Rafa³ «SponTon83» Szyszko)"
     ]
   },
@@ -178,7 +180,7 @@
       "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)",
       "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)",
       "Перевод графики магазина:",
-      "Urist McFerrum"
+      "«Urist McFerrum»"
     ]
   },
   "LOC_SPA": {
@@ -204,14 +206,16 @@
   "LOC_THA": {
     "HEADER": "Перевод на тайский",
     "NAMES": [
-      "Рапепат Суван «Yuu» (Rapeepat Suwan (Yuu))",
-      "Саравут Суван «Tomoeic» (Sarawut Suwan (Tomoeic))"
+      "Рапепат «Yuu» Суван (Rapeepat «Yuu» Suwan)",
+      "Саравут «Tomoeic» Суван (Sarawut «Tomoeic» Suwan)"
     ]
   },
   "LOC_TUR": {
     "HEADER": "Перевод на турецкий",
     "NAMES": [
       "Эрдем Гюрбюз (Erdem Gürbüz)"
+      "Эге «sLanKy» Гючкеран (Ege «sLanKy» Güçkıran)",
+      "«onparalelkenarag»"
     ]
   },
   "LOC_UKR": {
@@ -227,8 +231,8 @@
   "LOC_ZHS": {
     "HEADER": "Перевод на китайский (упрощённый)",
     "NAMES": [
-      "Sound of Mystery",
-      "IrisRaphael"
+      "«Sound of Mystery»",
+      "«IrisRaphael»"
     ]
   },
   "LOC_ZHT": {
