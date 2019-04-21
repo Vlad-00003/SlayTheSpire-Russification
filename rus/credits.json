@@ -28,7 +28,6 @@
   "LOC_CAT": {
     "HEADER": "Перевод на каталанский",
     "NAMES": []
-    ]
   },
   "LOC_DEU": {
     "HEADER": "Перевод на немецкий",
@@ -213,7 +212,7 @@
   "LOC_TUR": {
     "HEADER": "Перевод на турецкий",
     "NAMES": [
-      "Эрдем Гюрбюз (Erdem Gürbüz)"
+      "Эрдем Гюрбюз (Erdem Gürbüz)",
       "Эге «sLanKy» Гючкеран (Ege «sLanKy» Güçkıran)",
       "«onparalelkenarag»"
     ]
