@@ -205,8 +205,14 @@
   "LOC_THA": {
     "HEADER": "Перевод на тайский",
     "NAMES": [
+      "Перевод и координация:",
+      "Ноппон «PlearnGaming» Варапайбун (Noppon «PlearnGaming» Varapaiboon)",
+      "Помощь в переводе:",
       "Рапепат «Yuu» Суван (Rapeepat «Yuu» Suwan)",
-      "Саравут «Tomoeic» Суван (Sarawut «Tomoeic» Suwan)"
+      "Саравут «Tomoeic» Суван (Sarawut «Tomoeic» Suwan)",
+      "Шрифты:",
+      "CSChatThaiUI от raveetavan@gmail.com",
+      "Layiji MaHaNiYom от layiji@gmail.com"
     ]
   },
   "LOC_TUR": {
@@ -321,6 +327,18 @@
     "NAMES": [
       "Тамара Райан (Tamara Ryan)",
       "Майкл Швальбе (Michael Schwalbe)"
+    ]
+  },
+  "PORTING": {
+    "HEADER": "Портирование",
+    "NAMES": [
+      "Sickhead Games"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Переиздание",
+    "NAMES": [
+      "Humble Bundle"
     ]
   }
 }
