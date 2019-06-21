@@ -280,10 +280,10 @@
       "Джастин Мюрес (Justin Myhres)",
       "robojumper",
       "Тони «kiooeht» Мур (Tony «kiooeht» Moore)",
-      "John Vega",
-      "Steve Groll",
-      "Sara Popescu",
-      "Ryan Hamann"
+      "Джон Вега",
+      "Стив Гролл",
+      "Сара Попеску",
+      "Райан Хаманн"
     ]
   },
   "TEST": {
@@ -334,7 +334,7 @@
     ]
   },
   "PORTING": {
-    "HEADER": "Console and Mobile Ports",
+    "HEADER": "Портирование на консоли и мобильные устройства",
     "NAMES": [
       "Sickhead Games, LLC"
     ]
