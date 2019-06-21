@@ -272,10 +272,6 @@
     "NAME": "Combust",
     "DESCRIPTION": "At the end of your turn, lose 1 HP and deal !M! damage to ALL enemies."
   },
-  "Compile Driver": {
-    "NAME": "Compile Driver",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
-  },
   "Concentrate": {
     "NAME": "Concentrate",
     "DESCRIPTION": "Discard !M! cards. NL Gain [G] [G]."
@@ -292,10 +288,6 @@
     "NAME": "Coolheaded",
     "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
     "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
-  },
-  "Core Surge": {
-    "NAME": "Core Surge",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   },
   "Corpse Explosion": {
     "NAME": "Corpse Explosion",
@@ -390,11 +382,6 @@
   "Disarm": {
     "NAME": "Disarm",
     "DESCRIPTION": "Enemy loses !M! Strength. NL Exhaust."
-  },
-  "Discovery": {
-    "NAME": "Discovery",
-    "DESCRIPTION": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn."
   },
   "Distraction": {
     "NAME": "Distraction",
@@ -578,11 +565,6 @@
     "NAME": "Force Field",
     "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
   },
-  "Forethought": {
-    "NAME": "Forethought",
-    "DESCRIPTION": "Put a card from your hand to the bottom of your draw pile. It costs 0 until played.",
-    "UPGRADE_DESCRIPTION": "Put any number of cards from your hand to the bottom of your draw pile. They cost 0 until played."
-  },
   "Fusion": {
     "NAME": "Fusion",
     "DESCRIPTION": "Channel !M! Plasma."
@@ -625,10 +607,6 @@
     "NAME": "Grand Finale",
     "DESCRIPTION": "Can only be played if there are no cards in your draw pile. NL Deal !D! damage to ALL enemies.",
     "UPGRADE_DESCRIPTION": "My draw pile NL must be #rEmpty."
-  },
-  "HandOfGreed": {
-    "NAME": "Hand of Greed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
   },
   "Havoc": {
     "NAME": "Havoc",
@@ -677,10 +655,6 @@
   "Immolate": {
     "NAME": "Immolate",
     "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a Burn into your discard pile."
-  },
-  "Impatience": {
-    "NAME": "Impatience",
-    "DESCRIPTION": "If you have no Attacks in your hand, draw !M! cards."
   },
   "Impervious": {
     "NAME": "Impervious",
@@ -831,7 +805,7 @@
       " cards per turn.",
       " cards per turn. NL You have played ",
       " card this turn.",
-      " cards this turn."
+	  " cards this turn."
     ]
   },
   "Noxious Fumes": {
@@ -859,10 +833,6 @@
   "Panache": {
     "NAME": "Panache",
     "DESCRIPTION": "Every time you play 5 cards in a single turn, deal !M! damage to ALL enemies."
-  },
-  "PanicButton": {
-    "NAME": "Panic Button",
-    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for !M! turns. NL Exhaust."
   },
   "Parasite": {
     "NAME": "Parasite",
@@ -902,10 +872,6 @@
     "NAME": "Prepared",
     "DESCRIPTION": "Draw !M! card. NL Discard !M! card.",
     "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards."
-  },
-  "Pride": {
-    "NAME": "Pride",
-    "DESCRIPTION": "Innate. NL At the end of your turn, put a copy of this card on top of your draw pile. Exhaust."
   },
   "Pummel": {
     "NAME": "Pummel",
@@ -985,10 +951,6 @@
   "Rip and Tear": {
     "NAME": "Rip and Tear",
     "DESCRIPTION": "Deal !D! damage to a random enemy twice."
-  },
-  "RitualDagger": {
-    "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
   },
   "Rupture": {
     "NAME": "Rupture",
@@ -1098,8 +1060,8 @@
   },
   "Static Discharge": {
     "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you receive attack damage, Channel !M! Lightning.",
-    "UPGRADE_DESCRIPTION": "Whenever you receive attack damage, Channel !M! Lightning."
+    "DESCRIPTION": "Whenever you receive unblocked attack damage, Channel !M! Lightning.",
+    "UPGRADE_DESCRIPTION": "Whenever you receive unblocked attack damage, Channel !M! Lightning."
   },
   "Steam": {
     "NAME": "Steam Barrier",
@@ -1247,10 +1209,6 @@
     "NAME": "Alchemize",
     "DESCRIPTION": "Obtain a random potion. NL Exhaust."
   },
-  "Violence": {
-    "NAME": "Violence",
-    "DESCRIPTION": "Put !M! random Attacks from your draw pile into your hand. NL Exhaust."
-  },
   "Void": {
     "NAME": "Void",
     "DESCRIPTION": "Unplayable. NL Ethereal. NL Whenever this card is drawn, lose 1 Energy."
@@ -1292,5 +1250,48 @@
   "Zap": {
     "NAME": "Zap",
     "DESCRIPTION": "Channel !M! Lightning."
+  },
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
+  },
+  "Compile Driver": {
+    "NAME": "Compile Driver",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
+  },
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+  },
+  "Pride": {
+    "NAME": "Pride",
+    "DESCRIPTION": "Innate. NL At the end of your turn, put a copy of this card on top of your draw pile. Exhaust."
+  },
+  "PanicButton": {
+    "NAME": "Panic Button",
+    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for !M! turns. NL Exhaust."
+  },
+  "HandOfGreed": {
+    "NAME": "Hand of Greed",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+  },
+  "Violence": {
+    "NAME": "Violence",
+    "DESCRIPTION": "Put !M! random Attacks from your draw pile into your hand. NL Exhaust."
+  },
+  "Impatience": {
+    "NAME": "Impatience",
+    "DESCRIPTION": "If you have no Attacks in your hand, draw !M! cards."
+  },
+  "Forethought": {
+    "NAME": "Forethought",
+    "DESCRIPTION": "Put a card from your hand to the bottom of your draw pile. It costs 0 until played.",
+    "UPGRADE_DESCRIPTION": "Put any number of cards from your hand to the bottom of your draw pile. They cost 0 until played."
+  },
+  "Discovery": {
+    "NAME": "Discovery",
+    "DESCRIPTION": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn."
+
   }
 }

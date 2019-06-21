@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Proceed",
-      "Blights:"
+	  "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -106,26 +106,26 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Elites spawn more often.",
-      "Normal enemies are deadlier.",
-      "Elites are deadlier.",
-      "Bosses are deadlier.",
-      "Heal less after Boss battles.",
-      "Start each run damaged.",
-      "Normal enemies are tougher.",
-      "Elites are tougher.",
-      "Bosses are tougher.",
-      "Start each run cursed.",
-      "Fewer Potion Slots.",
-      "Upgraded cards appear less often.",
-      "Poor bosses.",
-      "Lower Max HP.",
-      "Unfavorable Events.",
-      "Shops are more costly.",
-      "Normal enemies have more challenging movesets and abilities.",
-      "Elites have more challenging movesets and abilities.",
-      "Bosses have more challenging movesets and abilities.",
-      "(Max Level) Double Boss."
+      "1. Elites spawn more often.",
+      "2. Normal enemies are deadlier.",
+      "3. Elites are deadlier.",
+      "4. Bosses are deadlier.",
+      "5. Heal less after Boss battles.",
+      "6. Start each run damaged.",
+      "7. Normal enemies are tougher.",
+      "8. Elites are tougher.",
+      "9. Bosses are tougher.",
+      "10. Start each run cursed.",
+      "11. Fewer Potion Slots.",
+      "12. Upgraded cards appear less often.",
+      "13. Poor bosses.",
+      "14. Lower Max HP.",
+      "15. Unfavorable Events.",
+      "16. Shops are more costly.",
+      "17. Normal enemies have more challenging movesets and abilities.",
+      "18. Elites have more challenging movesets and abilities.",
+      "19. Bosses have more challenging movesets and abilities.",
+      "20. (Max Level) Double Boss."
     ]
   },
   "AscensionTextEffect": {
@@ -152,12 +152,11 @@
       " turn"
     ]
   },
-  "BetaArtUnlockEffect": {
+  "BetterToHandAction": {
     "TEXT": [
-      "Ironclad Beta Card Art Unlocked!",
-      "The Silent Beta Card Art Unlocked!",
-      "Defect Beta Card Art Unlocked!",
-      "All Beta Card Art Unlocked!"
+      "Choose a Card to Put into Your Hand.",
+      "Choose ",
+      " Cards to Put into Your Hand."
     ]
   },
   "BossChest": {
@@ -173,7 +172,7 @@
       "Skip",
       "VOTE NOW: ",
       "s left.",
-      "Choose a Blight"
+	  "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -219,7 +218,8 @@
       "Type",
       "A-Z",
       "Cost",
-      "Jump To:"
+      "Jump To:",
+      "Obtained"
     ]
   },
   "CardLibraryScreen": {
@@ -322,19 +322,6 @@
       "to exit"
     ]
   },
-  "CustomModeScreen": {
-    "TEXT": [
-      "Custom Mode",
-      "Achievements and Leaderboards are off.",
-      "Character",
-      "Ascension",
-      "Level ",
-      "Ascension Mode",
-      "Modifiers",
-      "Seed",
-      "Set Seed"
-    ]
-  },
   "DailyScreen": {
     "TEXT": [
       "Daily Challenge",
@@ -353,7 +340,9 @@
       "Modifiers: ",
       "Leaderboards",
       "*Achievements are off for Daily Climb.",
-      "  [OFFLINE MODE]"
+      "  [OFFLINE MODE]",
+      "MMMM dd, yyyy",
+      "*Trophies are off for Daily Climb."
     ]
   },
   "DeathScreen": {
@@ -558,16 +547,6 @@
       "Exordium"
     ]
   },
-  "ForethoughtAction": {
-    "TEXT": [
-      "put on bottom of your draw pile."
-    ]
-  },
-  "GainGoldTextEffect": {
-    "TEXT": [
-      " Gold"
-    ]
-  },
   "GamblingChipAction": {
     "TEXT": [
       "Replace (Gambling Chip)",
@@ -577,6 +556,11 @@
   "GameSavedEffect": {
     "TEXT": [
       "#y~Game~ #y~Saved~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
     ]
   },
   "GridCardSelectScreen": {
@@ -664,7 +648,8 @@
       "Right (Alt)*",
       "Up",
       "Down",
-      "Controller Enabled"
+      "Controller Enabled",
+      "Touchscreen Mode"
     ]
   },
   "LanguageDropdown": {
@@ -725,7 +710,7 @@
       "Name",
       "Score",
       "Retrieving Data...",
-      "Leaderboards (NOTE: Will be reset weekly)",
+      "Leaderboards",
       "Not Connected to Steam",
       "No Scores Available \n Go Slay the Spire!"
     ]
@@ -757,7 +742,7 @@
     "TEXT": [
       "Lift",
       "Start battles with +1 Strength. (Up to 3)",
-      ""
+	  ""
     ]
   },
   "MainMenuScreen": {
@@ -836,7 +821,9 @@
       "Play a Daily Climb to unlock this game mode.",
       "This feature is not yet available.",
       "Custom",
-      "Customize your own run with unique modifiers."
+      "Customize your own run with unique modifiers.",
+      "Change your controls.",
+      "Change your graphics, audio, and gameplay preferences."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -876,7 +863,11 @@
       "Playtester Art Mode",
       "Show Card Quick Select Keys",
       "Input Settings",
-      "Disable Particle Effects"
+      "Disable Particle Effects",
+      "Resolution:",
+      "Resolution: NL Fullscreen Monitor:",
+      "Changes which monitor is utilized when Fullscreen.",
+      "Long-press Confirmations"
     ]
   },
   "PatchNotesScreen": {
@@ -884,11 +875,6 @@
       "Return",
       "#yPatch #yNotes",
       " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
-    ]
-  },
-  "Period": {
-    "TEXT": [
-      "."
     ]
   },
   "PotionPopUp": {
@@ -969,7 +955,7 @@
       "Heal for 100% of your Max HP (",
       " HP from ",
       "Heal for 30% of your Max HP (",
-      ""
+	  ""
     ]
   },
   "RestartForChangesEffect": {
@@ -994,47 +980,6 @@
       "Linked",
       "Obtaining this will remove ",
       "."
-    ]
-  },
-  "RichPresence": {
-    "TEXT": [
-      "Daily - Floor %s",
-      "Custom - Floor %s",
-      " - Floor %s",
-      "Main Menu"
-    ]
-  },
-  "RunHistoryMonsterNames": {
-    "TEXT": [
-      "Gang of Gremlins",
-      "Large Slime",
-      "Exordium Thugs",
-      "Exordium Wildlife",
-      "Swarm of Slimes",
-      "Small Slimes",
-      "City Muggers",
-      "Three Byrds",
-      "Four Byrds",
-      "Triple Cultists",
-      "Chosen Flock",
-      "Sentry and Spheric Guardian",
-      "Centurion and Mystic",
-      "Parasite and Fungi Beast",
-      "Masked Bandits Gang",
-      "Colosseum Nobs",
-      "Colosseum Slavers",
-      "Three Shapes",
-      "Jaw Worm Horde",
-      "Four Shapes",
-      "Spheric Guardian with Shapes",
-      "Double Orb Walkers",
-      "Donu and Deca",
-      "Sentries",
-      "Chosen and Cultist",
-      "(Deprecated) Flame Bruiser",
-      "(Deprecated) Slaver and Parasite",
-      "(Deprecated) Snecko and Mystics",
-      "Shield and Spear"
     ]
   },
   "RunHistoryPathNodes": {
@@ -1071,21 +1016,54 @@
       "#bDug",
       "#bLifted %s/%s",
       "#yPurchased:",
-      "#rSpent ",
-      "#rTook ",
-      "#rLost ",
-      "%s Max HP",
-      "#bHealed ",
-      "#bGained ",
-      "#bIgnored ",
-      "%s HP",
-      "#bObtained %s",
-      "#rCursed #rwith #r%s",
-      "%s Damage",
-      "#bUpgraded %s",
-      "#bTransformed %s",
-      "#rLost %s",
-      "#bRecalled"
+	  "#rSpent ",
+	  "#rTook ",
+	  "#rLost ",
+	  "%s Max HP",
+	  "#bHealed ",
+	  "#bGained ",
+	  "#bIgnored ",
+	  "%s HP",
+	  "#bObtained %s",
+	  "#rCursed #rwith #r%s",
+	  "%s Damage",
+	  "#bUpgraded %s",
+	  "#bTransformed %s",
+	  "#rLost %s",
+	  "#bRecalled"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+     "Gang of Gremlins",
+	 "Large Slime",
+	 "Exordium Thugs",
+	 "Exordium Wildlife",
+	 "Swarm of Slimes",
+	 "Small Slimes",
+	 "City Muggers",
+	 "Three Byrds",
+	 "Four Byrds",
+	 "Triple Cultists",
+	 "Chosen Flock",
+	 "Sentry and Spheric Guardian",
+	 "Centurion and Mystic",
+	 "Parasite and Fungi Beast",
+	 "Masked Bandits Gang",
+	 "Colosseum Nobs",
+	 "Colosseum Slavers",
+	 "Three Shapes",
+	 "Jaw Worm Horde",
+	 "Four Shapes",
+	 "Spheric Guardian with Shapes",
+	 "Double Orb Walkers",
+	 "Donu and Deca",
+	 "Sentries",
+	 "Chosen and Cultist",
+	 "(Deprecated) Flame Bruiser",
+	 "(Deprecated) Slaver and Parasite",
+	 "(Deprecated) Snecko and Mystics",
+	 "Shield and Spear"
     ]
   },
   "RunHistoryScreen": {
@@ -1123,20 +1101,8 @@
       "Only Ascension",
       "Only Daily Challenge",
       "Seed: %s",
-      "Custom Seed: %s"
-    ]
-  },
-  "SaveSlot": {
-    "TEXT": [
-      "Playtime ",
-      "Empty Slot"
-    ]
-  },
-  "SaveSlotScreen": {
-    "TEXT": [
-      "Choose a Save Slot",
-      "Rename",
-      "Delete this Save"
+      "Custom Seed: %s",
+      "M/d/yyyy, h:mm a"
     ]
   },
   "SeedPanel": {
@@ -1145,7 +1111,8 @@
       "Enter a new Seed",
       "Confirm",
       "Cancel",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "*Achievements and Leaderboards are disabled if a custom Seed is used.",
+      "*Trophies and Leaderboards are disabled if a custom Seed is used."
     ]
   },
   "SettingsScreen": {
@@ -1161,6 +1128,11 @@
   "SetupAction": {
     "TEXT": [
       "put on top of your draw pile."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "put on bottom of your draw pile."
     ]
   },
   "ShopRoom": {
@@ -1298,6 +1270,33 @@
       "New Unlock!"
     ]
   },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed",
+      "Trophies and Leaderboards are off."
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot",
+      "Rename",
+      "Delete this Save"
+    ]
+  },
   "VictoryScreen": {
     "TEXT": [
       "Proceed",
@@ -1313,6 +1312,28 @@
       "Unspent Gold",
       "HP Bonus",
       "Victory!"
+      ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Ironclad Beta Card Art Unlocked!",
+      "The Silent Beta Card Art Unlocked!",
+      "Defect Beta Card Art Unlocked!",
+      "All Beta Card Art Unlocked!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " - Floor %s",
+      "Main Menu",
+      " (A%s)"
     ]
   }
 }

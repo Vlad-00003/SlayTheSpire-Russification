@@ -134,7 +134,7 @@
     "HEADER": "Перевод на польский",
     "NAMES": [
       "Перевод и координация:",
-      "Станислав «ST4H» Борковский (Stanis³aw «ST4H» Borkowski)",
+      "Станислав «ST4H» Борковский (Stanisław «ST4H» Borkowski)",
       "Оскар «volf3n» Новак (Oskar «volf3n» Nowak)",
       "Дополнительный перевод:",
       "Адриан «xeros» Ролка (Adrian «xeros» Rolka)",
@@ -143,11 +143,11 @@
       "Оскар «volf3n» Новак (Oskar «volf3n» Nowak)",
       "Предложения и отзывы:",
       "Каспер «Awokado» Бера (Kasper «Awokado» Beræ)",
-      "Павел «BASTIL» Калета (Pawe³ «BASTIL» Kaleta)",
-      "Гжегож «GregPL» Богуславский (Grzegorz «GregPL» Bogus³awski)",
+      "Павел «BASTIL» Калета (Paweł «BASTIL» Kaleta)",
+      "Гжегож «GregPL» Богуславский (Grzegorz «GregPL» Bogusławski)",
       "Эрвин «mateusz3010» Матис (Erwin «mateusz3010» Matys)",
       "«Mettie»",
-      "Рафал «SponTon83» Шишко (Rafa³ «SponTon83» Szyszko)"
+      "Рафал «SponTon83» Шишко (Rafał «SponTon83» Szyszko)"
     ]
   },
   "LOC_PTB": {
@@ -279,7 +279,11 @@
       "Эван Хауэлл (Evan Howell)",
       "Джастин Мюрес (Justin Myhres)",
       "robojumper",
-      "Тони «kiooeht» Мур (Tony «kiooeht» Moore)"
+      "Тони «kiooeht» Мур (Tony «kiooeht» Moore)",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
     ]
   },
   "TEST": {
@@ -330,15 +334,43 @@
     ]
   },
   "PORTING": {
-    "HEADER": "Портирование",
+    "HEADER": "Console and Mobile Ports",
     "NAMES": [
-      "Sickhead Games"
+      "Sickhead Games, LLC"
     ]
   },
   "PUBLISHING": {
-    "HEADER": "Переиздание",
+    "HEADER": "Humble Bundle",
     "NAMES": [
-      "Humble Bundle"
+      "GM:  Alan Patmore",
+      "CBO:  Steven Kovensky",
+      "VP, Business Development:  Eduardo Aparicio",
+      "Publishing Manager:  John Polson",
+      "Publishing Release:  Manager Evan Koepf",
+      "Publishing Brand Manager:  Connor Bridgeman",
+      "Business Development Director, Publishing:  Mai Kawaguchi",
+      "Senior Business Developer:  Thomas Glenn",
+      "Senior Business Developer:  Bob Mills",
+      "Business Developer:  Trisha Tabor",
+      "Business Developer:  Angel Lyons-Labate",
+      "Store Director:  Paul Herron",
+      "Director of Finance:  Eric Samuel",
+      "VP of Product:  Nate Muller",
+      "Director of Marketing:  Jeremie Vella",
+      "Marketing Manager:  Whitney Stutes",
+      "Marketing Growth Manager:  Francois du Toit",
+      "Ninja Support:  Jimmy Chi",
+      "Ninja Support:  Kasey Brounkowski",
+      "Ninja Support:  Kayla Fyfe",
+      "Ninja Support:  Patrick Monahan"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (официальный перевод):",
+      "Japanese Publishing Support:  Kakehashi Games",
+      "Japanese Localization:  Rie Ihara"
     ]
   }
 }

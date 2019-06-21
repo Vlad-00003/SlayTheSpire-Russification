@@ -53,24 +53,11 @@
       " turns, whenever you play an #yAttack, #yExhaust it."
     ]
   },
-  "BackAttack": {
-    "NAME": "Back Attack",
-    "DESCRIPTIONS": [
-      "Deals #b50% more damage as it is attacking you from behind."
-    ]
-  },
   "Barricade": {
     "NAME": "Barricade",
     "DESCRIPTIONS": [
       "#yBlock is not removed at the start of your turn.",
       "#yBlock is not removed at the start of its turn."
-    ]
-  },
-  "BeatOfDeath": {
-    "NAME": "Beat Of Death",
-    "DESCRIPTIONS": [
-      "Whenever you play a card, take #b",
-      " damage."
     ]
   },
   "Berserk": {
@@ -143,12 +130,6 @@
       " damage to ALL enemies."
     ]
   },
-  "Compulsive": {
-    "NAME": "Reactive",
-    "DESCRIPTIONS": [
-      "Upon receiving attack damage, changes its intent."
-    ]
-  },
   "Confusion": {
     "NAME": "Confusion",
     "DESCRIPTIONS": [
@@ -168,14 +149,6 @@
     "DESCRIPTIONS": [
       "At the end of your turn, take #b",
       " damage."
-    ]
-  },
-  "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
-    "DESCRIPTIONS": [
-      "On death, deal damage equal to its Max HP to ALL enemies.",
-      "On death, deal damage equal to its Max HP #b",
-      " times to ALL enemies."
     ]
   },
   "Corruption": {
@@ -343,14 +316,6 @@
       " #yPoison."
     ]
   },
-  "Equilibrium": {
-    "NAME": "Equilibrium",
-    "DESCRIPTIONS": [
-      "#yRetain your hand this turn.",
-      "#yRetain your hand for #b",
-      " turns."
-    ]
-  },
   "Evolve": {
     "NAME": "Evolve",
     "DESCRIPTIONS": [
@@ -374,14 +339,6 @@
       "Draw #b1 additional card next turn.",
       "Draw #b",
       " additional cards next turn."
-    ]
-  },
-  "Fading": {
-    "NAME": "Fading",
-    "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
     ]
   },
   "Feel No Pain": {
@@ -416,7 +373,7 @@
     "NAME": "Flight",
     "DESCRIPTIONS": [
       "Receives 50% less attack damage. Cancelled if dealt attack damage #b",
-      " times in one turn."
+	  " times in one turn."
     ]
   },
   "Focus": {
@@ -503,6 +460,21 @@
       "Reduce ALL damage taken and HP loss to #b1 this turn. #yIntangible is reapplied every other turn."
     ]
   },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Can only lose #b",
+	  " more HP this turn.",
+	  "Can no longer be harmed this turn."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage."
+    ]
+  },
   "IntangiblePlayer": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
@@ -513,14 +485,6 @@
     "NAME": "Inverted",
     "DESCRIPTIONS": [
       "Immune to damage. Whenever you gain #yBlock, loses that much HP."
-    ]
-  },
-  "Invincible": {
-    "NAME": "Invincible",
-    "DESCRIPTIONS": [
-      "Can only lose #b",
-      " more HP this turn.",
-      "Can no longer be harmed this turn."
     ]
   },
   "Juggernaut": {
@@ -638,12 +602,6 @@
     "NAME": "No Draw",
     "DESCRIPTIONS": [
       "You cannot draw cards this turn."
-    ]
-  },
-  "NoBlockPower": {
-    "NAME": "No Block",
-    "DESCRIPTIONS": [
-      "You cannot gain #yBlock from cards."
     ]
   },
   "Noxious Fumes": {
@@ -764,11 +722,11 @@
       " HP."
     ]
   },
-  "Repulse": {
+    "Repulse": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "",
-      ""
+    	"",
+    	""
     ]
   },
   "Retain Cards": {
@@ -833,13 +791,6 @@
     "DESCRIPTIONS": [
       "Whenever you play an #yAttack, take #b",
       " damage."
-    ]
-  },
-  "Shifting": {
-    "NAME": "Shifting",
-    "DESCRIPTIONS": [
-      "",
-      "Upon losing HP, loses that much #yStrength until the end of the turn."
     ]
   },
   "Shriek From Beyond": {
@@ -909,12 +860,6 @@
       "."
     ]
   },
-  "Surrounded": {
-    "NAME": "Surrounded",
-    "DESCRIPTIONS": [
-      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
-    ]
-  },
   "TheBomb": {
     "NAME": "The Bomb",
     "DESCRIPTIONS": [
@@ -949,13 +894,6 @@
       "Whenever you play #b",
       " cards, ends your turn and gains #b",
       " #yStrength."
-    ]
-  },
-  "TimeMazePower": {
-    "NAME": "Time Maze",
-    "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
     ]
   },
   "Tools Of The Trade": {
@@ -1010,6 +948,69 @@
     "DESCRIPTIONS": [
       "At the end of your turn, lose #b",
       " #yDexterity."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "#yRetain your hand this turn.",
+      "#yRetain your hand for #b",
+      " turns."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "",
+      "Upon losing HP, loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "No Block",
+    "DESCRIPTIONS": [
+      "You cannot gain #yBlock from cards."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": 
+    [
+      "On death, deal damage equal to its Max HP to ALL enemies.",
+      "On death, deal damage equal to its Max HP #b",
+      " times to ALL enemies."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Reactive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its intent."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
     ]
   }
 }

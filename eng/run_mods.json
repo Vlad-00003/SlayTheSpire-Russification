@@ -7,49 +7,33 @@
     "NAME": "Binary",
     "DESCRIPTION": "Card rewards contain only 2 cards."
   },
-  "Blight Chests": {
-    "NAME": "Blight Chests",
-    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
-  },
-  "Blue Cards": {
-    "NAME": "Blue Cards",
-    "DESCRIPTION": "Blue cards now appear in rewards and shops."
-  },
   "Brewmaster": {
     "NAME": "[DEPRECATED] Brewmaster",
     "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
-  },
-  "Careless": {
-    "NAME": "Careless",
-    "DESCRIPTION": "At the start of every turn, discard the top card of your draw pile."
-  },
-  "Chimera": {
-    "NAME": "Chimera",
-    "DESCRIPTION": "Your starting deck is a fusion of 3 characters."
-  },
-  "Colorless Cards": {
-    "NAME": "Colorless Cards",
-    "DESCRIPTION": "Colorless cards now appear in rewards."
-  },
-  "ControlledChaos": {
-    "NAME": "Controlled Chaos",
-    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
   },
   "Cursed Run": {
     "NAME": "Cursed Run",
     "DESCRIPTION": "Whenever you defeat a Boss, become Cursed. Your starting relic is replaced with Cursed Key, Darkstone Periapt, and Du-Vu Doll."
   },
-  "Daily Mods": {
-    "NAME": "Daily Mods",
-    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
-  },
-  "DeadlyEvents": {
-    "NAME": "Deadly Events",
-    "DESCRIPTION": "? rooms can now contain Elites but are also more likely to contain Treasure rooms."
-  },
   "Diverse": {
     "NAME": "Diverse",
     "DESCRIPTION": "Cards are not restricted by your character."
+  },
+  "Red Cards": {
+    "NAME": "Red Cards",
+    "DESCRIPTION": "Red cards now appear in rewards and shops."
+  },
+  "Green Cards": {
+    "NAME": "Green Cards",
+    "DESCRIPTION": "Green cards now appear in rewards and shops."
+  },
+  "Blue Cards": {
+    "NAME": "Blue Cards",
+    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+  },
+  "Colorless Cards": {
+    "NAME": "Colorless Cards",
+    "DESCRIPTION": "Colorless cards now appear in rewards."
   },
   "Draft": {
     "NAME": "Draft",
@@ -63,13 +47,13 @@
     "NAME": "Endless",
     "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
   },
-  "Flight": {
-    "NAME": "Flight",
-    "DESCRIPTION": "You may ignore paths when choosing the next room to travel to."
+  "Blight Chests": {
+    "NAME": "Blight Chests",
+    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
   },
-  "Green Cards": {
-    "NAME": "Green Cards",
-    "DESCRIPTION": "Green cards now appear in rewards and shops."
+  "Stunted Growth": {
+    "NAME": "Stunted Growth",
+    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
   },
   "Heirloom": {
     "NAME": "Heirloom",
@@ -87,10 +71,6 @@
     "NAME": "Insanity",
     "DESCRIPTION": "Start with a random deck of 50 cards."
   },
-  "IntelligentEnemies": {
-    "NAME": "Intelligent Enemies",
-    "DESCRIPTION": "All enemies have more challenging movesets and abilities."
-  },
   "Lethality": {
     "NAME": "Lethality",
     "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
@@ -99,17 +79,9 @@
     "NAME": "Midas",
     "DESCRIPTION": "Enemies drop 200% more gold, but you can no longer Smith at Rest Sites."
   },
-  "MonsterHunter": {
-    "NAME": "[DEPRECATED] Colossus",
-    "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
-  },
   "My True Form": {
     "NAME": "My True Form",
     "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
-  },
-  "NeowTime": {
-    "NAME": "Neow Time",
-    "DESCRIPTION": "Receive 3 blessings and 1 blight from Neow."
   },
   "Night Terrors": {
     "NAME": "Night Terrors",
@@ -123,14 +95,6 @@
     "NAME": "Praise Snecko",
     "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
   },
-  "Red Cards": {
-    "NAME": "Red Cards",
-    "DESCRIPTION": "Red cards now appear in rewards and shops."
-  },
-  "SealedDeck": {
-    "NAME": "Sealed Deck",
-    "DESCRIPTION": "Craft a deck from 30 random cards."
-  },
   "Shiny": {
     "NAME": "Shiny",
     "DESCRIPTION": "Starting deck is replaced with 1 of every rare card."
@@ -143,17 +107,9 @@
     "NAME": "Starter Deck",
     "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
   },
-  "Stunted Growth": {
-    "NAME": "Stunted Growth",
-    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
-  },
   "Terminal": {
     "NAME": "Terminal",
     "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
-  },
-  "The Ending": {
-    "NAME": "The Ending",
-    "DESCRIPTION": "Enables the Final Act."
   },
   "Time Dilation": {
     "NAME": "Time Dilation",
@@ -166,5 +122,49 @@
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "Normal Enemies drop relics instead of cards."
+  },
+  "SealedDeck": {
+    "NAME": "Sealed Deck",
+    "DESCRIPTION": "Craft a deck from 30 random cards."
+  },
+  "Flight": {
+    "NAME": "Flight",
+    "DESCRIPTION": "You may ignore paths when choosing the next room to travel to."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+  },
+  "NeowTime": {
+    "NAME": "Neow Time",
+    "DESCRIPTION": "Receive 3 blessings and 1 blight from Neow."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Intelligent Enemies",
+    "DESCRIPTION": "All enemies have more challenging movesets and abilities."
+  },
+  "Careless": {
+    "NAME": "Careless",
+    "DESCRIPTION": "At the start of every turn, discard the top card of your draw pile."
+  },
+  "ControlledChaos": {
+    "NAME": "Controlled Chaos",
+    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
+  },
+  "MonsterHunter": {
+    "NAME": "[DEPRECATED] Colossus",
+    "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
+  },
+  "DeadlyEvents": {
+    "NAME": "Deadly Events",
+    "DESCRIPTION": "? rooms can now contain Elites but are also more likely to contain Treasure rooms."
+  },
+  "Daily Mods": {
+    "NAME": "Daily Mods",
+    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
+  },
+  "The Ending": {
+    "NAME": "The Ending",
+    "DESCRIPTION": "Enables the Final Act."
   }
 }

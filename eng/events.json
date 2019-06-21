@@ -31,8 +31,8 @@
       " Gold.",
       "[Rob] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rShame.",
       "[Leave]",
-      "",
-      ""
+	  "",
+	  ""
     ]
   },
   "Back to Basics": {
@@ -105,22 +105,6 @@
       "Select a Card to Offer."
     ]
   },
-  "Colosseum": {
-    "NAME": "The Colosseum",
-    "DESCRIPTIONS": [
-      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
-      "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
-      " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
-      "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
-      "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
-    ],
-    "OPTIONS": [
-      "[Continue]",
-      "[Fight]",
-      "[COWARDICE] Escape.",
-      "[VICTORY] A powerful fight with many rewards."
-    ]
-  },
   "Cursed Tome": {
     "NAME": "Cursed Tome",
     "DESCRIPTIONS": [
@@ -167,50 +151,21 @@
       "%: #rmonster #rreturns."
     ]
   },
-  "Designer": {
-    "NAME": "Designer In-Spire",
-    "DESCRIPTIONS": [
-      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
-      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
-      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
-      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
-    ],
-    "OPTIONS": [
-      "[Continue]",
-      "[Adjustments] #rLose #r",
-      "[Clean Up] #rLose #r",
-      "[Full Service] #rLose #r",
-      "[Punch] #rLose #r",
-      " #rHP.",
-      " #rGold. ",
-      "#gUpgrade #g",
-      " #grandom #gcards.",
-      "#gUpgrade #ga #gcard.",
-      "#gRemove #ga #gcard.",
-      "#gTransform #g",
-      " #gcards.",
-      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
-      "[Leave]",
-      "Choose a Card to Upgrade",
-      "Choose 2 Cards to Transform",
-      "Choose a Card to Remove"
-    ]
-  },
   "Drug Dealer": {
     "NAME": "Augmenter",
     "DESCRIPTIONS": [
       "A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish.\" NL NL ~\"Whad'ya~ ~say?\"~",
-      "~\"Excellent.\"~ NL The man hands over a dangerous looking syringe filled with a #b~glowing~ #b~liquid~ before skulking off into a shadowy alleyway.",
+	  "~\"Excellent.\"~ NL The man hands over a dangerous looking syringe filled with a #b~glowing~ #b~liquid~ before skulking off into a shadowy alleyway.",
       "~\"Superb.\"~ NL The man injects you with three unknown substances and pulls out a notepad. As you begin to feel light-headed, he starts to frantically write down notes. NL Losing track of time completely, by the time you regain your senses, the shady character has disappeared.",
       "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
     ],
     "OPTIONS": [
       "[Test J.A.X.] #gGet #gJAXXED.",
-      "[Become Test Subject] #gTransform #g2 #gcards.",
-      "[Ingest Mutagens] #gObtain #ga #gspecial #grelic.",
-      "[Leave]",
-      "[Locked] Requires: 2 or more cards in deck.",
-      "Select Cards to Transform."
+	  "[Become Test Subject] #gTransform #g2 #gcards.",
+	  "[Ingest Mutagens] #gObtain #ga #gspecial #grelic.",
+	  "[Leave]",
+	  "[Locked] Requires: 2 or more cards in deck.",
+	  "Select Cards to Transform."
     ]
   },
   "Duplicator": {
@@ -226,24 +181,6 @@
       "Select a Card to Duplicate."
     ]
   },
-  "FaceTrader": {
-    "NAME": "Face Trader",
-    "DESCRIPTIONS": [
-      "You walk by an eerie statue holding several masks... NL Something behind you softly whispers, NL ~\"Stop.\"~",
-      "You swerve around to face the statue which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
-      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
-      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
-      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~Stop.\"~ NL NL This was probably the right call."
-    ],
-    "OPTIONS": [
-      "[Touch] #rLose #r",
-      " #gGold.",
-      "[Trade] #g50%: #gGood #gFace. #r50%: #rBad #rFace.",
-      "[Leave]",
-      "[Continue]",
-      " #rHP, #ggain #g"
-    ]
-  },
   "Falling": {
     "NAME": "Falling",
     "DESCRIPTIONS": [
@@ -252,7 +189,7 @@
       "You land with extreme grace before continuing on.",
       "Harnessing and expending some of your raw power, you manage to land unhurt.",
       "You are able to latch on to the wall, and manage to make a short hop onto another stable platform.",
-      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
+	  "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Continue]",
@@ -263,7 +200,7 @@
       "[Strike] #rLose ",
       "[Locked] Requires: Attack Card",
       "[Leave]",
-      "[Land] "
+	  "[Land] "
     ]
   },
   "Forgotten Altar": {
@@ -307,7 +244,7 @@
     ],
     "OPTIONS": [
       "[Accept] #gReceive #g5 Apparition. #rLose #r",
-      "% #rMax #rHP.",
+      " #rMax #rHP.",
       "[Refuse]",
       "[Accept] #gReceive #g3 Apparition. #rLose #r",
       "",
@@ -466,21 +403,6 @@
       "Remaining Attempts: #y"
     ]
   },
-  "MindBloom": {
-    "NAME": "Mind Bloom",
-    "DESCRIPTIONS": [
-      "While walking and traversing through the chaos of the Spire, your thoughts suddenly begin to feel very... #p~real...~ NL NL Imaginings of #rmonsters and #yriches begin to manifest themselves into reality. NL The sensation is quickly fleeting. What do you do?",
-      "Can it really be this easy?",
-      "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
-    ],
-    "OPTIONS": [
-      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gObtain #ga #gRare #gRelic.",
-      "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
-      "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
-    ]
-  },
   "Mushrooms": {
     "NAME": "Mushrooms",
     "DESCRIPTIONS": [
@@ -519,41 +441,6 @@
     "OPTIONS": [
       "[Offer: ",
       "] #rLose #rthis #rrelic. #gObtain #ga #gspecial #grelic.",
-      "[Leave]"
-    ]
-  },
-  "Nest": {
-    "NAME": "The Nest",
-    "DESCRIPTIONS": [
-      "A long line of #b~hooded~ #b~figures~ can be seen entering NL an #punassuming #pcathedral.",
-      "Naturally, you join the line and are quickly surrounded by #rCultists! NL They ignore you as they gleefully @chant@ and ~wave~ their weapons around. NL NL #r@\"MURDER!!@ #r@MURDER@ #r@MURDER!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MURDER!@ #r@MURDER@ #r@MUURDER!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You eye a #yDonation #yBox...",
-      "You decide to stay in line (out of fear) to see what will happen. NL NL Eventually, you are face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger. Like the others before you, you slash your forearm and let the blood drip into a misshapen bowl. NL NL The cultists @chant@ and @holler@ for you! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You chant, too. Why not?",
-      "They didn't even notice.",
-      "",
-      ""
-    ],
-    "OPTIONS": [
-      "[Stay in Line] #gObtain Ritual Dagger. #rLose #r",
-      " #rHP.",
-      "[Smash and Grab] #gObtain #g",
-      " #gGold.",
-      "[Leave]",
-      "[Continue]"
-    ]
-  },
-  "NoteForYourself": {
-    "NAME": "A Note For Yourself",
-    "DESCRIPTIONS": [
-      "You spot a loose brick within a pillar that catches your eye.",
-      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
-      "Choose a Card to Store.",
-      "What is going on?"
-    ],
-    "OPTIONS": [
-      "[Continue]",
-      "[Take and Give] #gReceive ",
-      " #gand #gStore #ga #gCard.",
-      "[Ignore]",
       "[Leave]"
     ]
   },
@@ -653,6 +540,7 @@
       " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
       " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
       " NL The heart #gretreats upwards! A large door is revealed in its place."
+	  
     ],
     "OPTIONS": [
       "[Continue]",
@@ -837,34 +725,11 @@
     ],
     "OPTIONS": [
       "[Accept] #gRemove #gall Strikes. #gReceive #g5 Bites. #rLose #r",
-      "% #rMax #rHP.",
+      " #rMax #rHP.",
       "[Refuse]",
       "[Lose ",
       "] #gRemove #gall Strikes. #gReceive #g5 Bites.",
       "[Leave]"
-    ]
-  },
-  "WeMeetAgain": {
-    "NAME": "We Meet Again!",
-    "DESCRIPTIONS": [
-      "\"We meet again!\" NL A cheery disheveled fellow approaches you gleefully. You do not know this man. NL NL \"It's me, #yRanwid! Have any goods for me today? The usual? A fella like me can't make it alone, you know?\" NL You eye him suspiciously and consider your options...",
-      "\"Exquisite! Was feeling parched.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL He downs the potion in one go and lets out a satisfied @burp.@",
-      "\"Magnificent! This will be quite handy if I run into those #rmask #rwearing #rhoodlums again.\"",
-      "\"Exemplary! I shall study this further in my chambers.\"",
-      "\" @Aaaaagghh!!@ What a jerk you are sometimes!\" NL He runs away.",
-      "  NL NL He rummages around his various pockets... NL \"Here, look what I've got for you today! Take it take it!\""
-    ],
-    "OPTIONS": [
-      "[Give Potion] #rLose ",
-      "[Locked] Requires: Potion.",
-      "[Give Gold] #rLose #r",
-      "[Locked] Requires: At least 50 Gold.",
-      "[Give Card] #rLose ",
-      "[Locked] Requires: Card.",
-      ". #gObtain #ga #gRelic.",
-      "[Attack]",
-      "[Leave]",
-      " #rGold"
     ]
   },
   "Wheel of Change": {
@@ -899,7 +764,7 @@
       "Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. NL NL That's what the #p~voices~ say anyway, and why would they lie?",
       "Something in you cracks. NL NL Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a #p~\"new\"~ perspective. NL Things do seem to make so much more sense now.",
       "As you take a moment to stop and carefully observe the undulating landscape around you, the hint of a pattern starts to emerge from within the randomness. Whenever the demented noises begin to interrupt your thoughts, you struggle through the mental pain and ignore it. NL NL Eventually you successfully map out a path forward, and continue on, now resistant to the nefarious nature of this alien place.",
-      "You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
+	  "You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
     ],
     "OPTIONS": [
       "...",
@@ -908,8 +773,8 @@
       "[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
       "[Leave]",
       " #gHP.",
-      "[Retrace Your Steps] #rLose #r",
-      " #rMax #rHP."
+	  "[Retrace Your Steps] #rLose #r",
+	  " #rMax #rHP."
     ]
   },
   "World of Goop": {
@@ -926,6 +791,142 @@
       "[Leave It] #rLose #r",
       " #rGold.",
       "[Leave]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Mind Bloom",
+    "DESCRIPTIONS": [
+      "While walking and traversing through the chaos of the Spire, your thoughts suddenly begin to feel very... #p~real...~ NL NL Imaginings of #rmonsters and #yriches begin to manifest themselves into reality. NL The sensation is quickly fleeting. What do you do?",
+      "Can it really be this easy?",
+      "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
+    ],
+    "OPTIONS": [
+      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gObtain #ga #gRare #gRelic.",  
+      "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
+      "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
+      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
+      "[Leave]"
+    ]
+  },
+  "Nest": {
+    "NAME": "The Nest",
+    "DESCRIPTIONS": [
+      "A long line of #b~hooded~ #b~figures~ can be seen entering NL an #punassuming #pcathedral.",
+      "Naturally, you join the line and are quickly surrounded by #rCultists! NL They ignore you as they gleefully @chant@ and ~wave~ their weapons around. NL NL #r@\"MURDER!!@ #r@MURDER@ #r@MURDER!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MURDER!@ #r@MURDER@ #r@MUURDER!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You eye a #yDonation #yBox...",
+      "You decide to stay in line (out of fear) to see what will happen. NL NL Eventually, you are face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger. Like the others before you, you slash your forearm and let the blood drip into a misshapen bowl. NL NL The cultists @chant@ and @holler@ for you! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You chant, too. Why not?",
+      "They didn't even notice.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Stay in Line] #gObtain Ritual Dagger. #rLose #r",
+      " #rHP.",
+      "[Smash and Grab] #gObtain #g",
+	  " #gGold.",
+      "[Leave]",
+      "[Continue]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "You walk by an eerie statue holding several masks... NL Something behind you softly whispers, NL ~\"Stop.\"~",
+      "You swerve around to face the statue which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~Stop.\"~ NL NL This was probably the right call."
+    ],
+    "OPTIONS": [
+      "[Touch] #rLose #r",
+      " #gGold.",
+      "[Trade] #g50%: #gGood #gFace. #r50%: #rBad #rFace.",
+      "[Leave]",
+	  "[Continue]",
+	  " #rHP, #ggain #g"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "A Note For Yourself",
+    "DESCRIPTIONS": [
+      "You spot a loose brick within a pillar that catches your eye.",
+      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
+      "Choose a Card to Store.",
+      "What is going on?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Take and Give] #gReceive ",
+      " #gand #gStore #ga #gCard.",
+      "[Ignore]",
+      "[Leave]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "We Meet Again!",
+    "DESCRIPTIONS": [
+      "\"We meet again!\" NL A cheery disheveled fellow approaches you gleefully. You do not know this man. NL NL \"It's me, #yRanwid! Have any goods for me today? The usual? A fella like me can't make it alone, you know?\" NL You eye him suspiciously and consider your options...",
+      "\"Exquisite! Was feeling parched.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL He downs the potion in one go and lets out a satisfied @burp.@",
+      "\"Magnificent! This will be quite handy if I run into those #rmask #rwearing #rhoodlums again.\"",
+      "\"Exemplary! I shall study this further in my chambers.\"",
+      "\" @Aaaaagghh!!@ What a jerk you are sometimes!\" NL He runs away.",
+      "  NL NL He rummages around his various pockets... NL \"Here, look what I've got for you today! Take it take it!\""
+    ],
+    "OPTIONS": [
+      "[Give Potion] #rLose ",
+      "[Locked] Requires: Potion.",
+      "[Give Gold] #rLose #r",
+      "[Locked] Requires: At least 50 Gold.",
+      "[Give Card] #rLose ",
+      "[Locked] Requires: Card.",
+      ". #gObtain #ga #gRelic.",
+      "[Attack]",
+      "[Leave]",
+      " #rGold"
+    ]
+  },
+  "Designer": {
+    "NAME": "Designer In-Spire",
+    "DESCRIPTIONS": [
+      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
+      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
+      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
+      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Adjustments] #rLose #r",
+      "[Clean Up] #rLose #r",
+      "[Full Service] #rLose #r",
+      "[Punch] #rLose #r",
+      " #rHP.",
+      " #rGold. ",
+      "#gUpgrade #g",
+      " #grandom #gcards.",
+      "#gUpgrade #ga #gcard.",
+      "#gRemove #ga #gcard.",
+      "#gTransform #g",
+      " #gcards.",
+      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
+      "[Leave]",
+      "Choose a Card to Upgrade",
+      "Choose 2 Cards to Transform",
+      "Choose a Card to Remove"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "The Colosseum",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
+	  "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
+	  " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
+	  "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
+	  "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+	  "[Fight]",
+	  "[COWARDICE] Escape.",
+	  "[VICTORY] A powerful fight with many rewards."
     ]
   }
 }

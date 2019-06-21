@@ -171,15 +171,6 @@
       "~My~ ~powers~ NL ~were~ ~matched...~"
     ]
   },
-  "Dagger": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Dagger",
-    "DIALOG": [
-      ""
-    ]
-  },
   "Darkling": {
     "MOVES": [
       "Chomp! Chomp!"
@@ -225,11 +216,29 @@
       ""
     ]
   },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dagger",
+    "DIALOG": [
+      ""
+    ]
+  },
   "FlameBruiser": {
     "MOVES": [
       ""
     ],
     "NAME": "Flame Bruiser",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reptomancer",
     "DIALOG": [
       ""
     ]
@@ -465,15 +474,6 @@
       ""
     ]
   },
-  "Reptomancer": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Reptomancer",
-    "DIALOG": [
-      ""
-    ]
-  },
   "Repulsor": {
     "MOVES": [
       ""
@@ -615,21 +615,6 @@
       ""
     ]
   },
-  "SpireShield": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Spire Shield",
-    "DIALOG": [
-      ""
-    ]
-  },
-  "SpireSpear": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Spire Spear"
-  },
   "TheCollector": {
     "MOVES": [
       ""
@@ -687,8 +672,23 @@
     ],
     "NAME": "Transient",
     "DIALOG": [
-      ""
+	  ""
     ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Shield",
+    "DIALOG": [
+	  ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Spear"
   },
   "WrithingMass": {
     "MOVES": [
@@ -696,7 +696,7 @@
     ],
     "NAME": "Writhing Mass",
     "DIALOG": [
-      ""
+	  ""
     ]
   }
 }
