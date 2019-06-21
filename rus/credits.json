@@ -342,35 +342,35 @@
   "PUBLISHING": {
     "HEADER": "Humble Bundle",
     "NAMES": [
-      "GM:  Alan Patmore",
-      "CBO:  Steven Kovensky",
-      "VP, Business Development:  Eduardo Aparicio",
-      "Publishing Manager:  John Polson",
-      "Publishing Release:  Manager Evan Koepf",
-      "Publishing Brand Manager:  Connor Bridgeman",
-      "Business Development Director, Publishing:  Mai Kawaguchi",
-      "Senior Business Developer:  Thomas Glenn",
-      "Senior Business Developer:  Bob Mills",
-      "Business Developer:  Trisha Tabor",
-      "Business Developer:  Angel Lyons-Labate",
-      "Store Director:  Paul Herron",
-      "Director of Finance:  Eric Samuel",
-      "VP of Product:  Nate Muller",
-      "Director of Marketing:  Jeremie Vella",
-      "Marketing Manager:  Whitney Stutes",
-      "Marketing Growth Manager:  Francois du Toit",
-      "Ninja Support:  Jimmy Chi",
-      "Ninja Support:  Kasey Brounkowski",
-      "Ninja Support:  Kayla Fyfe",
-      "Ninja Support:  Patrick Monahan"
+      "Генеральный директор:  Алан Пэтмор (Alan Patmore)",
+      "Исполнительный директор:  Стивен Ковенски (Steven Kovensky)",
+      "Вице-президент по развитию бизнеса:  Эдуардо Апарисио (Eduardo Aparicio)",
+      "Менеджер по изданию:  Джон Полсон (John Polson)",
+      "Менеджер по релизу издания: Эван Кёпф (Evan Koepf)",
+      "Бренд-менеджер издания:  Коннор Бриджмен (Connor Bridgeman)",
+      "Директор по развитию бизнеса, Издание:  Маи Кавагути (Mai Kawaguchi)",
+      "Главный специалист по развитию бизнеса:  Томас Гленн (Thomas Glenn)",
+      "Главный специалист по развитию бизнеса:  Боб Миллс (Bob Mills)",
+      "Специалист по развитию бизнеса:  Триша Табор (Trisha Tabor)",
+      "Специалист по развитию бизнеса:  Энджел Лион-Лабате (Angel Lyons-Labate)",
+      "Директор магазина:  Пол Херрон (Paul Herron)",
+      "Финансовый директор:  Эрик Сэмюэл (Eric Samuel)",
+      "Вице-президент по производству: Нейт Мюллер (Nate Muller)",
+      "Директор по маркетинга:  Жереми Велла (Jeremie Vella)",
+      "Менеджер по маркетингу:  Уитни Стьютс (Whitney Stutes)",
+      "Менеджер по развитию маркетинга:  Франсуа дю Туа (Francois du Toit)",
+      "Служба поддержки:  Джимми Чи (Jimmy Chi)",
+      "Служба поддержки:  Кейси Бронковски (Kasey Brounkowski)",
+      "Служба поддержки:  Кайла Файф (Kayla Fyfe)",
+      "Служба поддержки:  Патрик Монахан (Patrick Monahan)"
     ]
   },
   "KAKEHASHI": {
     "HEADER": "Kakehashi Games",
     "NAMES": [
       "Kakehashi Games (официальный перевод):",
-      "Japanese Publishing Support:  Kakehashi Games",
-      "Japanese Localization:  Rie Ihara"
+      "Поддержка японского издания:  Kakehashi Games",
+      "Японская локализация:  Риэ Ихара (Rie Ihara)"
     ]
   }
 }
