@@ -73,8 +73,8 @@
   "FairyPotion": {
     "NAME": "Фея в бутылке",
     "DESCRIPTIONS": [
-      "Вместо того, чтобы умереть, вы восполняете #b10% от Макс. ОЗ и сбрасываете это зелье.",
-      "% of your Max HP instead and discard this potion."
+      "Вместо того, чтобы умереть, вы исцеляетесь до",
+      "% от Макс. ОЗ и сбрасываете это зелье."
     ]
   },
   "FearPotion": {
@@ -220,15 +220,15 @@
     ]
   },
   "DuplicationPotion": {
-    "NAME": "Duplication Potion",
+    "NAME": "Зелье удвоения",
     "DESCRIPTIONS": [
-      "This turn, your next card is played twice."
+      "Следующая карта разыгранная на данном ходу, разыгрывается дваждый."
     ]
   },
   "StancePotion": {
-    "NAME": "Stance Potion",
+    "NAME": "Зелье стойки",
     "DESCRIPTIONS": [
-      "Enter #yCalm or #yWrath."
+      "Перейти в #yСпокойствие или #yГнев."
     ]
   }
 }

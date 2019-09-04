@@ -395,7 +395,7 @@
     "NAME": "Огненное дыхание",
     "DESCRIPTIONS": [
       "Наносит по #b",
-      " урону за каждую разыгранную в этом ходу #yАтаку ВСЕМ врагам в конце вашего хода."
+      " урона за каждый взятый #yСтатус или #yПроклятие."
     ]
   },
   "Flame Barrier": {
@@ -1013,104 +1013,104 @@
     ]
   },
   "FreeToPlayPower": {
-    "NAME": "Joy",
+    "NAME": "Счастье",
     "DESCRIPTIONS": [
-      "Ignore energy costs on the next card you play this turn.",
-      "Ignore energy costs on the next #b",
-      " cards you play this turn."
+      "Вы игнорируете стоимость следующей карты разыгрываемой на данном ходу.",
+      "Вы игнорируете стоимость следующих #b",
+      " карт разыгрываемых на данном ходу."
     ]
   },
   "EndTurnDeath": {
-    "NAME": "Blasphemer",
+    "NAME": "Святотатец",
     "DESCRIPTIONS": [
-      "At the start of your turn, die."
+      "В начале вашего хода, вы умрёте."
     ]
   },
   "Retribution": {
-    "NAME": "Retribution",
+    "NAME": "Возмездие",
     "DESCRIPTIONS": [
-      "Whenever you lose HP, gain #b",
-      " #yVigor."
+      "Когда вы теряете ОЗ, даёт #b",
+      " #yБодрости."
     ]
   },
   "Mastery": {
-    "NAME": "Mastery",
+    "NAME": "Искусность",
     "DESCRIPTIONS": [
-      "Whenever you attempt to switch Stances to your current Stance, gain #b",
+      "НЕАКТУАЛЬНО",
       " [B]."
     ]
   },
   "AngelForm": {
-    "NAME": "Deva",
+    "NAME": "Дэва",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yPlated #yArmor."
+      "В конце вашего хода, даёт #b",
+      " #yПанциря."
     ]
   },
   "DevotionPower": {
-    "NAME": "Devotion",
+    "NAME": "Преданность",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
-      " #yMantra."
+      "В начале вашего хода, даёт #b",
+      " #yМантры."
     ]
   },
   "Vault": {
-    "NAME": "Vault",
+    "NAME": "Кульбит",
     "DESCRIPTIONS": [
-      "Receives #b",
-      " damage at the start of your next turn."
+      "Получит #b",
+      " урона в начале следующего вашего хода."
     ]
   },
   "Vigor": {
-    "NAME": "Vigor",
+    "NAME": "Бодрость",
     "DESCRIPTIONS": [
-      "Your next Attack deals #b",
-      " additional damage."
+      "Следующая атака наносит на #b",
+      " больше урона."
     ]
   },
   "StrikeUp": {
-    "NAME": "Strike Up",
+    "NAME": "Усиленный удар",
     "DESCRIPTIONS": [
-      "Cards containing #yStrike deal #b",
-      " additional damage."
+      "Карты содержащие слово #yУдар наносят на #b",
+      " больше урона."
     ]
   },
   "OmegaPower": {
-    "NAME": "Omega Power",
+    "NAME": "Омега мощь",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal ",
-      " damage to ALL enemies."
+      "В начале вашего хода, наносит ",
+      " урона ВСЕМ противникам."
     ]
   },
   "Nirvana": {
-    "NAME": "Nirvana",
+    "NAME": "Нирвана",
     "DESCRIPTIONS": [
-      "Whenever you play a card, #yUpgrade it."
+      "Когда вы разыгрываете карту, #yУлучшите её."
     ]
   },
   "EmotionalTurmoilPower": {
-    "NAME": "Emotional Turmoil",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
       "At the start of your turn, enter a new random basic stance."
     ]
   },
   "Collect": {
-    "NAME": "Collect",
+    "NAME": "Вобрать",
     "DESCRIPTIONS": [
-      "At the start of your next turn, gain [B] [B] .",
-      "At the start of your next #b",
-      " turns, gain [B] [B] ."
+      "В начале следующего вашего хода, даёт [W] [W] .",
+      "В начале следующих #b",
+      " ходов, даёт [W] [W] ."
     ]
   },
   "BattleHymn": {
-    "NAME": "Battle Hymn",
+    "NAME": "Псалом битвы",
     "DESCRIPTIONS": [
-      "The first card you draw each turn has its cost reduced by #b",
-      " that turn."
+      "Стоимость первой карты взятой за ход снижается на #b",
+      " ."
     ]
   },
   "FlowPower": {
-    "NAME": "FlowPower",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
       "When you play an Attack, gain #b",
       " temporary #yStrength. When you play a Skill, gain #b,",
@@ -1118,111 +1118,111 @@
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Master Reality",
+    "NAME": "Подчинить реальность",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
+      "At the start of your turn, add #b????????",
       "s into your hand.",
       " into your hand."
     ]
   },
   "Grounded": {
-    "NAME": "Grounded",
+    "NAME": "Приземлённость",
     "DESCRIPTIONS": [
-      "Whenever you play a #ySkill, enter #yCalm."
+      "Когда вы разыгрываете #yНавык, вы переходите в #Спокойствие."
     ]
   },
   "CannotChangeStancePower": {
-    "NAME": "Cannot Change Stance",
+    "NAME": "Фиксированная стойка",
     "DESCRIPTIONS": [
-      "Cannot change your stance this turn."
+      "Вы не можете сменить стойку на этом ходу."
     ]
   },
   "Controlled": {
-    "NAME": "Controlled",
+    "NAME": "Самоконтроль",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, gain #b",
-      " #yBlock."
+      "При каждой смене #yСтойки, даёт #b",
+      " #yЗащиты."
     ]
   },
   "Condense": {
-    "NAME": "Condense",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
       "You cannot take more than #b",
       " from any attack."
     ]
   },
   "WireheadingPower": {
-    "NAME": "Wireheading",
+    "NAME": "Глубокое подключение",
     "DESCRIPTIONS": [
-      "At the end of your turn, #yScry "
+      "В конце вашего хода, #yПрозрение "
     ]
   },
   "AlwaysMad": {
-    "NAME": "Always Mad",
+    "NAME": "Полное безумие",
     "DESCRIPTIONS": [
-      "No longer receive double damage while in #yWrath."
+      "Нахождение в #yГневе более не увеличивает получаемый урон."
     ]
   },
   "Mantra": {
-    "NAME": "Mantra",
+    "NAME": "Мантра",
     "DESCRIPTIONS": [
-      "When you obtain #b",
-      " #yMantra, enter #yDivinity."
+      "Когда вы накапливаете #b",
+      " #yМантры, вы переходите в #yБожественность."
     ]
   },
   "EstablishmentPower": {
-    "NAME": "Establishment",
+    "NAME": "_-----",
     "DESCRIPTIONS": [
-      "Whenever a card is #yRetained, lower its cost by #b"
+      "Когда карта #yОставляется, её стоимость снижается на #b"
     ]
   },
   "Serenity": {
-    "NAME": "Serenity",
+    "NAME": "Безмятежность",
     "DESCRIPTIONS": [
-      "While you are in #yCalm, HP loss is reduced by #b"
+      "Пока вы в #yСпокойствии, потери ОЗ снижены на #b"
     ]
   },
   "FreeAttackPower": {
-    "NAME": "Free Attack Power",
+    "NAME": "Бесплатная атака",
     "DESCRIPTIONS": [
-      "Ignore energy cost on the next #yAttack you play.",
-      "Ignore energy cost on the next #b",
-      " #yAttacks you play."
+      "Следующая #yАтака разыгрывается бесплатно.",
+      "Следующие #b",
+      " #yАтак разыгрываются бесплатно."
     ]
   },
   "HotHot": {
-    "NAME": "Hot hot",
+    "NAME": "ГОРИТ ГОРИТ",
     "DESCRIPTIONS": [
-      "While you are in #yWrath, deal #b",
-      " damage back whenever you receive attack damage."
+      "Пока вы в #yГневе, вы наносите #b",
+      " урона в ответ на получение урона от атак."
     ]
   },
   "NoSkills": {
-    "NAME": "No Skills",
+    "NAME": "Запрет Навыков",
     "DESCRIPTIONS": [
-      "You cannot play #ySkills this turn."
+      "Вы не можете разыгрывать #yНавыки на этом ходу."
     ]
   },
   "DuplicationPower": {
-    "NAME": "Duplication",
+    "NAME": "Удвоение",
     "DESCRIPTIONS": [
-      "Your next card is played twice this turn.",
-      "Your next ",
-      " cards are played twice this turn."
+      "Следующая разыгранная на этом ходу карта будет разыграна дважды.",
+      "Следующие ",
+      " разыгранных на этом ходу карт будут разыграны дважды."
     ]
   },
   "BlockReturnPower": {
-    "NAME": "Block Return",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
       "When attacked, you gain #b",
       " #yBlock."
     ]
   },
   "Adaptation": {
-    "NAME": "Adaptation",
+    "NAME": "Адаптацияя",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, draw #b",
-      " card."
+      "Когда вы переходите между #yСтойками, вы берёте #b",
+      " карт."
     ]
   }
 }

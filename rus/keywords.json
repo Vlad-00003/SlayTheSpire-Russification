@@ -187,6 +187,8 @@
         "оставить",
         "оставляете",
         "оставите"
+		"оставляется",
+		"оставляемые"
       ],
       "DESCRIPTION": "Оставленные карты не сбрасываются в конце вашего хода."
     },
@@ -310,53 +312,57 @@
     },
     "SCRY": {
       "NAMES": [
-        "scry"
+        "прозрение",
+		"прозрите"
       ],
-      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
+      "DESCRIPTION": "Просмотрите !M! карт на верху стопки добора. Вы сможете сбросить любые из них."
     },
     "PRAYER": {
       "NAMES": [
-        "mantra",
-        "through violence"
+        "мантры",
+        "путём насилия"
       ],
-      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+      "DESCRIPTION": "Когда вы накапливаете #b10 #yМантры, вы переходите в #yБожественность."
     },
     "STANCE": {
       "NAMES": [
-        "stance",
-        "stances"
+        "стойка",
+        "стойки",
+		"стойке",
+		"стойками"
       ],
-      "DESCRIPTION": "You can only have one stance at a time."
+      "DESCRIPTION": "Вы можете находится только в одной Стойке."
     },
     "DIVINITY": {
       "NAMES": [
-        "divinity"
+        "божественность"
       ],
       "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
     },
     "WRATH": {
       "NAMES": [
-        "wrath"
+        "гнев"
       ],
-      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
+      "DESCRIPTION": "В этой #yСтойке, вы наносите и получаете двойной урон от атак."
     },
     "REGEN": {
       "NAMES": [
-        "regen"
+        "регенерации",
+		"регенерация"
       ],
-      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+      "DESCRIPTION": "Регенерация восполняет ОЗ в конце вашего хода. Каждый ход Регенерация снижается на #b1."
     },
     "CALM": {
       "NAMES": [
-        "calm"
+        "спокойствие"
       ],
-      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+      "DESCRIPTION": "После выхода из этой #yСтойки, даёт [W] [W] ."
     },
     "VIGOR": {
       "NAMES": [
-        "vigor"
+        "бодрость"
       ],
-      "DESCRIPTION": "Your next Attack deals additional damage."
+      "DESCRIPTION": "Ваша следующая атака наносит дополнительный урон."
     }
   }
 }
