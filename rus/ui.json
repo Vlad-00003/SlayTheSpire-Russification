@@ -71,7 +71,8 @@
       "Заблокировано",
       "Латоносец",
       "Безмолвная",
-      "Дефект"
+      "Дефект",
+      "the Watcher"
     ]
   },
   "AbstractPotion": {
@@ -157,7 +158,8 @@
       "Картинки бета-версий карт Латоносца разблокированы!",
       "Картинки бета-версий карт Безмолвной разблокированы!",
       "Картинки бета-версий карт Дефекта разблокированы!",
-      "Картинки бета-версий всех карт разблокированы!"
+      "Картинки бета-версий всех карт разблокированы!",
+      "Watcher Beta Card Art Unlocked!"
     ]
   },
   "BetterToHandAction": {
@@ -239,7 +241,8 @@
       "Бесцветные",
       "Проклятия",
       "Статусы",
-      "Просмотреть улучшение"
+      "Просмотреть улучшение",
+      "Purple"
     ]
   },
   "CardRewardScreen": {
@@ -249,7 +252,8 @@
       "+2 Макс. ОЗ",
       "ГОЛОСУЙТЕ: осталось ",
       " сек.",
-      "Просмотреть улучшение"
+      "Просмотреть улучшение",
+      "Choose One"
     ]
   },
   "CharacterOption": {
@@ -263,7 +267,8 @@
       " Открытий осталось",
       "Неизвестно",
       "???",
-      " до следующей разблокировки"
+      " до следующей разблокировки",
+      "This character is unlocked by completing a Standard run and having the 3rd character unlocked."
     ]
   },
   "CharacterSelectScreen": {
@@ -281,7 +286,8 @@
       "Зерно ",
       "Случайное зерно",
       "Зерно определяет все случайные элементы, встречающиеся на вылазке.",
-      "Установить зерно"
+      "Установить зерно",
+      "The Watcher"
     ]
   },
   "ChooseOneScreen": {
@@ -722,7 +728,8 @@
       "Лучший счёт",
       "Option 6. DO NOT TRANSLATE",
       "Друзья",
-      "Глобально"
+      "Глобально",
+      "Watcher"
     ]
   },
   "LeaderboardsScreen": {
@@ -850,7 +857,9 @@
       "Свободная игра",
       "Создайте уникальную вылазку, подобрав модификаторы на свой вкус.",
       "Изменить настройки управления.",
-      "Изменить настройки графики, звука и игрового процесса."
+      "Изменить настройки графики, звука и игрового процесса.",
+      "Potion Lab",
+      "Observe the numerous potions found climbing the Spire."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -862,7 +871,7 @@
       "О нет!"
     ]
   },
-   "MiscConsoleStrings": {
+  "MiscConsoleStrings": {
     "TEXT": [
       "Нажмите ",
       " чтобы начать",
@@ -872,7 +881,7 @@
       "Войти",
       "Выйти"
     ]
-  }, 
+  },
   "OpeningAction": {
     "TEXT": [
       "Этот враг не планирует атаковать!"
@@ -1154,7 +1163,8 @@
       "Ежедневная вылазка",
       "Зерно: %s",
       "Выбранное зерно: %s",
-      "d MMMM yyyy, HH:mm"
+      "d MMMM yyyy, HH:mm",
+      "The Watcher"
     ]
   },
   "SaveSlot": {
@@ -1345,6 +1355,32 @@
       "Оставшееся золото",
       "Бонус за ОЗ",
       "Победа!"
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Choose 1 card to keep. The rest are exhausted."
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "This must be my only #rAttack!"
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Choose a Card to play."
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Return",
+      "Common:",
+      "The most frequent potions found in the Spire.",
+      "Uncommon:",
+      "Stronger potions which appear less often than common potions.",
+      "Rare:",
+      "Unique and powerful potions which are rarely seen."
     ]
   }
 }

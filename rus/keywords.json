@@ -307,6 +307,56 @@
         "рану"
       ],
       "DESCRIPTION": "Неиграбельные Статусные карты."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scry"
+      ],
+      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "through violence"
+      ],
+      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+    },
+    "STANCE": {
+      "NAMES": [
+        "stance",
+        "stances"
+      ],
+      "DESCRIPTION": "You can only have one stance at a time."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinity"
+      ],
+      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+    },
+    "WRATH": {
+      "NAMES": [
+        "wrath"
+      ],
+      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regen"
+      ],
+      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+    },
+    "CALM": {
+      "NAMES": [
+        "calm"
+      ],
+      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Your next Attack deals additional damage."
     }
   }
 }

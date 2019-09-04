@@ -180,5 +180,13 @@
     "TEXT": [
       "Охотница из туманных земель. NL Уничтожает врагов с помощью кинжалов и ядов."
     ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "The Watcher"
+    ],
+    "TEXT": [
+      "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
+    ]
   }
 }
