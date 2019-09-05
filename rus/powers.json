@@ -1120,13 +1120,13 @@
   "MasterRealityPower": {
     "NAME": "Подчинить реальность",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b????????",
+      "В начале вашего хода добавляет #b",
       "s into your hand.",
-      " into your hand."
+      " вам в руку."
     ]
   },
   "Grounded": {
-    "NAME": "Приземлённость",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
       "Когда вы разыгрываете #yНавык, вы переходите в #Спокойствие."
     ]
@@ -1171,13 +1171,13 @@
     ]
   },
   "EstablishmentPower": {
-    "NAME": "_-----",
+    "NAME": "Храм"
     "DESCRIPTIONS": [
       "Когда карта #yОставляется, её стоимость снижается на #b"
     ]
   },
   "Serenity": {
-    "NAME": "Безмятежность",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
       "Пока вы в #yСпокойствии, потери ОЗ снижены на #b"
     ]
@@ -1191,7 +1191,7 @@
     ]
   },
   "HotHot": {
-    "NAME": "ГОРИТ ГОРИТ",
+    "NAME": "DEPRECATED",
     "DESCRIPTIONS": [
       "Пока вы в #yГневе, вы наносите #b",
       " урона в ответ на получение урона от атак."
@@ -1212,14 +1212,14 @@
     ]
   },
   "BlockReturnPower": {
-    "NAME": "DEPRECATED",
+    "NAME": "Рекуперация",
     "DESCRIPTIONS": [
-      "When attacked, you gain #b",
-      " #yBlock."
+      "При атаке данной цели, даёт вам #b",
+      " #yЗащиты."
     ]
   },
   "Adaptation": {
-    "NAME": "Адаптацияя",
+    "NAME": "Адаптация",
     "DESCRIPTIONS": [
       "Когда вы переходите между #yСтойками, вы берёте #b",
       " карт."

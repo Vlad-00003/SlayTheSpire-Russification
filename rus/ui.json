@@ -72,7 +72,7 @@
       "Латоносец",
       "Безмолвная",
       "Дефект",
-      "the Watcher"
+      "Созерцающая"
     ]
   },
   "AbstractPotion": {
@@ -159,7 +159,7 @@
       "Картинки бета-версий карт Безмолвной разблокированы!",
       "Картинки бета-версий карт Дефекта разблокированы!",
       "Картинки бета-версий всех карт разблокированы!",
-      "Watcher Beta Card Art Unlocked!"
+      "Картинки бета-версий карт Созерцающей разблокированы!"
     ]
   },
   "BetterToHandAction": {
@@ -242,7 +242,7 @@
       "Проклятия",
       "Статусы",
       "Просмотреть улучшение",
-      "Purple"
+      "Пурпурный"
     ]
   },
   "CardRewardScreen": {
@@ -253,7 +253,7 @@
       "ГОЛОСУЙТЕ: осталось ",
       " сек.",
       "Просмотреть улучшение",
-      "Choose One"
+      "Выберите одно"
     ]
   },
   "CharacterOption": {
@@ -268,7 +268,7 @@
       "Неизвестно",
       "???",
       " до следующей разблокировки",
-      "This character is unlocked by completing a Standard run and having the 3rd character unlocked."
+      "Чтобы открыть этого персондажа, завершите одну вылазку после открытия третьего персонажа."
     ]
   },
   "CharacterSelectScreen": {
@@ -287,7 +287,7 @@
       "Случайное зерно",
       "Зерно определяет все случайные элементы, встречающиеся на вылазке.",
       "Установить зерно",
-      "The Watcher"
+      "Созерцающая"
     ]
   },
   "ChooseOneScreen": {
@@ -729,7 +729,7 @@
       "Option 6. DO NOT TRANSLATE",
       "Друзья",
       "Глобально",
-      "Watcher"
+      "Созерцающая"
     ]
   },
   "LeaderboardsScreen": {
@@ -858,8 +858,8 @@
       "Создайте уникальную вылазку, подобрав модификаторы на свой вкус.",
       "Изменить настройки управления.",
       "Изменить настройки графики, звука и игрового процесса.",
-      "Potion Lab",
-      "Observe the numerous potions found climbing the Spire."
+      "Алхимическая лаборатория",
+      "Здесь вы можете изучить различные зелья встречающиеся в Шпиле."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -998,7 +998,7 @@
   },
   "ReprogramAction": {
     "TEXT": [
-      "сбросить."
+      "Выберите любое количество карт для сброса."
     ]
   },
   "Rest Option": {
@@ -1164,7 +1164,7 @@
       "Зерно: %s",
       "Выбранное зерно: %s",
       "d MMMM yyyy, HH:mm",
-      "The Watcher"
+      "Созерцающая"
     ]
   },
   "SaveSlot": {
@@ -1359,28 +1359,28 @@
   },
   "ClarityAction": {
     "TEXT": [
-      "Choose 1 card to keep. The rest are exhausted."
+      "Выберите 1 карту. Все оставшиеся будут Сожжены."
     ]
   },
   "SignatureMoveMessage": {
     "TEXT": [
-      "This must be my only #rAttack!"
+      "Это должна быть единственная #rАтака!"
     ]
   },
   "WishAction": {
     "TEXT": [
-      "Choose a Card to play."
+      "Выберите карту чтобы разыграть."
     ]
   },
   "PotionViewScreen": {
     "TEXT": [
-      "Return",
-      "Common:",
-      "The most frequent potions found in the Spire.",
-      "Uncommon:",
-      "Stronger potions which appear less often than common potions.",
-      "Rare:",
-      "Unique and powerful potions which are rarely seen."
+      "Вернуться",
+      "Обычные:",
+      "Эти зелья можно часто встретить в Шпиле.",
+      "Необычные:",
+      "Сильные зелья, встречающиеся не так часто как обычные.",
+      "Редкие:",
+      "Могучие, уникальные зелья изредка попадающиеся в шпиле."
     ]
   }
 }

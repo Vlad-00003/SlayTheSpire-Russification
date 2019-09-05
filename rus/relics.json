@@ -183,7 +183,7 @@
     "NAME": "Призывающий колокол",
     "FLAVOR": "Когда вы подобрали этот колокол из тёмного железа, он трижды прозвенел, однако с тех пор не издал ни звука.",
     "DESCRIPTIONS": [
-      "При получении даёт #b3 #rПроклятия и #b3 реликвии.",
+      "При получении даёт особое #rПроклятие и #b3 реликвии.",
       "Колокол бьёт…",
       "Пропустить награды",
       "Закрыть"
@@ -496,7 +496,7 @@
     "NAME": "Парящий воздушный змей",
     "FLAVOR": "Змей кружит над вами во время битвы, движимый неведомой силой.",
     "DESCRIPTIONS": [
-      "Вы получаете [G] и сбрасываете #b2 карты в начале вашего хода."
+      "Вы получаете [G] при первом за ход сбросе карты."
     ]
   },
   "Ice Cream": {
@@ -1354,103 +1354,103 @@
     "NAME": "Наручный клинок",
     "FLAVOR": "Идеален для быстрых убийств.",
     "DESCRIPTIONS": [
-      "Карты #yАтаки, которые стоят #b0, наносят на #b3 урона больше."
+      "Карты #yАтаки, которые стоят #b0, наносят на #b4 урона больше."
     ]
   },
   "TeardropLocket": {
-    "NAME": "Teardrop Locket",
-    "FLAVOR": "Its owner blind, its contents unseen.",
+    "NAME": "Кулон-слеза",
+    "FLAVOR": "Незрячий владелец, незримое содержимое.",
     "DESCRIPTIONS": [
-      "Start each combat in #yCalm."
+      "Вы начинаете бой в #yСпокойствии."
     ]
   },
   "TungstenRod": {
-    "NAME": "Tungsten Rod",
-    "FLAVOR": "It's very very heavy.",
+    "NAME": "Жезл из вольфрама",
+    "FLAVOR": "Очень, ОЧЕНЬ тяжёлый.",
     "DESCRIPTIONS": [
-      "At the start of your turn, if it is before turn #b",
-      ", gain #yBlock equal to the current turn."
+      "В начале первых #b",
+      ", ходов даёт #yЗащиту в количестве равном номеру хода."
     ]
   },
   "VioletLotus": {
-    "NAME": "Violet Lotus",
+    "NAME": "Пурпурный лотос",
     "FLAVOR": "The old texts describe that the surface of \"mana pools\" were littered with these flowers.",
     "DESCRIPTIONS": [
-      "Whenever you exit #yCalm, gain an additional [E] ."
+      "При выходе из #yСпокойствия, даёт дополнительную [E] ."
     ]
   },
   "Melange": {
-    "NAME": "Melange",
-    "FLAVOR": "Mysterious sands from an unknown origin. Smells of cinnamon.",
+    "NAME": "Меланж",
+    "FLAVOR": "Загадочный песок с неясным происхождением. Пахнет корицей.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a #yMiracle into your hand."
+      "В начале каждого боя, добавляет карту #yЧудо в руку."
     ]
   },
   "SacredBark": {
-    "NAME": "Sacred Bark",
-    "FLAVOR": "A bark rumored to originate from the World tree.",
+    "NAME": "Святая кора",
+    "FLAVOR": "По слухам это кора с самого Мирового древа.",
     "DESCRIPTIONS": [
-      "Double the effectiveness of potions."
+      "Удваивает эффект зелий."
     ]
   },
   "StrikeDummy": {
-    "NAME": "Strike Dummy",
-    "FLAVOR": "It's beat up.",
+    "NAME": "Побитый манекен",
+    "FLAVOR": "На манекене живого места нет.",
     "DESCRIPTIONS": [
-      "Cards containing \"Strike\" deal #b",
-      " additional damage."
+      "Карты содержащие слово \"Удар\" наносят на #b",
+      " больше урона."
     ]
   },
   "Akabeko": {
-    "NAME": "Akabeko",
-    "FLAVOR": "\"Muuu~\"",
+    "NAME": "Акабеко",
+    "FLAVOR": "\"Мууу~\"",
     "DESCRIPTIONS": [
-      "Your first Attack each combat deals #b",
-      " additional damage."
+      "Первая разыгранная в каждом бою Атака наносит на #b",
+      " больше урона."
     ]
   },
   "CeramicFish": {
-    "NAME": "Ceramic Fish",
-    "FLAVOR": "Meticulously painted, these fish were revered to bring great fortune.",
+    "NAME": "Глиняная рыбка",
+    "FLAVOR": "Эти тщательно расписанные рыбки, приносят большую удачу.",
     "DESCRIPTIONS": [
-      "Whenever you add a card to your deck, gain #b",
-      " #yGold."
+      "Когда вы добавляете карту в колоду, даёт #b",
+      " #yЗолота."
     ]
   },
   "InkBottle": {
-    "NAME": "Ink Bottle",
-    "FLAVOR": "Once exhausted, appears to refill itself in a different color.",
+    "NAME": "Бутылка чернил",
+    "FLAVOR": "При каждом опустошении, наполняется чернилами нового цвета.",
     "DESCRIPTIONS": [
-      "Whenever you play #b10 cards, draw #b1 card."
+      "За каждые #b10 разыгранных карт, вы берёте #b1 карту."
     ]
   },
   "Yin": {
-    "NAME": "Yin",
-    "FLAVOR": "You cannot have light without dark. Or can you?",
+    "NAME": "Инь",
+    "FLAVOR": "Нет света без тьмы. Или есть?",
     "DESCRIPTIONS": [
-      "Whenever you play a #ySkill, gain #b1 temporary #yStrength."
+      "Когда вы разыгрываете #yНавык, даёт #b1 временную #yСилу."
     ]
   },
   "SlaversCollar": {
-    "NAME": "Slaver's Collar",
-    "FLAVOR": "Rusty miserable chains.",
+    "NAME": "Ошейник рабовладельца",
+    "FLAVOR": "Давящие, ржавые цепи.",
     "DESCRIPTIONS": [
-      "During Boss and Elite combats, gain [E] at the start of your turn."
+      "В бою с Элитными врагами и Боссами, даёт [E] в начале каждого хода."
     ]
   },
   "CloakClasp": {
-    "NAME": "Cloak Clasp",
-    "FLAVOR": "A simple but sturdy design.",
+    "NAME": "Защёлка для плаща",
+    "FLAVOR": "Грубая, но крепкая поделка.",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yBlock for each card in your hand."
+      "В конце вашего хода, даёт #b",
+      " #yЗащиты за каждую карту у вас в руке."
     ]
   },
   "Yang": {
-    "NAME": "Yang",
-    "FLAVOR": "\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth",
+    "NAME": "Ян",
+    "FLAVOR": "\"И солнце потухло, как если б пред ним опустился занавес.\" - Зорот",
     "DESCRIPTIONS": [
-      "Whenever you play an #yAttack, gain #b1 temporary #yDexterity."
+      "Когда вы разыгрываете #yАтаку, даёт #b1 временную #yЛовкость."
     ]
   }
 }

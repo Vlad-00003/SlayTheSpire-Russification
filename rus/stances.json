@@ -6,21 +6,21 @@
     ]
   },
   "Wrath": {
-    "NAME": "Wrath",
+    "NAME": "Гнев",
     "DESCRIPTION": [
-      "Your Attacks deal double damage and you take double damage from attacks."
+      "Ваши атаки наносят удвоенный урон, но и вы получаете удвоенный урон от атак."
     ]
   },
   "Calm": {
-    "NAME": "Calm",
+    "NAME": "Спокойствие",
     "DESCRIPTION": [
-      "Upon exiting this #yStance, gain [W] [W] ."
+      "При выходе из этой #yСтойки, вы получаете [W] [W] ."
     ]
   },
   "Divinity": {
-    "NAME": "Divinity",
+    "NAME": "Божественность",
     "DESCRIPTION": [
-      "Upon entering this #yStance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+      "При входе в эту #yСтойку, вы получаете [W] [W] [W] . Атаки наносят тройной урон. Вы выйдете из этой #yСтойки в начале вашего следующего хода."
     ]
   }
 }
