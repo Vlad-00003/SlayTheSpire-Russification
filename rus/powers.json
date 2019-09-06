@@ -1120,9 +1120,10 @@
   "MasterRealityPower": {
     "NAME": "Подчинить реальность",
     "DESCRIPTIONS": [
-      "В начале вашего хода добавляет #b",
-      "",
-      " вам в руку."
+	  "В начале вашего хода добавляет #b",
+      " карт #y",
+      " вам в руку.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
     ]
   },
   "Grounded": {

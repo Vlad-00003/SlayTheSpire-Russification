@@ -1189,8 +1189,9 @@
     "NAME": "Master Reality",
     "DESCRIPTIONS": [
       "At the start of your turn, add #b",
-      "",
-      " into your hand."
+      " #y",
+      " into your hand.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
     ]
   },
   "StrikeUp": {
