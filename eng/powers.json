@@ -1043,14 +1043,15 @@
     "NAME": "Adaptation",
     "DESCRIPTIONS": [
       "Whenever you switch #yStances, draw #b",
-      " card."
+      " card.",
+      " cards."
     ]
   },
   "Mastery": {
     "NAME": "DEPRECATED Mastery",
     "DESCRIPTIONS": [
       "Whenever you attempt to switch Stances to your current Stance, gain #b",
-      " [B]."
+      " [W]."
     ]
   },
   "Controlled": {
@@ -1115,7 +1116,7 @@
     ]
   },
   "AngelForm": {
-    "NAME": "Deva",
+    "NAME": "DEPRECATED AngelForm",
     "DESCRIPTIONS": [
       "At the end of your turn, gain #b",
       " #yPlated #yArmor."
@@ -1145,7 +1146,8 @@
   "EstablishmentPower": {
     "NAME": "Establishment",
     "DESCRIPTIONS": [
-    "Whenever a card is #yRetained, lower its cost by #b"
+    "Whenever a card is #yRetained, lower its cost by #b",
+    "."
 	]
   },
   "DevotionPower": {
@@ -1187,7 +1189,7 @@
     "NAME": "Master Reality",
     "DESCRIPTIONS": [
       "At the start of your turn, add #b",
-      "s into your hand.",
+      "",
       " into your hand."
     ]
   },

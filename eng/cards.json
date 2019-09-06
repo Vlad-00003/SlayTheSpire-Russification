@@ -1666,7 +1666,7 @@
     "UPGRADE_DESCRIPTION": "Enter Calm. NL Draw !M! cards."
   },
   "Serenity": {
-    "NAME": "Serenity",
+    "NAME": "DEPRECATED Serenity",
     "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
   },
   "Crescendo": {
