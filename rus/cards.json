@@ -1597,7 +1597,7 @@
   },
   "PathToVictory": {
     "NAME": "Путь к победе",
-    "DESCRIPTION": "Вы берёте 1 карту. Она стоит 0 в текущем ходу. NL Сжигается.",
+    "DESCRIPTION": "Вы берёте 1 карту. Она стоит 0 в этом ходу. NL Сжигается.",
     "UPGRADE_DESCRIPTION": ""
   },
   "LessonLearned": {
