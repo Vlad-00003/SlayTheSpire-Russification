@@ -1724,8 +1724,8 @@
   },
   "Judgement": {
     "NAME": "Приговор",
-    "DESCRIPTION": "Если ОЗ врага равно или меньше !M!, снижает его NL ОЗ до 0."
-	"EXTENDED_DESCRIPTION": [
+    "DESCRIPTION": "Если ОЗ врага равно или меньше !M!, снижает его NL ОЗ до 0.",
+    "EXTENDED_DESCRIPTION": [
       "ВИНОВЕН"
     ]
   },
