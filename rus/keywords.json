@@ -338,7 +338,7 @@
       "NAMES": [
         "божественность"
       ],
-      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+      "DESCRIPTION": "При входе в эту стойку вы получаете [W] [W] [W] . Атаки наносят тройной урон. Вы покините эту #yСтойку в начале следующего вашего хода."
     },
     "WRATH": {
       "NAMES": [
