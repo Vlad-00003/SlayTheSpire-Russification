@@ -1434,7 +1434,7 @@
     "DESCRIPTION": "Gain !B! Block for each Upgraded card in your hand."
   },
   "Judgement": {
-    "NAME": "Judgement",
+    "NAME": "Judgment",
     "DESCRIPTION": "If the enemy has !M! or less HP, set their NL HP to 0.",
     "EXTENDED_DESCRIPTION": [
       "JUDGED"
@@ -1476,7 +1476,7 @@
   "Worship": {
     "NAME": "Worship",
     "DESCRIPTION": "Gain !M! Mantra.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Gain !M! Mantra."
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain !M! Mantra."
   },
   "Fasting": {
     "NAME": "Fasting",
@@ -1488,8 +1488,8 @@
   },
   "Wireheading": {
     "NAME": "Wireheading",
-    "DESCRIPTION": "At the end of your turn, Scry !M!.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the end of your turn, Scry !M!."
+    "DESCRIPTION": "At the start of your turn, Scry !M!.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, Scry !M!."
   },
   "ReachHeaven": {
     "NAME": "Reach Heaven",
@@ -1649,8 +1649,8 @@
     "DESCRIPTION": "Deal !D! damage. NL Enter Wrath."
   },
   "ClearTheMind": {
-    "NAME": "Clear the Mind",
-    "DESCRIPTION": "Enter Calm. NL Exhaust."
+    "NAME": "Tranquility",
+    "DESCRIPTION": "Retain. NL Enter Calm. NL Exhaust."
   },
    "WaveOfTheHand": {
     "NAME": "Wave of the Hand",

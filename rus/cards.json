@@ -1314,11 +1314,11 @@
   "Worship": {
     "NAME": "Поклонение",
     "DESCRIPTION": "Даёт !M! Мантры.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Даёт !M! Мантры."
+    "UPGRADE_DESCRIPTION": "Оставляется. NL Даёт !M! Мантры."
   },
   "ClearTheMind": {
-    "NAME": "Освободить разум",
-    "DESCRIPTION": "Перейти в Спокойствие. NL Сжигается."
+    "NAME": "Успокоение",
+    "DESCRIPTION": "Оставляется. NL Перейти в Спокойствие. NL Сжигается."
   },
   "DeceiveReality": {
     "NAME": "Обмануть реальность",

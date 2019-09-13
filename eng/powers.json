@@ -1055,7 +1055,7 @@
     ]
   },
   "Controlled": {
-    "NAME": "Controlled",
+    "NAME": "Mental Fortress",
     "DESCRIPTIONS": [
       "Whenever you switch #yStances, gain #b",
       " #yBlock."
@@ -1125,7 +1125,8 @@
   "WireheadingPower": {
     "NAME": "Wireheading",
 	"DESCRIPTIONS": [
-    "At the start of your turn, #yScry "
+    "At the start of your turn, #yScry #b",
+    "."
 	]
   },
   "Vault": {
