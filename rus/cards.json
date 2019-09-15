@@ -1298,7 +1298,7 @@
     "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
   },
   "Establishment": {
-    "NAME": "Храм",
+    "NAME": "Самообладание",
     "DESCRIPTION": "Снижает стоимость Оставленных в конце вашего хода карт на !M!.",
     "UPGRADE_DESCRIPTION": "Начальная. NL Снижает стоимость Оставленных в конце вашего хода карт на !M!."
   },
@@ -1317,7 +1317,7 @@
     "UPGRADE_DESCRIPTION": "Оставляется. NL Даёт !M! Мантры."
   },
   "ClearTheMind": {
-    "NAME": "Успокоение",
+    "NAME": "Умиротворённость",
     "DESCRIPTION": "Оставляется. NL Перейти в Спокойствие. NL Сжигается."
   },
   "DeceiveReality": {
@@ -1340,7 +1340,7 @@
     "UPGRADE_DESCRIPTION": "Gain !B! Block. If the previous card played was an Attack, return this card to your hand."
   },
   "Vault": {
-    "NAME": "Перепрыгнуть",
+    "NAME": "Кульбит",
     "DESCRIPTION": "Даёт 1 Неосязаемости и завершает ваш ход. NL Наносит !D! урона в начале вашего след. хода. Сжигается."
   },
   "ThirdEye": {
@@ -1381,7 +1381,7 @@
     "UPGRADE_DESCRIPTION": "Добавляет Улучшенную карту *Обусловленность стопку добора. NL Сжигается."
   },
   "MentalFortress": {
-    "NAME": "Крепость ума",
+    "NAME": "Непоколебимость",
     "DESCRIPTION": "Даёт !M! Защиты, когда вы меняете Стойку."
   },
   "Flicker": {
@@ -1389,7 +1389,7 @@
     "DESCRIPTION": "Deal !D! damage. If this kills the enemy, return this card to your hand."
   },
   "Safety": {
-    "NAME": "Кров",
+    "NAME": "Пристанище",
     "DESCRIPTION": "Оставляется. NL Даёт !B! Защиты. NL Сжигается."
   },
   "Fasting": {
@@ -1426,7 +1426,7 @@
     "DESCRIPTION": "Наносит !D! урона ВСЕМ противникам."
   },
   "FlurryOfBlows": {
-    "NAME": "Тайфун разрушений",
+    "NAME": "Натиск",
     "DESCRIPTION": "Наносит !D! урона. NL Возвращается в руку из Стопки сброса при смене Стойки."
   },
   "Crescendo": {
@@ -1488,7 +1488,7 @@
     "DESCRIPTION": "В Спокойствии: накладывает !M! Слабости. NL В Гневе: накладывает !M! Уязвимости."
   },
   "DeusExMachina": {
-    "NAME": "Божественное вмешательство",
+    "NAME": "Деус экс махина",
     "DESCRIPTION": "Неиграбельная. NL Добавляет !M! карт *Чудо в руку и Сжигается, когда вы её берёте."
   },
   "Windup": {
@@ -1574,7 +1574,7 @@
     "UPGRADE_DESCRIPTION": "Просмотрите !M! карты на стопке добора. Выберите 1 и положите её в руку. NL Сжигает невыбранные карты."
   },
   "Prostrate": {
-    "NAME": "Преклониться",
+    "NAME": "Склониться",
     "DESCRIPTION": "Даёт !M! Мантры. NL Даёт !B! Защиты.",
     "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
@@ -1601,7 +1601,7 @@
     "UPGRADE_DESCRIPTION": ""
   },
   "LessonLearned": {
-    "NAME": "Век живи — век учись",
+    "NAME": "Усвоенный урок",
     "DESCRIPTION": "Наносит !D! урона. NL Убив врага, Улучшает случайную карту в колоде. Сжигается."
   },
   "Devotion": {
@@ -1661,7 +1661,7 @@
     "DESCRIPTION": "Вы наносите и получаете двойной урон от атак."
   },
   "InnerPeace": {
-    "NAME": "Умиротворённость",
+    "NAME": "Внутренний покой",
     "DESCRIPTION": "Перейти в Спокойствие. NL В Спокойствии: вы берёте !M! карты."
   },
   "Eruption": {
@@ -1791,7 +1791,7 @@
     "UPGRADE_DESCRIPTION": "Draw 1 card. NL Retains."
   },
   "Protect": {
-    "NAME": "Защитить",
+    "NAME": "Защититься",
     "DESCRIPTION": "Оставляется. NL Даёт !B! Защиты."
   },
   "WindmillStrike": {
