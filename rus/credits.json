@@ -100,6 +100,8 @@
       "Джейд «HobNob» Стеванович (Jade «HobNob» Stevanovic)",
       "Марко Меро (Mero Marco)",
       "Луиджи Скварцина (Luigi Squarzina)"
+      "Тестирование:",
+      "Mattylink Heropon"
     ]
   },
   "LOC_JPN": {
@@ -234,6 +236,19 @@
       "Правки и перевод:",
       "Василь «RDSk» Михалюк (Vasyl «RDSk» Mykhaliuk)",
       "Артём «Crazytosik» Земляни (Artem «Crazytosik» Zemlianyi)"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Перевод на вьетнамский",
+    "NAMES": [
+      "Команда переводчиков MercTrans",
+      "Перевод:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Ведущий лингвист/Координирование:",
+      "Hoang Son Do",
+      "Особая благодарность:",
+      "Azy Tazer"
     ]
   },
   "LOC_ZHS": {
