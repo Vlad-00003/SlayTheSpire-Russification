@@ -1303,8 +1303,8 @@
   },
   "Nirvana": {
     "NAME": "Nirvana",
-    "DESCRIPTION": "Whenever you play a card, Upgrade it for the rest of combat.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card, Upgrade it for the rest of combat."
+    "DESCRIPTION": "Whenever you Scry, gain !M! Block.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "EmptyFist": {
     "NAME": "Empty Fist",
@@ -1511,8 +1511,8 @@
   },
   "Meditate": {
     "NAME": "Meditate",
-    "DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm.",
-    "UPGRADE_DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm."
+    "DESCRIPTION": "Put a card from your discard pile into your hand and Retain it. NL Enter Calm. NL End your turn.",
+    "UPGRADE_DESCRIPTION": "Put 2 cards from your discard pile into your hand and Retain them. NL Enter Calm. NL End your turn."
   },
   "Miracle": {
     "NAME": "Miracle",

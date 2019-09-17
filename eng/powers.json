@@ -1010,7 +1010,8 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Whenever you play a card, #yUpgrade it."
+        "Whenever you Scry, gain #b",
+        " Block."
     ]
   },
   "BackAttack": {
