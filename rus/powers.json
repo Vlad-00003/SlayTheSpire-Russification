@@ -1106,8 +1106,9 @@
   "BattleHymn": {
     "NAME": "Псалом битвы",
     "DESCRIPTIONS": [
-      "Стоимость первой карты взятой за ход снижается на #b",
-      " ."
+     "В начале каждого вашего хода, добавляет #b",
+     " карты #yКара в руку.",
+     " карт #yКара в руку."
     ]
   },
   "FlowPower": {
@@ -1121,10 +1122,10 @@
   "MasterRealityPower": {
     "NAME": "Подчинить реальность",
     "DESCRIPTIONS": [
-      "В начале вашего хода добавляет #b",
-      " карт #y",
-      " вам в руку.",
-      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+      "В конце вашего хода, наносит #b",
+      " урона случайному противнику за каждую Оставленную карту.",
+      "deprecated",
+      "deprecated"
     ]
   },
   "Grounded": {
