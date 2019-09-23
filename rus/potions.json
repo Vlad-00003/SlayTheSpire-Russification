@@ -37,11 +37,11 @@
   "Elixir": {
     "NAME": "Эликсир",
     "DESCRIPTIONS": [
-      "",
-      "",
-      "#yСжигает все карты #yСтатуса и #yПроклятий в руке.",
-      "",
-      "Ничего не произошло..."
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED"
     ]
   },
   "Energy Potion": {
@@ -122,8 +122,8 @@
   "Health Potion": {
     "NAME": "Зелье здоровья",
     "DESCRIPTIONS": [
-      "Восполняет #b",
-      " ОЗ."
+      "DEPRECATED",
+      "DEPRECATED"
     ]
   },
   "LiquidBronze": {
