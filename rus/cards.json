@@ -1833,14 +1833,14 @@
   },
   "BecomeAlmighty": {
     "NAME": "Бесконечное Могущество",
-    "DESCRIPTION": "Gain !M! Strength."
+    "DESCRIPTION": "Даёт !M! Силы."
   },
   "LiveForever": {
     "NAME": "Вечная Жизнь",
-    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+    "DESCRIPTION": "В  конце каждого вашего хода, даёт !M! Панциря."
   },
   "FameAndFortune": {
     "NAME": "Почёт и Достаток",
-    "DESCRIPTION": "Gain !M! Gold."
+    "DESCRIPTION": "Даёт !M! Золота."
   }  
 }
