@@ -1328,7 +1328,7 @@
   "CleanseEvil": {
     "NAME": "Искоренить зло",
     "DESCRIPTION": "Добавляет в руку X карт *Кара.",
-    "UPGRADE_DESCRIPTION": "Добавляет в руку X Улучшенных карт *Кара."
+    "UPGRADE_DESCRIPTION": "Добавляет в руку X карт *Кара+."
   },
   "LetFateDecide": {
     "NAME": "DEPRECATED Let Fate Decide",
@@ -1378,7 +1378,7 @@
   "Metaphysics": {
     "NAME": "Метафизика",
     "DESCRIPTION": "Добавляет карту *Обусловленность в стопку добора. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Добавляет Улучшенную карту *Обусловленность стопку добора. NL Сжигается."
+    "UPGRADE_DESCRIPTION": "Добавляет карту *Обусловленность+ в стопку добора. NL Сжигается."
   },
   "MentalFortress": {
     "NAME": "Непоколебимость",
@@ -1722,7 +1722,7 @@
   "CarveReality": {
     "NAME": "Изваять реальность",
     "DESCRIPTION": "Наносит !D! урона. NL  Добавляет карту *Кара в руку.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет Улучшенную карту *Кара в руку."
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет карту *Кара+ в руку."
   },
   "CurseOfTheBell": {
     "NAME": "Проклятье колокола",
