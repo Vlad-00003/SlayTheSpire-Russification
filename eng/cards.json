@@ -1877,7 +1877,7 @@
     "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
   },
   "LikeWater": {
-    "NAME": "LikeWater",
+    "NAME": "Like Water",
     "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
   }
 }
