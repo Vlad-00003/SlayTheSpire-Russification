@@ -921,7 +921,7 @@
   },
   "Reckless Charge": {
     "NAME": "Reckless Charge",
-    "DESCRIPTION": "Deal !D! damage. NL Shuffle a Dazed into your draw pile."
+    "DESCRIPTION": "Deal !D! damage. NL Shuffle a *Dazed into your draw pile."
   },
   "Recycle": {
     "NAME": "Recycle",
@@ -1379,7 +1379,8 @@
   },
   "Blasphemy": {
     "NAME": "Blasphemy",
-    "DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust."
+    "DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust.",
+	"UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
   },
   "Ragnarok": {
     "NAME": "Ragnarok",
@@ -1807,7 +1808,7 @@
   "Beta": {
     "NAME": "Beta",
     "DESCRIPTION": "Shuffle an *Omega into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
     "NAME": "Omega",
@@ -1854,12 +1855,12 @@
   "ConjureBlade": {
     "NAME": "Conjure Blade",
     "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an *Expunger+ into your draw pile. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Shuffle an *Expunger with X+1 into your draw pile. NL Exhaust."
   },
   "Expunger": {
     "NAME": "Expunger",
     "DESCRIPTION": "Deal !D! damage X times.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       "Deal !D! damage !M! times."
     ]
