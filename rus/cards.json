@@ -975,7 +975,7 @@
   },
   "Reprogram": {
     "NAME": "Программирование",
-    "DESCRIPTION": "Вы предсказываете !M! карты.",
+    "DESCRIPTION": "Отнимает !M! Фокуса. NL Даёт 1 Силы. NL Даёт 1 Ловкости.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -1587,7 +1587,7 @@
   },
   "Wish": {
     "NAME": "Желание",
-    "DESCRIPTION": "Выберите 1: !B! Панциря каждый ход, !D! Силы или !M! Золота",
+    "DESCRIPTION": "Выберите 1: !B! Панциря, !D! Силы или !M! Золота",
     "UPGRADE_DESCRIPTION": ""
   },
   "Meditate": {
@@ -1603,7 +1603,7 @@
     ]
   },
   "PathToVictory": {
-    "NAME": "Путь к победе",
+    "NAME": "Болевые точки",
     "DESCRIPTION": "Накладывает !M! *Метки. NL ВСЕ враги теряют ОЗ равное кол-ву *Меток на них",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -1821,7 +1821,7 @@
   "Wireheading": {
     "NAME": "Прозрение",
     "DESCRIPTION": "Вы Предсказываете !M! карты в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Вы Предсказываете !M! карты в начале каждого вашего хода."
+    "UPGRADE_DESCRIPTION": ""
   },
   "CutThroughFate": {
     "NAME": "Разрезать судьбу",
@@ -1842,7 +1842,7 @@
   },
   "LiveForever": {
     "NAME": "Вечная Жизнь",
-    "DESCRIPTION": "В  конце каждого вашего хода, даёт !M! Панциря."
+    "DESCRIPTION": "Даёт !M! Панциря."
   },
   "FameAndFortune": {
     "NAME": "Почёт и Достаток",
