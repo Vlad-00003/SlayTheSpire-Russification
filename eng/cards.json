@@ -1758,7 +1758,7 @@
     "NAME": "Brilliance",
     "DESCRIPTION": "Deal !D! damage. NL Deals additional damage equal to Mantra gained this combat.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gained !M! Mantra.)",
+      "",
       ""
     ]
   },
