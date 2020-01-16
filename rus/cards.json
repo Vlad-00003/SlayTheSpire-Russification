@@ -1587,7 +1587,7 @@
   },
   "Wish": {
     "NAME": "Желание",
-    "DESCRIPTION": "Выберите 1: !B! Панциря, !D! Силы или !M! Золота",
+    "DESCRIPTION": "Выберите 1: !B! Панциря, !D! Силы или !M! Золота. NL Сжигается.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Meditate": {
