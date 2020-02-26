@@ -142,7 +142,7 @@
       "Дополнительный перевод:",
       "Адриан «xeros» Ролка (Adrian «xeros» Rolka)",
       "Марек «Skorpionex» Мазур (Marek «Skorpionex» Mazur)",
-	  "Foreigner",
+      "Foreigner",
       "Корректировка:",
       "Оскар «volf3n» Новак (Oskar «volf3n» Nowak)",
       "Предложения и отзывы:",
@@ -174,11 +174,11 @@
       "Дмитрий «Regallion» Жиряков (Dmitry «Regallion» Zhiryakov)",
       "Помощь в переводе:",
       "Дмитрий «Gentle Giant» Гицман (Dmitry «Gentle Giant» Gitsman)",
-      "Неприм",
+      "«Неприм»",
       "Михаил «Outmind» Дюжев (Mikhail «Outmind» Dyuzhev)",
       "Богдан «DarkRosse» Калитюк (Bohdan «DarkRosse» Kalytiuk)",
       "Сергей «lol10801lol» К. (Sergey «lol10801lol» K.)",
-      "Ascimator",
+      "«Ascimator»",
       "Екатерина «Meds» Белименко-Болджер (Kateryna «Meds» Belimenko-Bolger)",
       "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)",
       "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)",
@@ -190,15 +190,21 @@
     "HEADER": "Перевод на испанский",
     "NAMES": [
       "Перевод и координация:",
+      "Джуанджо «ajuanjojjj» Мартинез (Juanjo «ajuanjojjj» Martinez)",
       "Педро-Луис «PerikiyoXD» Валадес Виера (Pedro Luis «PerikiyoXD» Valadés Viera)",
       "Перевод:",
-      "Ксавьер «xabad98» Абад Салинас (Xavier «xabad98» Abad Salinas)",
-      "Skiddome",
-      "Джуанджо «ajuanjojjj» Мартинез (Juanjo «ajuanjojjj» Martinez)",
+      "Эрик Маррокин (Erick Marroquin)",
+      "«Accord»",
+      "Хавьер «xabad98» Абад Салинас (Xavier «xabad98» Abad Salinas)",
+      "Серхио «Skiddome» Малагон (Sergio «Skiddome» Malagón)",
       "Педро Дж. «PJJLegend» Хименес (Pedro J. «PJJLegend» Jiménez)",
+      "Родриго «skylex» Забатаро (Rodrigo «skylex» Zabattaro)",
+      "Альберто «RadeonThe1st» Ботана (Alberto «RadeonThe1st» Botana)",
       "Художественный текст и вычитка:",
       "Хоакин «Pip1n» Лопез (Joaquín «Pip1n» López)",
-      "Xavier Castañer"
+      "Хавьер Кастанер (Xavier Castañer)",
+      "«Summer»",
+      "«Eipic»"
     ]
   },
   "LOC_SRB": {
@@ -226,8 +232,8 @@
       "Эрдем Гюрбюз (Erdem Gürbüz)",
       "Эге «sLanKy» Гючкеран (Ege «sLanKy» Güçkıran)",
       "«onparalelkenarag»",
-      "Berkan Çalıkoğlu",
-      "Ertürk Yılmaz"
+      "Беркан Каликоглу (Berkan Çalıkoğlu)",
+      "Эртюрк Йылмаз (Ertürk Yılmaz)"
     ]
   },
   "LOC_UKR": {
@@ -264,9 +270,9 @@
   "LOC_ZHT": {
     "HEADER": "Перевод на китайский (традиционный)",
     "NAMES": [
-      "professor",
-      "bowans",
-      "Angryfox"
+      "«professor»",
+      "«bowans»",
+      "«Angryfox»"
     ]
   },
   "OPS": {
@@ -340,7 +346,7 @@
       "Дэвид «divadus» Уиттингтон (David «divadus» Withington)",
       "Джейсон «Wyrm» Денг (Jason «Wyrm» Deng)",
       "Джонас «bigunit3000» Уилсон (Jonas «bigunit3000» Wilson)",
-      "TBytemaster"
+      "«TBytemaster»"
     ]
   },
   "THANKS_MSG": {
