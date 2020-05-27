@@ -115,17 +115,20 @@
   "LOC_KOR": {
     "HEADER": "Перевод на корейский",
     "NAMES": [
-      "Координация перевода:",
+      "Перевод и координация:",
       "«Eteriny»",
+      "Fissh",
+      "GyeRyak",
       "Перевод:",
       "«Simcoding»",
       "«DesFrog»",
-      "«Fissh»",
       "«insight»",
       "«K4lium»",
       "«hina»",
-      "Перевод страницы магазина в Steam:",
-      "«GyeRyak»"
+      "Vekan",
+      "Шрифты:",
+      "Внутриигровой: GyeonggiCheonnyeon(Batang) от Gyeonggi-Do",
+      "Текст магазина: NanumBrush, NanumPen от NAVER Corporation"
     ]
   },
   "LOC_NOR": {
@@ -231,11 +234,13 @@
   "LOC_TUR": {
     "HEADER": "Перевод на турецкий",
     "NAMES": [
-      "Эрдем Гюрбюз (Erdem Gürbüz)",
+	  "Перевод и координация:",
+	  "Эртюрк Йылмаз (Ertürk Yılmaz)"     
+	  "Перевод:",
+	  "Эрдем Гюрбюз (Erdem Gürbüz)",
       "Эге «sLanKy» Гючкеран (Ege «sLanKy» Güçkıran)",
       "«onparalelkenarag»",
-      "Беркан Каликоглу (Berkan Çalıkoğlu)",
-      "Эртюрк Йылмаз (Ertürk Yılmaz)"
+      "Беркан Каликоглу (Berkan Çalıkoğlu)"     
     ]
   },
   "LOC_UKR": {
@@ -336,7 +341,7 @@
       "Райан Матисен (Ryan Mathisen)",
       "Энтони Макмиллиан (Anthony McMillian)",
       "Брэд Майне (Brad Meine)",
-      "Джейкоб Моррис (Jacob Morris)",
+	  "Джейд Уэсли (Jade Wesley)",
       "Алекс Рокуэлл (Alex Rockwell)",
       "Грег Шеопнер (Greg Scheopner)",
       "Джон «Slide20xl» Смит (John «Slide20x1» Smith)",
