@@ -147,8 +147,8 @@
   },
   "Bloodletting": {
     "NAME": "Bloodletting",
-    "DESCRIPTION": "Lose 3 HP. NL Gain [R].",
-    "UPGRADE_DESCRIPTION": "Lose 3 HP. NL Gain [R] [R]."
+    "DESCRIPTION": "Lose 3 HP. NL Gain [R] [R].",
+    "UPGRADE_DESCRIPTION": "Lose 3 HP. NL Gain [R] [R] [R]."
   },
   "Bludgeon": {
     "NAME": "Bludgeon",
@@ -933,7 +933,7 @@
   },
   "Reflex": {
     "NAME": "Reflex",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! card.",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! cards.",
     "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! cards.",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
@@ -949,7 +949,7 @@
   },
   "Reprogram": {
     "NAME": "Reprogram",
-    "DESCRIPTION": "Lose !M! Focus. NL Gain 1 Strength. NL Gain 1 Dexterity.",
+    "DESCRIPTION": "Lose !M! Focus. NL Gain !M! Strength. NL Gain !M! Dexterity.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -962,7 +962,7 @@
   },
   "Rupture": {
     "NAME": "Rupture",
-    "DESCRIPTION": "Whenever you lose HP from a card, NL gain 1 Strength."
+    "DESCRIPTION": "Whenever you lose HP from a card, NL gain !M! Strength."
   },
   "Sadistic Nature": {
     "NAME": "Sadistic Nature",

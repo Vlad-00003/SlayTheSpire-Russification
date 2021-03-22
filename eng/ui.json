@@ -1387,5 +1387,10 @@
     "TEXT": [
       "Choose a Card to play."
     ]
+  },
+  "SyncMessage": {
+    "TEXT": [
+      "Syncing data..."
+    ]
   }
 }
