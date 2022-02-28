@@ -1411,7 +1411,7 @@
   "Blasphemy": {
     "NAME": "Святотатство",
     "DESCRIPTION": "Перейти в Божественность. NL Вы умрёте на след. ход. NL Сжигается.",
-	"UPGRADE_DESCRIPTION": "Оставляется. NL Перейти в Божественность. NL Вы умрёте на след. ход. NL Сжигается."
+    "UPGRADE_DESCRIPTION": "Оставляется. NL Перейти в Божественность. NL Вы умрёте на след. ход. NL Сжигается."
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",

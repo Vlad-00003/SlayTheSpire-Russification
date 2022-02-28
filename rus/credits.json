@@ -28,7 +28,6 @@
   "LOC_CAT": {
     "HEADER": "Перевод на каталанский",
     "NAMES": []
-    
   },
   "LOC_DEU": {
     "HEADER": "Перевод на немецкий",
@@ -234,13 +233,13 @@
   "LOC_TUR": {
     "HEADER": "Перевод на турецкий",
     "NAMES": [
-	  "Перевод и координация:",
-	  "Эртюрк Йылмаз (Ertürk Yılmaz)",    
-	  "Перевод:",
-	  "Эрдем Гюрбюз (Erdem Gürbüz)",
+      "Перевод и координация:",
+      "Эртюрк Йылмаз (Ertürk Yılmaz)",
+      "Перевод:",
+      "Эрдем Гюрбюз (Erdem Gürbüz)",
       "Эге «sLanKy» Гючкеран (Ege «sLanKy» Güçkıran)",
       "«onparalelkenarag»",
-      "Беркан Каликоглу (Berkan Çalıkoğlu)"     
+      "Беркан Каликоглу (Berkan Çalıkoğlu)"
     ]
   },
   "LOC_UKR": {
@@ -341,7 +340,7 @@
       "Райан Матисен (Ryan Mathisen)",
       "Энтони Макмиллиан (Anthony McMillian)",
       "Брэд Майне (Brad Meine)",
-	  "Джейд Уэсли (Jade Wesley)",
+      "Джейд Уэсли (Jade Wesley)",
       "Алекс Рокуэлл (Alex Rockwell)",
       "Грег Шеопнер (Greg Scheopner)",
       "Джон «Slide20xl» Смит (John «Slide20x1» Smith)",
@@ -405,6 +404,15 @@
       "Kakehashi Games (официальный перевод):",
       "Поддержка японского издания:  Kakehashi Games",
       "Японская локализация:  Риэ Ихара (Rie Ihara)"
+    ]
+  },
+  "LOC_FIN": {
+    "HEADER": "Перевод на финский",
+    "NAMES": [
+      "jahasjahas",
+      "Juhana Uuttu",
+      "Murasaki#6571",
+      "Zalminen"
     ]
   }
 }

@@ -64,6 +64,15 @@
       "Spencer van der Meulen"
     ]
   },
+  "LOC_FIN": {
+    "HEADER": "Finnish Localization",
+    "NAMES": [
+      "jahasjahas",
+      "Juhana Uuttu",
+      "Murasaki#6571",
+      "Zalminen"
+    ]
+  },
   "LOC_FRA": {
     "HEADER": "French Localization",
     "NAMES": [
